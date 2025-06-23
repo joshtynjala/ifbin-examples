@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.0.2" -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+	<title>Aral Balkan</title>
+	<link>http://aralbalkan.com</link>
+	<description>Famous last words</description>
+	<pubDate>Fri, 11 Aug 2006 22:59:35 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.0.2</generator>
+	<language>en</language>
+			<item>
+		<title>SWF plug-in for WordPress</title>
+		<link>http://aralbalkan.com/682</link>
+		<comments>http://aralbalkan.com/682#comments</comments>
+		<pubDate>Fri, 11 Aug 2006 22:58:14 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>Flash</category>
+	<category>Wordpress</category>
+		<guid isPermaLink="false">http://aralbalkan.com/682</guid>
+		<description><![CDATA[
+Jim Calixto has written a WordPress plugin called WP-SWFObject for embedding SWF files that uses SWFObject. Great stuff &#8212; I&#8217;m off to download it now.
+
+]]></description>
+			<content:encoded><![CDATA[<div align="center"><a href="http://unijimpe.pandela.net/?p=18"><img src="images/wp-swf.gif" border="0"/></a></div>
+<p>Jim Calixto has written a WordPress plugin called <a href="http://unijimpe.pandela.net/?p=18">WP-SWFObject</a> for embedding SWF files that uses SWFObject. Great stuff &#8212; I&#8217;m off to download it now.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/682/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>I am in love (with a computer)</title>
+		<link>http://aralbalkan.com/681</link>
+		<comments>http://aralbalkan.com/681#comments</comments>
+		<pubDate>Fri, 11 Aug 2006 14:52:33 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>Mac</category>
+		<guid isPermaLink="false">http://aralbalkan.com/681</guid>
+		<description><![CDATA[My previous post was the first one that I made using my lovely new MacBook Pro. I just have to say: Oh my goodness, this is the most amazing computer I&#8217;ve ever had! 
+For one thing, I still can&#8217;t believe that I&#8217;ve basically switched to a different platform in less than a day. And by [...]]]></description>
+			<content:encoded><![CDATA[<p>My previous post was the first one that I made using my lovely new MacBook Pro. I just have to say: Oh my goodness, this is the most amazing computer I&#8217;ve ever had! </p>
+<p>For one thing, I still can&#8217;t believe that I&#8217;ve basically switched to a different platform in less than a day. And by switched, I mean that I am up and running and being nearly as productive as I was on my PC. I owe this, in great part, to Parallels. I am running Windows XP alongside OS X and it is working better than I thought possible. I&#8217;ve quickly come to the conclusion that the best place to run Windows is under OS X <img src='http://aralbalkan.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />  I mean it: It boots up faster under Parallels, shuts down faster and &#8212; I don&#8217;t know how this is possible &#8212; but actually feels faster than it did on my PC (and I have a monster of a PC whose specs match those of the MacBook Pro.)</p>
+<p>I am running  <a href="http://www.virtuedesktops.info/">VirtueDesktop</a> and have Windows XP running full-screen under Parallels on one virtual desktop and my Mac stuff on the other desktop. Ctrl+Shift+Left or Right Arrow lets me switch from Mac to PC and vice-versa in a flash with that lovely rotating cube effect. It completely rocks! </p>
+<p>I&#8217;ve started using Mail for my email and I&#8217;m generally really happy with it. It did mess up once (it mangled two emails &#8212; keeping the title for one and the body of another) but I&#8217;m using IMAP and that was apparently a problem with the local cache as it resolved itself when I copied the messages to a different folder and back. Oh yes, and it also doesn&#8217;t recognize the tags (labels) that Thunderbird puts on messages and saw all messages I&#8217;d tagged as Important as Junk Mail. I have to go through and fix that at some point!</p>
+<p>I also love DashBoard. No more messing with Yahoo Widgets (which was, at best, semi-reliable on my PC). In the absence of my beloved Snag-It, I&#8217;m using the <a href="http://www.apple.com/downloads/dashboard/business/screenshotplus.html">Screenshot Plus widget</a>. It lacks quite a few of the features that I&#8217;ve come to depend on in Snag-It but, in the short-term at least, it&#8217;s keeping me going!  In any case, the only thing I was really using Yahoo Widgets for was the Lazy Launcher widget for indexing and quickly launching applications. With Spotlight, I have a much faster/more stable solution for that. </p>
+<p>I even created my first little Automator workflow. A two-action script to open up the Choose Photo dialog in iPhoto and copy the results to the shared folder I have between my Mac and Windows XP under Parallels. (I&#8217;m using iPhoto to store/categorize my photos but I have Photoshop installed under Windows XP so, this way, I can share stuff between them.) I placed the workflow in the Scripts menu, installed <a href="http://www.red-sweater.com/fastscripts/">FastScripts Lite</a> and, using it, assigned a keyboard short-cut to it. </p>
+<p>Possibly the hardest thing is to get used to the different keyboard short-cuts when switching between operating systems so quickly. I kept mixing up Command, Control, etc. at the beginning but, after a day of use, I&#8217;m getting used to them and can switch almost as quickly as Virtue lets me! <img src='http://aralbalkan.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p>I was just telling Keith on IM: I haven&#8217;t been this excited about a computer since I got my first one twenty-two years ago.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/681/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Let them eat cake!</title>
+		<link>http://aralbalkan.com/680</link>
+		<comments>http://aralbalkan.com/680#comments</comments>
+		<pubDate>Fri, 11 Aug 2006 14:04:22 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>Flash</category>
+	<category>Community</category>
+		<guid isPermaLink="false">http://aralbalkan.com/680</guid>
+		<description><![CDATA[I woke up the other day to a very pleasant surprise: A delivery man with a tiny little package from Adobe with a birthday cake in it! Happy Birthday, Flash! (And Yummy!)
+I know everyone has blogged it to death, but in case you haven&#8217;t heard, Adobe has a feature up on the Developer Center on [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="images/adobe_cake1.jpg" align="left"/>I woke up the other day to a very pleasant surprise: A delivery man with a tiny little package from Adobe with a birthday cake in it! Happy Birthday, Flash! (And Yummy!)</p>
+<p><img src="images/adobe_cake2.jpg" align="right"/>I know everyone has blogged it to death, but in case you haven&#8217;t heard, Adobe has a feature up on the <a href="http://www.adobe.com/devnet/">Developer Center</a> on <a href="http://www.adobe.com/devnet/flash/articles/flash_anniversary.html"><br />
+Flash: Ten years, ten perspectives</a>. I was honored that Adobe asked to me to be <a href="http://www.adobe.com/devnet/flash/articles/flash_anniversary_02.html">one of the ten</a>.</p>
+<p>Here&#8217;s a big thank-you to everyone who has worked to make Flash what it is today &#8212; especially the amazing people on the Flash, Flash Player and Flex teams at Macromedia (and now Adobe, of course) and last, but definitely not least, our most amazing community! Love you guys! <img src='http://aralbalkan.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/680/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Come to papa!</title>
+		<link>http://aralbalkan.com/679</link>
+		<comments>http://aralbalkan.com/679#comments</comments>
+		<pubDate>Tue, 08 Aug 2006 13:36:10 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>Mac</category>
+		<guid isPermaLink="false">http://aralbalkan.com/679</guid>
+		<description><![CDATA[Oooh, oooh, oooh (my goodness, three oooh&#8217;s with three o&#8217;s each!) I just ordered my MacBook Pro from the little Mac place round the corner. 
+I&#8217;m getting the 15.4&#8243; model with the 2.16 Ghz processor. I would have picked it up today but I asked for an extra gig of RAM and they&#8217;ve ordered that [...]]]></description>
+			<content:encoded><![CDATA[<p>Oooh, oooh, oooh (my goodness, three oooh&#8217;s with three o&#8217;s each!) I just ordered my MacBook Pro from the little Mac place round the corner. </p>
+<p>I&#8217;m getting the 15.4&#8243; model with the 2.16 Ghz processor. I would have picked it up today but I asked for an extra gig of RAM and they&#8217;ve ordered that in for tomorrow. Of course, I&#8217;m getting the AppleCare 3-year protection plan with this baby and I checked on the net and it&#8217;s apparently one of the newer builds (serial number W8617&#8230;) so hopefully it won&#8217;t have the heating issue/whine/etc. that the first models had. </p>
+<p>Hand in hand with my new purchase, I&#8217;ll be getting a copy of Parallels and can&#8217;t wait to install Linux (Ubuntu most likely) and Windows on it. Oh damn, I just realized that all my licenses for Windows are OEM (they&#8217;re basically only valid on the machines I have them on.) Grrr&#8230; who would have thought that I&#8217;d be forced to buy a Windows license for the first time in my life when getting a Mac. Oh wait, I lie, there was that time I bought Windows Me. Oh no, there goes the fortune I spent in therapy trying to forget that experience! <img src='http://aralbalkan.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p><b>macVillePopulation++;</b> // Aral leaves PC world after 22 years
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/679/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Pictures from FlashDay, Istanbul</title>
+		<link>http://aralbalkan.com/678</link>
+		<comments>http://aralbalkan.com/678#comments</comments>
+		<pubDate>Tue, 08 Aug 2006 13:27:18 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>Flash</category>
+	<category>Conferences</category>
+	<category>Community</category>
+		<guid isPermaLink="false">http://aralbalkan.com/678</guid>
+		<description><![CDATA[
+Zehra just informed me in the comments that MMIstanbul has posted the photos from the FlashDay meeting in Istanbul that I spoke at through Breeze. It looks like they had a very cool venue and quite a turnout. I&#8217;m so happy to see the community alive and kicking in Turkey.
+
+]]></description>
+			<content:encoded><![CDATA[<div align="center"><img src="http://static.flickr.com/94/208424978_bd96bf0fee.jpg?v=0"/></div>
+<p>Zehra just informed me in the comments that MMIstanbul has posted the <a href="">photos from the FlashDay meeting in Istanbul</a> that I spoke at through Breeze. It looks like they had a very cool venue and quite a turnout. I&#8217;m so happy to see the community alive and kicking in Turkey.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/678/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Thoughts on the WWDC keynote and the new features in Leopard</title>
+		<link>http://aralbalkan.com/677</link>
+		<comments>http://aralbalkan.com/677#comments</comments>
+		<pubDate>Mon, 07 Aug 2006 19:01:09 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>Mac</category>
+		<guid isPermaLink="false">http://aralbalkan.com/677</guid>
+		<description><![CDATA[Well, no new MacBook Pro announcements at the keynote   Oh well, I really don&#8217;t mind getting one of the new Core Duos &#8212; Merom would&#8217;ve been great but is definitely not a deal-breaker. Some of the Leopard features that were mentioned sound very interesting. 
+One thing that caught my eye was the vastly [...]]]></description>
+			<content:encoded><![CDATA[<p>Well, no new MacBook Pro announcements at the keynote <img src='http://aralbalkan.com/wp-includes/images/smilies/icon_sad.gif' alt=':(' class='wp-smiley' />  Oh well, I really don&#8217;t mind getting one of the new Core Duos &#8212; Merom would&#8217;ve been great but is definitely not a deal-breaker. Some of the Leopard features that were mentioned sound very interesting. </p>
+<p>One thing that caught my eye was the vastly improved accessibility features. The transcript at MacRumors mentioned, for example, that the voiceovers sound completely human. </p>
+<p>The improvements to the widget development process with Web Clip sound fun too. </p>
+<p>I&#8217;m not sure if I&#8217;ll be using Mail when I switch (I&#8217;ll probably stay on with Thunderbird) so I wasn&#8217;t too interested in the eye candy they previewed for that. </p>
+<p>Time Machine definitely has privacy concerns (which I don&#8217;t believe were addressed at all during the keynote) but I can definitely see the advantage of having automatic backup built into the system. </p>
+<p>Some of the new features have me wondering if Apple is starting to move into new areas of competition with Adobe. For example, Dashcode is being billed as &#8220;a great visual editor for HTML and CSS.&#8221; Further: &#8220;We also ship with a rich parts library with search buttons and a JavaScript source editor and a full Javascript debugger.&#8221; </p>
+<p>In a similar vein, there&#8217;s Core Animation: </p>
+<blockquote><p>Core animation lets you dramatically increase the production values of your application. Lets you take a scene and decostruct it into layers. Text, images, video, OpenGL. You specify a start state, goal state and key frames optionally. Core Animation will automate the whole animation.</p></blockquote>
+<p>Is Apple jumping on to the RIA bandwagon to challenge the likes of Flex and the Microsoft&#8217;s will-be-ready-any-year-now WPF and WPF/e? </p>
+<p>The improvements to iChat were interesting and left me wondering how (and if) it would affect Adobe Breeze. I couldn&#8217;t believe that Apple included the green screen-without-a-green screen feature in it though as it doesn&#8217;t look good at all. There&#8217;s a very visible fringe around the person. I wouldn&#8217;t have expected that from such a shiny, design-conscious company. That must be giving Steve Jobs headaches at night.</p>
+<p>You can find <a href="http://www.engadget.com/2006/08/07/live-from-wwdc-2006-steve-jobs-keynote/">a comprehensive blog post on the WWDC &#8216;06 keynote, with pictures, on Engadget</a>. </p>
+<p>[Update] You can get <a href="http://www.apple.com/macosx/leopard/">a sneak peek at Leopard on Apple&#8217;s web site</a>.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/677/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Steve Jobs’ WWDC ‘06 keynote is about to begin</title>
+		<link>http://aralbalkan.com/676</link>
+		<comments>http://aralbalkan.com/676#comments</comments>
+		<pubDate>Mon, 07 Aug 2006 17:03:41 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>Mac</category>
+		<guid isPermaLink="false">http://aralbalkan.com/676</guid>
+		<description><![CDATA[After months of speculation and rumour, Steve Jobs is about to begin his keynote at WWDC &#8216;06 and give the world its first look at Leopard. Why am I interested? Well, apart from hoping that he&#8217;ll be announcing the immediate availability of Merom-based MacBook Pros (my cheque book is at hand), I want to learn [...]]]></description>
+			<content:encoded><![CDATA[<p>After months of speculation and rumour, Steve Jobs is about to begin his keynote at WWDC &#8216;06 and give the world its first look at Leopard. Why am I interested? Well, apart from hoping that he&#8217;ll be announcing the immediate availability of Merom-based MacBook Pros (my cheque book is at hand), I want to learn all about my future operating system (Leopard) as I&#8217;m switching to a Mac after about twenty two years on PCs, first with DOS, then Gem Desktop for a bit and, finally, Windows. </p>
+<p>Why? Well, quite frankly because I&#8217;ve had it with Windows. </p>
+<p>I&#8217;ve had it with some driver conflicting with the hibernation feature on my laptop and with Windows crashing while in Standby only to restart so that my notebook becomes a fiery inferno in my bag. I&#8217;ve had it with ridiculous boot up and shut-down times. I&#8217;ve had it with looking at Mac users with a tear in my eye as they close the lids on their laptops without a worry in the world. It&#8217;s the little things, perhaps &#8212; but it&#8217;s not little when you move around as much as I do. </p>
+<p>Oh, yeah, and they look lovely too! There, I&#8217;ve said it! <img src='http://aralbalkan.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p>Ooh, it&#8217;s started. You can <a href="http://www.macrumorslive.com/web/">read a live transcript from MacRumors.com</a>.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/676/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>AOL releases 20,000,000 or so search queries by around 500,000 of its users</title>
+		<link>http://aralbalkan.com/675</link>
+		<comments>http://aralbalkan.com/675#comments</comments>
+		<pubDate>Mon, 07 Aug 2006 15:22:55 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>General</category>
+		<guid isPermaLink="false">http://aralbalkan.com/675</guid>
+		<description><![CDATA[The shit appears to have hit the fan. I read about this on Digg and found that the blogosphere has exploded with commentary on the matter. 
+Techcrunch notes that the &#8220;utter stupidity of this is staggering.&#8221; Elsewhere, people are calling for a boycott of AOL. Personally, I&#8217;m not the least bit surprised. I&#8217;ve been warning [...]]]></description>
+			<content:encoded><![CDATA[<p>The shit appears to have hit the fan. I <a href="http://digg.com/tech_news/AOL_Releases_Search_Logs_from_500_000_Users">read about this on Digg</a> and found that the blogosphere has exploded with commentary on the matter. </p>
+<p><a href="http://www.techcrunch.com/2006/08/06/aol-proudly-releases-massive-amounts-of-user-search-data/">Techcrunch</a> notes that the &#8220;utter stupidity of this is staggering.&#8221; Elsewhere, <a href="http://www.zoliblog.com/blog/_archives/2006/8/6/2204969.html">people are calling for a boycott of AOL</a>. Personally, I&#8217;m not the least bit surprised. I&#8217;ve been warning people off of AOL for years for various reasons.</p>
+<p>Other links: <a href="http://plentyoffish.wordpress.com/2006/08/06/aol-releases-googles-most-prized-keyword-list-google-is-gonna-get-mega-spammed/">Paradigm shift blog post</a>, <a href="https://nalts.wordpress.com/2006/08/06/aol-proudly-releases-massive-amounts-of-private-data/">Will Video for Food blog post</a>, <a href="http://texturbation.com/blog/aoldata.jpg">screen capture of AOL Research site</a> (the actual site is currently down), and, if you want to look at the data yourself, <a href="http://www.gregsadetsky.com/aol-data/">someone has set up a mirror</a>.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/675/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>FlashDay, Istanbul: Celebrating 10 years of Flash</title>
+		<link>http://aralbalkan.com/673</link>
+		<comments>http://aralbalkan.com/673#comments</comments>
+		<pubDate>Fri, 04 Aug 2006 15:15:17 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>Flash</category>
+	<category>Conferences</category>
+	<category>Community</category>
+		<guid isPermaLink="false">http://aralbalkan.com/673</guid>
+		<description><![CDATA[As you&#8217;ve probably already heard, this year will mark the 10th anniversary of Flash &#8212; that thing which began life as a tool for creating web animations and is, today, a platform. To celebrate, MMIstanbul, the Adobe User Group in Istanbul, is holding a celebration party/seminar called FlashDay this Sunday, starting at 2pm Istanbul time [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="images/f10.gif" alt="Flash turns ten" align="left" />As you&#8217;ve probably already heard, this year will mark the 10th anniversary of Flash &#8212; that thing which began life as a tool for creating web animations and is, today, a platform. To celebrate, <a href="http://mmistanbul.com/">MMIstanbul</a>, the Adobe User Group in Istanbul, is holding a celebration party/seminar called <a href="http://mmistanbul.com/FLASHDay/index.cfm#n_yorumlar">FlashDay</a> this Sunday, starting at 2pm Istanbul time (12pm GMT). </p>
+<p>Murat Kgirgin, who heads the group, contacted me recently to ask whether I&#8217;d like to speak at the event and I told him that I&#8217;d be more than happy to. I&#8217;ll be joining the event at around 4pm Istanbul time (2pm GMT) via Breeze to talk about my experiences with Flash, where it has come from and where it is heading and, of course, about the amazing open source movement we have in the Flash world with <a href="http://osflash.org">OSFlash</a>.</p>
+<p>You can find out more about the event on the <a href="http://mmistanbul.com/FLASHDay/index.cfm#n_yorumlar">FlashDay web site</a> (if you speak Turkish, that is!) <img src='http://aralbalkan.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p><b>Update:</b> You can <a href="http://adobechats.breezecentral.com/flashday/">view the Breeze meeting, live.</a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/673/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Trying out MeeboMe</title>
+		<link>http://aralbalkan.com/672</link>
+		<comments>http://aralbalkan.com/672#comments</comments>
+		<pubDate>Wed, 02 Aug 2006 17:39:19 +0000</pubDate>
+		<dc:creator>aral</dc:creator>
+		
+	<category>General</category>
+		<guid isPermaLink="false">http://aralbalkan.com/672</guid>
+		<description><![CDATA[MeeboMe is a small Flash application that you can add to your site to chat with your visitors. You log in to the Meebo web site and see visitors to your site in your buddy list. Either they can contact you or you can randomly strike up a conversation with one of them. 
+I don&#8217;t [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.meebome.com/">MeeboMe</a> is a small Flash application that you can add to your site to chat with your visitors. You log in to the <a href="http://meebo.com">Meebo web site</a> and see visitors to your site in your buddy list. Either they can contact you or you can randomly strike up a conversation with one of them. </p>
+<p>I don&#8217;t like having to log in to a web site to have my buddy list but it&#8217;s a very cool concept nonetheless. Hopefully, they&#8217;ll come out with a desktop client in the near future. (Or open their API, so we can create one in Apollo, perhaps!)</p>
+<p>Techcrunch has <a href="http://www.techcrunch.com/2006/08/02/meebo-launches-meebome/">more information on MeeboMe</a>.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://aralbalkan.com/672/feed/</wfw:commentRSS>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	
+		EXAMPLE: Flex 2 Syndication
+		AUTHOR: Josh Tynjala
+		CREATED: February 20, 2006
+		MODIFIED: August 12, 2006
+	
+		Adobe® Flex™ by Example
+		http://www.ifbin.com/
+		
+-->
+
+<!-- The main panel for the Feed Reader -->
+<mx:Panel xmlns:mx="http://www.adobe.com/2006/mxml" xmlns="*" title="Flex 2 Feed Feed Reader" layout="horizontal">
+
+	<!-- Holds all of the loaded feeds. -->
+	<mx:ArrayCollection id="feeds"/>
+	<mx:ArrayCollection id="items"/>
+	
+	<!-- The panel is divided into two parts -->
+	<mx:HDividedBox width="100%" height="100%">
+	
+		<!-- A List is on the left side. It will hold the feed titles -->
+		<mx:List id="loadedFeedsList" width="20%" height="100%"
+			change="this.updateItemGrid()" dataProvider="{feeds}" labelFunction="extractFeedTitle"/>
+		
+		<!-- The right side contains a VBox, which holds a DataGrid and a TextArea -->
+		<mx:VBox id="rightColumn" width="100%" height="100%">
+		
+			<!-- The DataGrid contains a listing of items in a feed -->
+			<mx:DataGrid width="100%" height="50%" id="itemGrid" showHeaders="true"
+				change="this.updateItemViewer()" dataProvider="{items}">
+			
+				<mx:columns>
+					<!-- The properties "title" and "date" come from IBasicFeed objects -->
+					<mx:DataGridColumn headerText="Title" labelFunction="extractItemTitle"/>
+					<mx:DataGridColumn headerText="Date" labelFunction="extractItemDate"/>
+				</mx:columns>
+			
+			</mx:DataGrid>
+		
+			<!-- Displays a particular item from a news feed -->
+			<mx:TextArea width="100%" height="50%" id="itemViewer" />
+		</mx:VBox>
+	</mx:HDividedBox>
+
+	<mx:Script>
+		<![CDATA[
+			import com.adobe.xml.syndication.generic.IFeed;
+			import com.adobe.xml.syndication.generic.IItem;
+			import mx.controls.dataGridClasses.DataGridColumn;
+
+			/**
+			 *  Accepts a new generic IFeed object to display.
+			 */
+			public function addFeed( feed:IFeed ):void
+			{
+				// Save the new feed in the "feeds" ArrayCollection
+				this.feeds.addItem( feed );
+			}
+			
+			/**
+			 *  Called when the user clicks on a feed title. Adds the selected
+			 *  feeds items to the data grid.
+			 */
+			private function updateItemGrid():void
+			{
+				// If there is no feed selected, don't do anything
+				if( this.loadedFeedsList.selectedIndex < 0 ) return;
+				
+				// Get the feed that matches the selected title
+				var selectedFeed:IFeed = this.feeds.getItemAt( this.loadedFeedsList.selectedIndex ) as IFeed;
+				
+				// Pass the items from the selected feed the grids data source
+				this.items.source = selectedFeed.items;
+			}
+			
+			/**
+			 *  Called when the user clicks on an item in the items grid.
+			 *  Extracts the item information and inserts it into the text area.
+			 */
+			private function updateItemViewer():void
+			{
+				// Get the feed that is selected in the title list
+				var selectedFeed:IFeed = this.feeds.getItemAt( this.loadedFeedsList.selectedIndex ) as IFeed;
+				
+				// Get the item that is selected in the item grid
+				var selectedItem:IItem = selectedFeed.items[ this.itemGrid.selectedIndex ] as IItem;
+				
+				// Get the title, and make it a link to the item.
+				var itemText:String = "<p><font size=\"16\"><b><a href=\"" + selectedItem.link + "\">" + selectedItem.title + "</a></b></font></p>";
+				
+				// Get the item's date, if it exists.
+				if(selectedItem.date)
+					itemText += "<p><font size=\"10\"><b>" + selectedItem.date.toLocaleString() + "</b></font></p>";
+					
+				// Get the item's excerpt.
+				itemText += "<p><br/><font size=\"12\">" + selectedItem.excerpt.value + "</font></p>";
+				
+				// Create a link to the item's URL.
+				itemText += "<p><br/><font size=\"12\" color=\"#0000ff\"><u><a href=\"" + selectedItem.link + "\">View Item</a></u></font></p>"; 
+				
+				// Finally, display in the text area.
+				this.itemViewer.htmlText = itemText;
+			}
+			
+			/**
+			 *  Extracts the title for the feed titles list
+			 */
+			private function extractFeedTitle(item:Object):String
+			{
+				// Convert the item parameter to an IFeed
+				var feed:IFeed = item as IFeed;
+				
+				// If it doesn't convert, return an empty string.
+				if(!feed) return "";
+				
+				// The data may not exist, so check if it is there first!
+				if(feed.metadata.title) return feed.metadata.title;
+				if(feed.metadata.link) return feed.metadata.link;
+				return "";
+			}
+			
+			/**
+			 *  Extracts the title for the feed items data grid
+			 */
+			private function extractItemTitle(item:Object, column:DataGridColumn):String
+			{
+				// Convert the item parameter to an IItem
+				var feedItem:IItem = item as IItem;
+				if(!feedItem) return "";
+				
+				// The data may not exist, so check for it first!
+				if(!feedItem.title) return "Untitled";
+				return feedItem.title;
+			}
+			
+			/**
+			 *  Extracts the date for the feed items data grid
+			 */
+			private function extractItemDate(item:Object, column:DataGridColumn):String
+			{
+				// Convert the item parameter to an IItem
+				var feedItem:IItem = item as IItem;
+				if(!feedItem) return "";
+				
+				// The data may not exist, so check for it first!
+				if(!feedItem.date) return "";
+				return feedItem.date.toLocaleString();
+			}
+		]]>
+	</mx:Script>
+</mx:Panel>

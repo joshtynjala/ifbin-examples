@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!-- generator="FlashAnt b2/0.6" -->
+<rss version="2.0">
+	<channel>
+		<title>Flash Ant</title>
+		<link>http://www.flashant.org/index.php</link>
+		<description>Rich Internet Application Blog - News, Tools, Downloads and Information</description>
+		<lastBuildDate>Mon, 13 Feb 2006 02:51:37 GMT</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<managingEditor>aral@flashant.org</managingEditor>
+		<webMaster>aral@flashant.org</webMaster>
+		<language>en</language>
+
+		<item>
+				<title>Going radio silent for a week!</title>
+				<category>Flash and ActionScript Training</category>
+				<description>I'm off to London in a few minutes where I'll be staying for the whole of next week as I teach my new series of Hot Shots seminars. I'm going to be teaching five, one-day seminars during the week (and I can't even begin to imagine how dead I'm going to be at the end of it!) :) We've got thirty people signed up for the courses, which isn't too shabby at all, especially considering that it's the first time I'm running them and I only announced it last month! 
+
+Also, Peter Hall called me -- he's apparently in town and I'm hoping to see him (and perhaps even Grant) tonight and give him grief about not updating his blog :) He's such a Bostoner now... dude, come home!
+
+In any case, I'm going to be dead for a week so if I go silent, you know why. I'm planning on rejoining the land of the living sometime around the coming Monday.</description>
+				<pubDate>Sun, 12 Feb 2006 18:51:37 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=534&amp;c=1</link>
+		</item>
+		<item>
+				<title>Update: New View Source Context Menu for AS3 Projects</title>
+				<category>Flash</category>
+				<description>
+
+
+The previous pseudo-singleton implementation of a Flex 2-Style View Source Context Menu for ActionScript 3 Projects was way too verbose for no apparent gain. Here's a much simpler one utilizing static methods.</description>
+				<pubDate>Sat, 11 Feb 2006 21:17:54 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=533&amp;c=1</link>
+		</item>
+		<item>
+				<title>Flex 2-Style View Source Context Menu for ActionScript 3 Projects</title>
+				<category>Flash</category>
+				<description>
+
+
+Flex 2 projects have a very neat feature that they get from the mx.core.Application class: A "View Source" option on the context menu.
+
+It's not terribly hard to implement in straight AS3 but it is nice to have it done automatically for you. Unfortunately, ActionScript 3-only projects do not have this by default. As I see the View Source feature as one of the most important features in AS3/Flex 2, I decided to make a simple class that will allow you to do this. 
+
+Of course, nothing simple is ever simple. I decided to make it a Singleton (although really it could easily have been a static method). Now, if you need to know one thing about AS3 in its current state: It doesn't like Singletons. By that I mean the combination of rules regarding packages and access specifiers (you can't have a private class in a package any longer) makes it almost impossible to implement a true Singleton... almost! :). 
+
+After much head scratching and experimentation, I came up with one method of creating a true singleton in AS3. I'll leave the details of that for another blog post and instead post the SWF here.
+
+My brain's fried -- this is still not a true singleton and you can't really have one in AS3 unless we can have private constructors. In the meanwhile this is just one method of faking it in a convoluted way that offers no protection over accidentally instantiating the class directly via its constructor. Pfft!
+
+If you want the source, just right-click in the AS3 app above and view source ;)</description>
+				<pubDate>Sat, 11 Feb 2006 19:52:16 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=532&amp;c=1</link>
+		</item>
+		<item>
+				<title>Adobe Launch Party</title>
+				<category>General</category>
+				<description>I'm heading out to London this afternoon to attend an Adobe launch party to celebrate the new Creative Suite Production Studio and the coming together of Macromedia and Adobe. Looking forward to meeting and hanging out with the Adobe crew and catching up with some of the 'ol MM gang. AFAIK, Grant's going to be there (he's in London to teach his course) and also Tink, Guy and Stewart. Wow, it's really starting to sink in that's it's Adobe from now on, not Macromedia. Still feels strange to say things like Adobe Flex and Adobe Flash though. I'm sure it'll start to feel more natural in time :)</description>
+				<pubDate>Thu, 09 Feb 2006 09:16:05 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=531&amp;c=1</link>
+		</item>
+		<item>
+				<title>London MMUG - 16th Feb, 2006 - Flex 2 Beta 1 and After Effects</title>
+				<category>London MMUG</category>
+				<description>The London MMUG [1] is holding its monthly meeting [2] on the 16th (next Thursday). Sign up today [3] if you want to attend my session on Flex 2 Beta 1 and Vishal Shah's Introduction to After Effects. 
+
+Here are the session summaries:
+
+Cutting Edge: Macromedia Flex Beta 1
+by Aral Balkan
+
+Adobe just announced some very exciting news regarding Flex: The Flex framework and compiler are going to be made available for free. This is big! It suddenly catapults Flex to the head of the pack of available RIA technologies in terms of competitive advantage.
+
+To coincide with this announcement, Adobe also released the public Beta of Flex, including Flex Enterprise Services (FES). In this session, I will take you through the latest changes in Beta 1 and provide and overview of where Flex is heading and why you should care.
+
+Compositions in Time: An Introduction to After Effects
+by Vishal Shah
+
+Compositions in Time will look a some key features within After Effects. The presentation will cover basics and introduce you to techniques such as image masking, time mapping, layering multiple video images, keyframe animation and combining the still image with moving image media. The presentation will provide you with the knowledge base required to start experimenting and developing your own work using After Effects.
+
+The meeting will take place at our usual venue (City University in Angel, London) in room CM505. Doors open at 6.30pm for a 7pm start. At 9.30pm, we'll hit the neighbourhood pub for some late-night drunken socializing. 
+
+Sign up to attend on the London MMUG web site [4].
+
+[1] http://londonmmug.org
+[2] http://londonmmug.org/calendar.php?do=attend&amp;e=34
+[3] http://londonmmug.org/calendar.php?do=attend&amp;e=34
+[4] http://londonmmug.org/calendar.php?do=attend&amp;e=34</description>
+				<pubDate>Wed, 08 Feb 2006 12:36:38 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=530&amp;c=1</link>
+		</item>
+		<item>
+				<title>Arp Questionnaire Results and Statistics</title>
+				<category>Open Source Flash</category>
+				<description>At the start of January, I ran a questionnaire [1] on the Arp mailing list [2] to try and get a grasp of how developers are using Arp [3]. Part of the questionnaire was aimed at understanding which other technologies Arp was being used alongside. To this end, I asked developers to provide information on which client side, server side and remoting technologies (if any) were used in their projects. All of this data is now sitting comfortably in an Excel sheet and here are some aggregate results.
+
+Client-side technologies
+
+
+
+The winner here is the Flash IDE. It was used in 17 out of 18 projects, usually alongside open source technologies. If anyone needs proof that open source tools like MTASC and Eclipse/ASDT compliment the Flash IDE, here it is! Eclipse and MTASC are also widely used and perhaps Ant use was underreported as I didn’t specifically mention it in the question. 
+
+Server-side technologies
+
+
+
+Any surprises that PHP comes out on top here? What’s interesting is the CF looks to be second	with J2EE and .Net trailing behind. This may be due to the low sample size in this study.
+
+Remoting technologies
+
+
+
+Mirroring the use of PHP, Amfphp comes out on top here by a large margin, with CF in second place. The use of Remoting in general mirrors the use of server-side technologies, which is to be expected. What is not reflected here is that several projects used client-side XML as their source of data. 
+
+Finally, 1 project used Flash Communication Server and 2 projects used JavaScript integration.
+
+Alongside the quantitative data, respondents also provided feedback regarding extensions they’ve used, their loves and hates and top feature requests.
+
+The thing most respondents love about Arp is the structure that it provides for projects; “knowing where all my code is” as multiple respondents stated. Hates? The coupling between commands and views for model updates is one (and this is remedied by the ModelLocator) and the effort involved in the initial project setup and the initial learning curve are other popular hates.
+
+The most popular Arp extensions used were Grant’s SystemController and CommandController classes from the arpx package, Christophe Herreman’s arpx extensions, Jesse’s extensions and the LSOService for Shared Objects. 
+
+A number of respondents stressed that CF remoting should be supported in future releases of Arp and, with Sam Shrefler’s recent excellent work integrating Arp with Tartan and the vastly improved remoting implementation in Scorpio, I don’t see any reason not to. For the record, Arp will support the following remoting technologies: Amfphp, openAMF, Fluorine and CF.
+
+I want to thank everyone who took part in the Arp questionnaire for taking the time to respond in such great detail. Arp is going to be better for it. Specifically, thank you Gert-Jan van der Wel, Stefan Richter, Mike Britton, Jed Wood, Rich Rodecker, Grant M. Davis (who submitted six project reports), Folkert Hielema, Chris Velevitch, Paul Booth and Sam Shrefler. Also, thanks to Christophe Herreman and Darron Schall for your insightful comments on the questionnaire thread.
+
+Based on the feedback I’ve received, I’m going to be drawing up a roadmap for future Arp releases. One thing I’m sure of is that there will be many small releases, not one giant release. So, Arp 3 [4] is more of a goal to aim for rather than a destination. There will be quite a few point releases on Arp 2 before we reach there, based on the most common feature requests and consultations with the community.
+
+There are also very exciting parallel developments with the next version of Amfphp, which will be generating Arp code. 
+
+There’s a lot of work to be done in the coming days and it’s all very exciting.  
+
+Remember that there are two things that make Arp unique and hugely useful: One, it is lightweight and simple and two, it aims to support the Flash Platform – not just a single Flash technology. To that end, it currently supports Flash/AS2 and Flex 1.5/AS2. Flex 2 and AS3 support are of the highest priority, as is MTASC. When I say support, I mean comprehensive documentation alongside merely compiling in a given technology. As we need to support these various technologies, keeping the core framework as simple as possible is of utmost importance. These considerations, alongside that of having a single, consistent sample application and minor updates to the framework, will form the bulk of the near-term releases. 
+
+[1] http://ariaware.com/pipermail/arp_ariaware.com/2006-January/000903.html
+[2] http://ariaware.com/mailman/listinfo/arp_ariaware.com
+[3] http://osflash.org/arp
+[4] http://www.flashant.org/index.php?p=498&amp;more=1&amp;c=1</description>
+				<pubDate>Tue, 07 Feb 2006 22:26:01 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=529&amp;c=1</link>
+		</item>
+		<item>
+				<title>Another reason to stop using AOL and Yahoo Mail</title>
+				<category>General</category>
+				<description>I just read that AOL and Yahoo are planning to start charging people for delivering email to AOL/Yahoo email addresses [1]. 
+
+Yes, you read it right. 
+
+Basically, it appears that these guys are saying that if you want to send email to someone with a Yahoo or AOL email address and make sure it gets there, you'll have to pay for the privilege. 
+
+Now let's think about that for a second... umm... nope, don't think so!
+
+The Inquirer also states that Yahoo and AOL will guarantee delivery of these "preferential emails" [2], bypassing people's spam filters. Smooth. Very smooth. So does this mean that users can sue Yahoo/AOL as spammers if they receive spam mail through this preferential email system?
+
+Here's another blogger's take on that: AOL, Yahoo Will Sell You Out for a Penny (Maybe Less) [3].
+
+From now on, if I receive email from someone with a Yahoo or AOL email address, I'll be asking them to please use some other service or they may eventually miss out on important email from me in the future. 
+
+This is just plain greedy/wrong and I hope people will vote by avoiding AOL and Yahoo email addresses. I know that I'll personally be warning people not to use them. 
+
+[1] http://www.iht.com/articles/2006/02/05/business/email.php
+[2] http://www.theinquirer.net/?article=29487
+[3] http://mooreslore.corante.com/archives/2006/02/05/aol_yahoo_will_sell_you_out_for_a_penny_maybe_less.php</description>
+				<pubDate>Sun, 05 Feb 2006 18:36:40 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=528&amp;c=1</link>
+		</item>
+		<item>
+				<title>Yippee... my YubNubs are back!</title>
+				<category>General</category>
+				<description>
+They broke my YubNub [1] but now it's back. I'm referring to the YubNub commands I wrote a little while back [2] to help search the Flex 2 and Flex 1.5 LiveDocs. They were temporarily broken as the LiveDocs were being updated for the Public Beta 1 release of Flex 2 but they appear to be back.
+
+Much ado about YubNubs? :)
+
+[1] http://flashant.org/index.php?p=517&amp;more=1&amp;c=1
+[2] http://flashant.org/index.php?p=513&amp;more=1&amp;c=1</description>
+				<pubDate>Sun, 05 Feb 2006 11:29:55 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=527&amp;c=1</link>
+		</item>
+		<item>
+				<title>Wait for it: Amfphp 1.2 is going to rock!</title>
+				<category>Open Source Flash</category>
+				<description>I saw the latest pre-release version of Amfphp 1.2 yesterday that actually generates the Arp project/folder structure and the classes and saves them. You guys are going to love this when it's released. Patrick's implemented the feature in a very usable manner (I actually right-clicked at one point to see if it was Flash but it's actually all done with some very neat HTML/JavaScript.)</description>
+				<pubDate>Sun, 05 Feb 2006 11:24:13 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=526&amp;c=1</link>
+		</item>
+		<item>
+				<title>Correction: Amfphp 1.2 to be released next week</title>
+				<category>Open Source Flash</category>
+				<description>Déjà vu? No! It seems I jumped the gun in my previous post: Rumors of the release of Amfphp 1.2 are greatly exaggerated. It is going to be released next week. 
+
+The very cool news is that it's apparently going to have the feature for saving an Arp project instead of the current (pre-release) cut/paste system. Kudos, Patrick... can't wait (literally!) :) </description>
+				<pubDate>Sat, 04 Feb 2006 18:24:44 GMT</pubDate>
+				<link>http://www.flashant.org/index.php?p=525&amp;c=1</link>
+		</item>
+
+	</channel>
+</rss>

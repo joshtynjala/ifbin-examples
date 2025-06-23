@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.0.4" -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+	<title>Zeus Labs</title>
+	<link>http://www.zeuslabs.us</link>
+	<description>Flash and Actionscript Insights from a San Diego Developer and Designer</description>
+	<pubDate>Wed, 09 Aug 2006 16:23:11 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.0.4</generator>
+	<language>en</language>
+			<item>
+		<title>Flex 2 featured on SitePoint</title>
+		<link>http://www.zeuslabs.us/archives/86/flex-2-featured-on-sitepoint/</link>
+		<comments>http://www.zeuslabs.us/archives/86/flex-2-featured-on-sitepoint/#comments</comments>
+		<pubDate>Wed, 09 Aug 2006 16:23:11 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Web Development</category>
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/86/flex-2-featured-on-sitepoint/</guid>
+		<description><![CDATA[For the next couple of weeks, SitePoint will be featuring an article I wrote about Flex 2. It's titled Flex 2: Rich Internet Applications in a Flash!, and it gives an excellent birds-eye view of Flex and Flex Builder. According to Alexa, SitePoint ranks in the top 500 websites on the Internet. In other words, [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/86/flex-2-featured-on-sitepoint/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Search Google in Flex 2</title>
+		<link>http://www.zeuslabs.us/archives/84/search-google-in-flex-2/</link>
+		<comments>http://www.zeuslabs.us/archives/84/search-google-in-flex-2/#comments</comments>
+		<pubDate>Mon, 07 Aug 2006 04:33:57 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Source Code</category>
+	<category>Flash</category>
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/84/search-google-in-flex-2/</guid>
+		<description><![CDATA[In my early days of learning Flash, I put together a cool little demo that used Google's Search API. The SWF is lost somewhere in the depths of my hard drive, but I remembered it the other day when I spent some time brainstorming my next cool Flex 2 experiment. Thanks to Flex's robust framework, [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/84/search-google-in-flex-2/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Get your hands on tons of FREE Flash and Flex code!</title>
+		<link>http://www.zeuslabs.us/archives/85/get-your-hands-on-tons-of-free-flash-and-flex-code/</link>
+		<comments>http://www.zeuslabs.us/archives/85/get-your-hands-on-tons-of-free-flash-and-flex-code/#comments</comments>
+		<pubDate>Tue, 01 Aug 2006 15:36:13 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Source Code</category>
+	<category>Flash</category>
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/85/get-your-hands-on-tons-of-free-flash-and-flex-code/</guid>
+		<description><![CDATA[You may have seen the "IFBIN Author/Partner" badges that a few of us Flash bloggers have on our sites. If you're not familiar, IFBIN offers hundreds of well-documented examples for Flash and Flex. All the examples are written by industry professionals, like Ted Patrick, Jesse Warden, Keith Peters, and Darron Schall (to name only a [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/85/get-your-hands-on-tons-of-free-flash-and-flex-code/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Oh bother, I forgot</title>
+		<link>http://www.zeuslabs.us/archives/83/oh-bother-i-forgot/</link>
+		<comments>http://www.zeuslabs.us/archives/83/oh-bother-i-forgot/#comments</comments>
+		<pubDate>Thu, 27 Jul 2006 17:20:51 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Flash</category>
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/83/oh-bother-i-forgot/</guid>
+		<description><![CDATA[I just noticed that I forgot to upload the SWF for my MXNA Dashboard when I updated it for the release of Flex 2. The old version still ran, but the treemap didn't get colored. That's sort of the whole point of the project. It's all better now. Check it out if you haven't. Flash [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/83/oh-bother-i-forgot/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Getting it on with Flex 2 “content” coordinates</title>
+		<link>http://www.zeuslabs.us/archives/82/getting-it-on-with-flex-2-content-coordinates/</link>
+		<comments>http://www.zeuslabs.us/archives/82/getting-it-on-with-flex-2-content-coordinates/#comments</comments>
+		<pubDate>Sat, 15 Jul 2006 00:08:28 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/82/getting-it-on-with-flex-2-content-coordinates/</guid>
+		<description><![CDATA[In Flex 2, UIComponent class provides several useful functions to convert Flash's global and local x and y coordinates to "content" coordinates. If your component has a 10-pixel border, and its subcomponents always appear inside that border, you might want to establish a content coordinate system that makes a subcomponent at (0,0) appear at (10,10) [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/82/getting-it-on-with-flex-2-content-coordinates/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>AdvancED Flash Interface Design spells it out</title>
+		<link>http://www.zeuslabs.us/archives/81/advanced-flash-interface-design-spells-it-out/</link>
+		<comments>http://www.zeuslabs.us/archives/81/advanced-flash-interface-design-spells-it-out/#comments</comments>
+		<pubDate>Fri, 14 Jul 2006 03:35:48 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Flash</category>
+	<category>Design</category>
+	<category>Reviews</category>
+	<category>Books</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/81/advanced-flash-interface-design-spells-it-out/</guid>
+		<description><![CDATA[I write code by day, but I combine my Actionscript skills with a love of art and design by night. Looking to pick up some new tricks, I recently picked up AdvancED Flash Interface Design by Michael Kemper, Guido Rosso, and Brian Monnone. Inside, you'll find tips for combining the strengths of Photoshop, Illustrator, and [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/81/advanced-flash-interface-design-spells-it-out/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Add FlexComponents to your mailing lists!</title>
+		<link>http://www.zeuslabs.us/archives/80/add-flexcomponents-to-your-mailing-lists/</link>
+		<comments>http://www.zeuslabs.us/archives/80/add-flexcomponents-to-your-mailing-lists/#comments</comments>
+		<pubDate>Wed, 12 Jul 2006 17:00:10 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/80/add-flexcomponents-to-your-mailing-lists/</guid>
+		<description><![CDATA[The new FlexComponents mailing list is now live. Whether you're having an issue subclassing one of the base Flex Framework components, or you're starting from scratch on top of the UIComponent class and want to know more about all those functions you can override, this is the place to go. Unlike the famous FlexCoders list, [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/80/add-flexcomponents-to-your-mailing-lists/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Projects updated for Flex 2!</title>
+		<link>http://www.zeuslabs.us/archives/79/projects-updated-for-flex-2/</link>
+		<comments>http://www.zeuslabs.us/archives/79/projects-updated-for-flex-2/#comments</comments>
+		<pubDate>Fri, 07 Jul 2006 02:52:04 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/79/projects-updated-for-flex-2/</guid>
+		<description><![CDATA[If you take a look on my source code download page, you'll find that I've updated my Actionscript 3 and Flex 2 projects to work with the official release of the Flex 2 SDK.
+For the AIM project, I made a couple little enhancements. First, while not a functional change, I documented all the code a [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/79/projects-updated-for-flex-2/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Can Flash 9 preview compile the Flex Framework?</title>
+		<link>http://www.zeuslabs.us/archives/78/can-flash-9-preview-compile-the-flex-framework/</link>
+		<comments>http://www.zeuslabs.us/archives/78/can-flash-9-preview-compile-the-flex-framework/#comments</comments>
+		<pubDate>Thu, 29 Jun 2006 17:31:53 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Flash</category>
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/78/can-flash-9-preview-compile-the-flex-framework/</guid>
+		<description><![CDATA[Update: I've learned that there's no easy way to use the Flex Framework without MXML. It may be possible, but probably very difficult. See the comments below for more information.
+Maybe I'm just doing this all wrong, but I had the urge to see if I could use the Flex Framework within the new Flash Professional [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/78/can-flash-9-preview-compile-the-flex-framework/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Flex 2 is out… Expect more code soon!</title>
+		<link>http://www.zeuslabs.us/archives/77/flex-2-is-out-expect-more-code-soon/</link>
+		<comments>http://www.zeuslabs.us/archives/77/flex-2-is-out-expect-more-code-soon/#comments</comments>
+		<pubDate>Wed, 28 Jun 2006 17:51:31 +0000</pubDate>
+		<dc:creator>Josh Tynjala</dc:creator>
+		
+	<category>Flash</category>
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.zeuslabs.us/archives/77/flex-2-is-out-expect-more-code-soon/</guid>
+		<description><![CDATA[Yeah, everybody has already heard it a million times, but Adobe Flex 2.0 has been released. Download the free SDK! You'll discover the new uber-fast version 9 player. The Flex framework is lightyears ahead of previous official Flash components. The new language is strongly-typed with a powerful class system, and the base libraries have been [...]]]></description>
+		<wfw:commentRSS>http://www.zeuslabs.us/archives/77/flex-2-is-out-expect-more-code-soon/feed/</wfw:commentRSS>
+		</item>
+	</channel>
+</rss>

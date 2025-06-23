@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.darronschall.com/weblog/">
+<title>darron schall</title>
+<link>http://www.darronschall.com/weblog/</link>
+<description>.the personal and professional thoughts of yet another application developer.</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2006-08-01T10:22:18-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000237.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000236.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000235.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000234.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000233.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000232.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000231.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000230.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000229.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000228.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000227.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000226.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000225.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000224.cfm" />
+<rdf:li rdf:resource="http://www.darronschall.com/weblog/archives/000223.cfm" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.darronschall.com/weblog/archives/000237.cfm">
+<title>Why FlashVNC isn&apos;t in IFBIN</title>
+<link>http://www.darronschall.com/weblog/archives/000237.cfm</link>
+<description><![CDATA[Big news today -- All of the IFBIN examples are now available as open source software!  All of the examples, that is, except <a href="http://www.darronschall.com/weblog/archives/000192.cfm">FlashVNC</a>.  Why?]]></description>
+<dc:subject>ActionScript</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-08-01T10:22:18-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000236.cfm">
+<title>Show Some Love to FC64!</title>
+<link>http://www.darronschall.com/weblog/archives/000236.cfm</link>
+<description><![CDATA[The <a href="http://osflash.org/fc64">FC64 Open Source Commodore 64 Emulator for Flash</a> that <a href="http://wahlers.com.br/claus/blog/">Claus</a> and I created is a finalist for "Technical Merit" in this year's Flashforward Film Festival.  If you have some time and don't mind showing your support, we'd really appreciate a <a href="http://www.flashforwardconference.com/peoples_choice">vote for the People's Choice award</a>!]]></description>
+<dc:subject>ActionScript</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-07-28T08:45:38-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000235.cfm">
+<title>Using the Windows XP Theme with the Plugin Version of FlexBuilder 2</title>
+<link>http://www.darronschall.com/weblog/archives/000235.cfm</link>
+<description>A friend of mine had been using the standalone version of FlexBuilder 2 and recently switched to the plugin version.  He noticed that the IDEs looked different -  the standalone version sported the Windows XP theme, whereas the plugin version didn&apos;t. </description>
+<dc:subject>Flex 2</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-07-25T08:03:14-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000234.cfm">
+<title>Why I don&apos;t use Cairngorm&apos;s Responder</title>
+<link>http://www.darronschall.com/weblog/archives/000234.cfm</link>
+<description><![CDATA[There's been some talk lately on <a href="http://groups.yahoo.com/group/flexcoders/">FlexCoders</a> about Cairngorm's Responder interface, and how to use it to handle results from a remote service.  Personally, I don't use Cairngorm's Responder.]]></description>
+<dc:subject>Flex 2</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-07-06T10:32:20-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000233.cfm">
+<title>Congratulations Adobe</title>
+<link>http://www.darronschall.com/weblog/archives/000233.cfm</link>
+<description><![CDATA[A long time ago, I <a href="http://www.darronschall.com/weblog/archives/000160.cfm">ranted about how development tools for Flash were terrible</a>.  I set up a pitch that Adobe just knocked out of the park.]]></description>
+<dc:subject>Flash</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-06-28T08:13:47-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000232.cfm">
+<title>The Future of ActionScript</title>
+<link>http://www.darronschall.com/weblog/archives/000232.cfm</link>
+<description>Want to get an idea of what ActionScript might look like in the future?</description>
+<dc:subject>ActionScript</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-06-13T09:20:23-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000231.cfm">
+<title>A Simple ActionScript 3 Iterator Implementation</title>
+<link>http://www.darronschall.com/weblog/archives/000231.cfm</link>
+<description><![CDATA[I was looking for an Iterator implementation in ActionScript 3 to avoid reinventing the wheel for the umpteenth time but couldn't find one on Google, so I whipped one up quick that you can download <a href="/downloads/as3_iterator.zip">here</a>.]]></description>
+<dc:subject>Flash</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-06-06T08:47:32-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000230.cfm">
+<title>It just works</title>
+<link>http://www.darronschall.com/weblog/archives/000230.cfm</link>
+<description><![CDATA[Don't you just love when things "just work"?  Behold, the first real game is now playable in <a href="http://www.osflash.org/fc64">FC64 - The Commodore 64 Emulator for Flash Player 9</a>.]]></description>
+<dc:subject></dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-05-22T08:10:47-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000229.cfm">
+<title>PRINT &quot;FC64!&quot;</title>
+<link>http://www.darronschall.com/weblog/archives/000229.cfm</link>
+<description>You can now write Commodore 64 programs in Flash 9 with FC64.  Woooo!!!</description>
+<dc:subject></dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-05-10T12:17:39-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000228.cfm">
+<title>The Blue Screen of Joy!</title>
+<link>http://www.darronschall.com/weblog/archives/000228.cfm</link>
+<description><![CDATA[<p>Never before have I been so excited by 38911 basic bytes free.  Behold FC64 in action!</p>]]></description>
+<dc:subject>ActionScript</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-05-09T07:46:29-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000227.cfm">
+<title>ActionScript 3 Cookbook</title>
+<link>http://www.darronschall.com/weblog/archives/000227.cfm</link>
+<description>My first book project is nearing completion, and Amazon.com is already starting to take orders! Clarifying on my initial entry here, the ActionScript 3 Cookbook is a joint venture by Joey Lott, Keith Peters, and myself. It looks like it&apos;s scheduled to be released on...</description>
+<dc:subject>ActionScript</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-05-04T09:06:42-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000226.cfm">
+<title>My FITC 2006 ActionScript 3 Slides</title>
+<link>http://www.darronschall.com/weblog/archives/000226.cfm</link>
+<description><![CDATA[<p>I've posted the slides for my <a href="http://www.fitc.ca/presentation_detail.cfm?festival_id=5&presentation_id=281">ActionScript 3 presentation for FITC 2006</a>.  Did you catch the big announcement at the end?</p>]]></description>
+<dc:subject>Flash</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-04-24T08:10:25-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000225.cfm">
+<title>FITC away!</title>
+<link>http://www.darronschall.com/weblog/archives/000225.cfm</link>
+<description>I&apos;m headed out the door, departing for FITC 2006. This year I&apos;ll be giving 2 sessions. The first is a Q &amp; A session on the Next Generation Flash Platform at 9:00 am tomorrow morning, and the second is an ActionScript 3 presentation on Sunday...</description>
+<dc:subject>Flash</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-04-20T06:31:36-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000224.cfm">
+<title>PopUpManager and Cairngorm 2</title>
+<link>http://www.darronschall.com/weblog/archives/000224.cfm</link>
+<description>Last week someone on Flexcoders was having trouble with a popup window triggering commands in the Cairngorm framework for Flex 2. At the risk of repeating myself, I&apos;m reproducing the answer here because it was on my &quot;things to blog&quot; list, and also because it...</description>
+<dc:subject>Flex 2</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-04-18T08:39:28-05:00</dc:date>
+</item>
+<item rdf:about="http://www.darronschall.com/weblog/archives/000223.cfm">
+<title>Using XML Namespaces with E4X and ActionScript 3</title>
+<link>http://www.darronschall.com/weblog/archives/000223.cfm</link>
+<description><![CDATA[<p>Here is a simple example demonstrating how to use namespaces to access element nodes using E4X syntax.</p>]]></description>
+<dc:subject>ActionScript</dc:subject>
+<dc:creator>darron</dc:creator>
+<dc:date>2006-04-06T08:57:20-05:00</dc:date>
+</item>
+
+
+</rdf:RDF>

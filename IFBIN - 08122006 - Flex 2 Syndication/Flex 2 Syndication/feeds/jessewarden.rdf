@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:cc="http://web.resource.org/cc/"
+xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.jessewarden.com/">
+<title>Jesse Warden - Flash, Flex, and Component Developer</title>
+<link>http://www.jessewarden.com/</link>
+<description>Flash, Flex, Flashcom, ActionScript, Technology, Games, Movies, and anything g33k related.</description>
+<dc:creator></dc:creator>
+<dc:date>2006-08-06T23:05:25-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.2" />
+<cc:license rdf:resource="http://creativecommons.org/licenses/by/2.5/" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/08/doing_flash_up.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/07/binding_in_the.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/07/nonselectable_t.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/07/i_need_an_offic.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/07/flex_chronicles_22.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/07/porting_flashco.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/07/netconnection_s.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/07/flex_2_webservice.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/07/flex_chronicles_21.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/06/can_flex_be_des.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/06/flex_chronicles_20.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/06/flex_2_released.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/06/customer_expect.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/06/yahoo_messenger.html" />
+<rdf:li rdf:resource="http://www.jessewarden.com/archives/2006/06/flex_chronicles_19.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.jessewarden.com/archives/2006/08/doing_flash_up.html">
+<title>Doing Flash Up in Detroit &amp; SWF Dichotomy</title>
+<link>http://www.jessewarden.com/archives/2006/08/doing_flash_up.html</link>
+<description>I&apos;m still in the midst of wrapping up a 6 month Flex 1.5 project. It had about 3 phases, and currently am doing bug fixes and enhancements. It&apos;s hard to balance because I&apos;m now doing a full-time Flash gig up in Detroit and there is a lot going on. Most of my roles in the past, salaried or contract, have been coding muscle. A lot were more specialist; server-side developers &amp; designers abound, but a Flash coder? Dude, you&apos;re hired. This role in particular is quite challenging. First off, it&apos;s Flash 7, not Flex 1.5. Second, it&apos;s deadline driven first,</description>
+<dc:subject>Flash</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-08-06T23:05:25-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/07/binding_in_the.html">
+<title>Binding in the Trenches</title>
+<link>http://www.jessewarden.com/archives/2006/07/binding_in_the.html</link>
+<description>It&apos;s 7:50 pm on Sunday, and I&apos;m still working. I figured I&apos;d share why I&apos;m debugging like crazy instead of relaxing. Bindings. For those of who know of Flex 2, Adobe&apos;s tool for programmers to create Rich Internet Applications, it has this one feature that sets it apart from Flash, and incidentally, it&apos;s brother Spry shares. It allows you to put a variable surrounded by curly brackets, and at runtime, anytime that variable changes, it&apos;ll update whatever variable is being set to it. So, for a TextField, you can bind a global text property to the TextField&apos;s text property, like</description>
+<dc:subject>Flex</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-07-30T19:50:21-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/07/nonselectable_t.html">
+<title>Non-Selectable TextArea for Flex 2</title>
+<link>http://www.jessewarden.com/archives/2006/07/nonselectable_t.html</link>
+<description>Bloke on the Flexcoders list needed a TextArea that wasn&apos;t selectable. Editable didn&apos;t work because you could still select text, and it showed the i beam cursor. Enabled didn&apos;t work because it colored the text the wrong way, and forced him to use custom styling (or CSS selectors). TextArea doesn&apos;t have a selectable property, and since it extends Sprite, not TextField, there is no property to hide. It utilizes mx.core.UITextField via composition, and the textField property is protected, so you CAN access it via inheritance. This example here shows how to override the selectable property and end up with a</description>
+<dc:subject>Flex</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-07-25T22:19:50-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/07/i_need_an_offic.html">
+<title>I Need An Office</title>
+<link>http://www.jessewarden.com/archives/2006/07/i_need_an_offic.html</link>
+<description>I&apos;ve been working from home for a year and a half now, and I&apos;ve had enough. It&apos;s time for an office. Yeah, I know, I used to brag about how cool it was, and how nice it was to work in pajamas. The conveniences are still there mind you. I can always be available for FedEx, phone guys and plumbers, and accepting various other deliveries. I spend 2 minutes making coffee, and that is the gist of my &quot;getting ready&quot; in the morning. I don&apos;t have to drive to work, and suffer the 3 hours a day sitting in a</description>
+<dc:subject>Personal</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-07-19T00:12:19-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/07/flex_chronicles_22.html">
+<title>Flex Chronicles #22: Embedding Fonts in a Button</title>
+<link>http://www.jessewarden.com/archives/2006/07/flex_chronicles_22.html</link>
+<description>There are a few dark little secrets to the Button control in Flex 2 that can trip a designer up. It took me 2 1/2 hours to figure this shiz out so I just HAVE to blog it. I&apos;m running on fumes, and this is the 3rd blog entry in the past 30 minutes, but my fingers never tire; they&apos;re always willing to move furiously. They know I have words I need to get out, and fast because there is so much to do and so little time. My head feels like lead... it keeps swaying... wtf, am I at</description>
+<dc:subject>Flex</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-07-11T01:06:11-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/07/porting_flashco.html">
+<title>Porting Flashcom Applications to ActionScript 3</title>
+<link>http://www.jessewarden.com/archives/2006/07/porting_flashco.html</link>
+<description>Regardless if you Flex or Flash, I ran into a porting issue with a Flashcom app I wrote in Flex 1.5 &amp; ActionScript 2. A lot of the server-side code, which is written in case sensitive JavaScript 1, utilizes the Flashcom Component Framework. This framework utilizes a namespace scheme to allow clients to identify server components, and server components to identify client components. This allows them to send messages to each other, and works really well... ...except in Flash Player 9. For some reason, the namespace mechanism doesn&apos;t work for ActionScript 3 classes. This isn&apos;t a big deal for playing</description>
+<dc:subject>Flashcom</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-07-11T00:58:54-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/07/netconnection_s.html">
+<title>NetConnection, SharedObject, &amp; NetStream&apos;s client Property in ActionScript 3</title>
+<link>http://www.jessewarden.com/archives/2006/07/netconnection_s.html</link>
+<description>Past two weeks, I&apos;ve been porting over some Flashcom &amp; Flex 1.5 code to Flex 2 (still using FCS 1.5 vs. FMS 2). One nice addition I found in the ActionScript 3 SharedObject class is the client property. This little gem allows you have events that are called by SharedObject.send to be called on a proxy class instead. What this means is, if someone in a Flashcom application causes the remote SharedObject to be updated, and it fires a &quot;onChatMessageUpdate&quot; method, it&apos;ll actually get called on the client object if you set it to something. Since a lot of intrinsic</description>
+<dc:subject>ActionScript</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-07-11T00:56:41-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/07/flex_2_webservice.html">
+<title>Flex 2 WebService &amp; Cairngorm 2 Example</title>
+<link>http://www.jessewarden.com/archives/2006/07/flex_2_webservice.html</link>
+<description>This example utilizes Amazon&apos;s search webservice in the Cairngorm 2 application framework. You can go to Amazon.com and register for a free API key. Once you do, you just plug into this example&apos;s constant file, and she&apos;ll work for you too if you when you compile. This example application allows you to search for books on Amazon.com by keywords. The events are debatable in their place in the package structure. They extend CairngormEvent, thus implying they fire commands, but you could reuse events. Also, I am not very good at E4X so please do not use that as an example</description>
+<dc:subject>Flex</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-07-06T09:20:46-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/07/flex_chronicles_21.html">
+<title>Flex Chronicles #21: Faceless Children in Cairngorm 2</title>
+<link>http://www.jessewarden.com/archives/2006/07/flex_chronicles_21.html</link>
+<description>Not sure the best title, but close enough. You cannot have faceless children be involved in the event bubbling phase for event propagation to fire off Commands via the FrontController. The solution is to have them extend a DisplayObject of some sort, typically UIComponent. Why? A few reasons. To define faceless children, they are class instances that do not extend a DisplayObject; something that has ties to the DisplayList and thus can be visible. An Object can&apos;t be a seen, but a Sprite can for example. You can define class instances or MXML tags within View components as children of</description>
+<dc:subject>Flex</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-07-01T23:34:19-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/06/can_flex_be_des.html">
+<title>Can Flex be Design Driven?</title>
+<link>http://www.jessewarden.com/archives/2006/06/can_flex_be_des.html</link>
+<description>I met up with Kenny Bunch, his wife, his brother Phillip, and Dave Buhler yesterday after work. Our goal was to hang out, and talk tech. Kenny&apos;s pretty well known down here in Atlanta, mainly because of his Turner &amp; CNN contacts. His programmer background also adds a unique perspective on things since he&apos;s worked in a few different types of environments. He now does his own thing. One interesting point he brought up was in explaining how parts of Turner (Cartoon Network) work in regards to Flash Development. He was describing how projects are design driven, stemming from the</description>
+<dc:subject>Flex</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-06-30T12:07:44-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/06/flex_chronicles_20.html">
+<title>Flex Chronicles #20: DataTips &amp; CellRenderers</title>
+<link>http://www.jessewarden.com/archives/2006/06/flex_chronicles_20.html</link>
+<description>A data tip is a tooltip that shows for text in a datagrid column that does not fit. So, if you have a &quot;Name&quot; column in your datagrid, and the person&apos;s name is &quot;Pimp Double-G Booty-licious Birdman&quot;, but the column is only 20 pixels wide, the text will clip. If showDataTips is true on the datagrid&apos;s column, it&apos;ll show a tooltip when you hover over that row. It only shows for cells where the text is too big. Windows XP does this for example when the folder name is too small to fit into Explorer. You can hover your cursor</description>
+<dc:subject>Flex</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-06-30T12:01:05-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/06/flex_2_released.html">
+<title>Flex 2 Released - Flex 4 Teh W1n!!!</title>
+<link>http://www.jessewarden.com/archives/2006/06/flex_2_released.html</link>
+<description>To skip the nostalgia: Read the official press releases about Flex 2 and Flash Player 9 Check out the features and facets of Flex 2 Check out some Flex resources and connect with the community I&apos;ve been thinking for the past week how I&apos;d announce Flex 2 on my blog. As someone who is aggregated in a variety of high traffic aggregators, it is my responsibility as a blogger to not post a &quot;me too&quot; post. If I am to post anything, it must be something of value to the reader. In one sentence, I&apos;m writing what I think should</description>
+<dc:subject>Flex</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-06-28T00:47:35-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/06/customer_expect.html">
+<title>Customer Expectations</title>
+<link>http://www.jessewarden.com/archives/2006/06/customer_expect.html</link>
+<description>This is more applicable to service work than product work I think. I had a discussion last week that greatly changed the way I work. I learned the customer&apos;s expectations. One of the reasons&apos; people have problems in personal relationships is that they do not communication expectations to the other party. This builds up frustration with the other party when he/she/they fail to meet the unsaid expectations. This is unfair to the other party who is unknowingly making the person angry without knowing it. On the flip-side, I&apos;ve found I usually am better off asking what are the other person&apos;s</description>
+<dc:subject>Business Process</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-06-26T11:11:05-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/06/yahoo_messenger.html">
+<title>Yahoo! Messenger Plugin First Attempt... Failed</title>
+<link>http://www.jessewarden.com/archives/2006/06/yahoo_messenger.html</link>
+<description>I attempted to get a working plugin with the Yahoo! Messenger Plugin SDK via the new beta version of Yahoo! Messenger that Justin mentioned. There were a few inconsistencies and issues with the documentation, but they used the &quot;B&quot; word, so I&apos;ll be nice. There was no registry file so I modified the keys myself. The participant code wasn&apos;t clear on where you are supposed to put it. The example code is also missing a ) preventing it from running. Finally, the ActiveX control section is the most confusing thing I&apos;ve seen in my entire life. If you want to</description>
+<dc:subject>Flash</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-06-25T21:56:17-05:00</dc:date>
+</item>
+<item rdf:about="http://www.jessewarden.com/archives/2006/06/flex_chronicles_19.html">
+<title>Flex Chronicles #19: DataGrid columnsChanged</title>
+<link>http://www.jessewarden.com/archives/2006/06/flex_chronicles_19.html</link>
+<description>I was building this component to work with the DataGrid. It needs to to really &quot;understand&quot; the DataGrid, and part of that is being very intimate with how the DataGrid&apos;s columns work. This is an array that holds DataGridColumns. These give data on how to draw the grid. The component needed to redraw itself if you passed in custom columns, just like if you passed in a custom array for the DataGrid. Additionally, it needed to update when the DataGrid itself had its columns changed. Typically that last one is a rare use case, at least in my experience. You</description>
+<dc:subject>Flex</dc:subject>
+<dc:creator>JesterXL</dc:creator>
+<dc:date>2006-06-20T23:40:26-05:00</dc:date>
+</item>
+
+
+</rdf:RDF>

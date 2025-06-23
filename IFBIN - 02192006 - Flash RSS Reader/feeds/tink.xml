@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/1.5.1.2" -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+	<title/>
+	<link>http://www.tink.ws/blog</link>
+	<description/>
+	<pubDate>Wed, 08 Feb 2006 10:00:30 +0000</pubDate>
+	<generator>http://wordpress.org/?v=1.5.1.2</generator>
+	<language>en</language>
+
+		<item>
+		<title>Feedup with the Flash StartPage?</title>
+		<link>http://www.tink.ws/blog/feedup-of-the-flash-startpage/</link>
+		<comments>http://www.tink.ws/blog/feedup-of-the-flash-startpage/#comments</comments>
+		<pubDate>Wed, 08 Feb 2006 09:57:53 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Flash 8</category>
+	<category>Extensions</category>
+		<guid>http://www.tink.ws/blog/feedup-of-the-flash-startpage/</guid>
+		<description><![CDATA[	Well if you are Mr Skinner has put a new one together.
+
+]]></description>
+			<content:encoded><![CDATA[	<p>Well if you are Mr Skinner has put a <a href="http://www.gskinner.com/products/startpage/">new one together</a>.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/feedup-of-the-flash-startpage/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>SXSW Web Awards Finalists</title>
+		<link>http://www.tink.ws/blog/103/</link>
+		<comments>http://www.tink.ws/blog/103/#comments</comments>
+		<pubDate>Wed, 08 Feb 2006 09:25:10 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Personal</category>
+	<category>Cool Sites</category>
+	<category>Events</category>
+		<guid>http://www.tink.ws/blog/103/</guid>
+		<description><![CDATA[	SXSW have put up their list of finalists.
+	Nice to see a recent acquatence from the Humber + RIT Interactive Design Charrette 2006, Bill Klingensmith listed with his Drive Project. He kept this one quiet until just now!
+
+]]></description>
+			<content:encoded><![CDATA[	<p><a href="http://2006.sxsw.com/">SXSW</a> have put up <a href="http://2006.sxsw.com/interactive/web_awards/finalists/">their list of finalists</a>.</p>
+	<p>Nice to see a recent acquatence from the Humber + RIT Interactive Design Charrette 2006, <a href="http://www.mydarndest.com/">Bill Klingensmith</a> listed with his <a href="http://www.driveproject.com/">Drive Project</a>. He kept this one quiet until just now!
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/103/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>London MMUG Feb 2006</title>
+		<link>http://www.tink.ws/blog/london-mmug-feb-2006/</link>
+		<comments>http://www.tink.ws/blog/london-mmug-feb-2006/#comments</comments>
+		<pubDate>Sat, 04 Feb 2006 15:34:10 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Events</category>
+		<guid>http://www.tink.ws/blog/london-mmug-feb-2006/</guid>
+		<description><![CDATA[	This month, we have two exciting presentations:
+	Adobe recently released the public Beta of Flex, including Flex Enterprise Services (FES). In this session, Aral Balkan will take you through the latest changes in Beta 1 and provide and overview of where Flex is heading and why you should care.
+	We also have our first presentation ever on [...]]]></description>
+			<content:encoded><![CDATA[	<p>This month, we have two exciting presentations:</p>
+	<p>Adobe recently released the public Beta of Flex, including Flex Enterprise Services (FES). In this session, Aral Balkan will take you through the latest changes in Beta 1 and provide and overview of where Flex is heading and why you should care.</p>
+	<p>We also have our first presentation ever on After Effects by Vishal Shah. Compositions in Time will look a some key features within After Effects. The presentation will cover basics and introduce you to techniques such as image masking, time mapping, layering multiple video images, keyframe animation and combining the still image with moving image media.</p>
+	<p><a href="http://londonmmug.org/calendar.php?do=attend&#038;e=34">More info and register</a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/london-mmug-feb-2006/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>MXNA in Eclipse</title>
+		<link>http://www.tink.ws/blog/mxna-in-eclipse/</link>
+		<comments>http://www.tink.ws/blog/mxna-in-eclipse/#comments</comments>
+		<pubDate>Fri, 03 Feb 2006 15:41:43 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Personal</category>
+		<guid>http://www.tink.ws/blog/mxna-in-eclipse/</guid>
+		<description><![CDATA[	Aral posted yesterday about opening MXNA in Eclipse to save you from switching to your browser all the time if you a blog addict.
+	I gave this a go but didn&#8217;t find it that usefull as Eclipse&#8217;s internal browser sat in a different panel to the main coding panel. Therefore when you want to switch to [...]]]></description>
+			<content:encoded><![CDATA[	<p><a href="http://www.flashant.org/">Aral</a> posted yesterday about opening <a href="http://weblogs.macromedia.com/mxna/">MXNA</a> in <a href="http://www.eclipse.org/">Eclipse</a> to save you from switching to your browser all the time if you a blog addict.</p>
+	<p>I gave this a go but didn&#8217;t find it that usefull as Eclipse&#8217;s internal browser sat in a different panel to the main coding panel. Therefore when you want to switch to MXNA you have to resize the panel its in, which takes longer than just switching to you browser.</p>
+	<p>The <a href="http://www.richardleggett.co.uk/blog/index.php">Rich</a> pointed out that there was a quick launch area. You can drag and drop views to the very bottom left and it creates a little icon. Clicking on the icon will open the view above all other content. You can set its size to whatever you want and it preserves this size the next time is opened. So now to look at MXNA i just have to toggle this icon.</p>
+	<p>Note you can drag and drop multiple views into this quick launch area. Nice!
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/mxna-in-eclipse/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Avoid the Alliance &amp; Leicester</title>
+		<link>http://www.tink.ws/blog/alliance-leicesterare-shite/</link>
+		<comments>http://www.tink.ws/blog/alliance-leicesterare-shite/#comments</comments>
+		<pubDate>Thu, 02 Feb 2006 15:28:24 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Personal</category>
+		<guid>http://www.tink.ws/blog/alliance-leicesterare-shite/</guid>
+		<description><![CDATA[	If you&#8217;re starting a business you&#8217;ll expect everyone to pull out all the stops on your behalf. Staff, suppliers and most importantly your business bank. That&#8217;s why it&#8217;s essential you don&#8217;t fall for the first high street bank you see and think wisely about your long-term needs.
+	Fortunately, at Alliance &#038; Leicester Commercial Bank, we&#8217;ve got [...]]]></description>
+			<content:encoded><![CDATA[	<blockquote><p>If you&#8217;re starting a business you&#8217;ll expect everyone to pull out all the stops on your behalf. Staff, suppliers and most importantly your business bank. That&#8217;s why it&#8217;s essential you don&#8217;t fall for the first high street bank you see and think wisely about your long-term needs.</p>
+	<p>Fortunately, at Alliance &#038; Leicester Commercial Bank, we&#8217;ve got your interests at heart and offer you real value for money from the start.</p>
+	<p>Our award winning Business Builder Current Account offers 2 years free banking to ensure your new venture gets off to the best possible start.</p></blockquote>
+	<p>Award winning my arse. I like t know who the hell is giving these awards out!! I joined the Alliance &#038; Leicester Commercial Bank (or tried to) back in June 2005. </p>
+	<p>1. It took 4 months to finally get an account open. This involved them losing forms. Me going into Alliance &#038; Leicester and getting them to photocopy and sign the docs, which once recieve they said were illegible (even though they took and sent the copies) and just a them generally not having a clue what they are doing. every time you phone you have to go through the whole process again. When i finally did get the account open I didn&#8217;t get a card so I could withdraw money.</p>
+	<p>2. After phoning and asking for a card they said they would send one in the post. I asked if it would be recorded delivery as I would be out the country (at Spark Europe). They said no it would be normal delivery. I get back and have a note saying i wasn&#8217;t in for a recorded delivery. I phone up Alliance &#038; Leicester and tell them i don&#8217;t have the card and I have a recorded delivery slip. They guarentee me that it won&#8217;t be their card, they cancelled the card and sent another out, again making it clear it won&#8217;t be recorded delivery. I go a collect my missed letter a couple of days later and its the bloody cancelled card. A week after that i finally get another card delivered and again it was recorded delivery.</p>
+	<p>3. After the months of getting this sorted I still didn&#8217;t have any Internet access to the account. I ask for this in November 2005 and am told to fill out a new form. I then get a phone call 2 weeks later saying that I can&#8217;t get an Internet account until the beginning of February 2006. Have i heard anything?</p>
+	<p>4.  I now try and book the flight on my card and behold they don&#8217;t accept Visa Electron. I phone Alliance &#038; Leicester and apparently they don&#8217;t trust me enough to let me have a proper card until i&#8217;ve been with them at least 6 months although the account is way in credit.</p>
+	<p>These guys are idiots. I would highly suggest you avoid the Alliance &#038; Leicester at all costs and they will cost you so much time, which as we all know means money.</p>
+	<p>If anyone has got any recommendations for business accounts or accountants please leave a comment
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/alliance-leicesterare-shite/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Flex 2.0 in beta</title>
+		<link>http://www.tink.ws/blog/flex-20-in-beta/</link>
+		<comments>http://www.tink.ws/blog/flex-20-in-beta/#comments</comments>
+		<pubDate>Wed, 01 Feb 2006 10:11:17 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Flash 8.5</category>
+	<category>ActionScript 3.0</category>
+		<guid>http://www.tink.ws/blog/flex-20-in-beta/</guid>
+		<description><![CDATA[	Go download the beta of Flex 2.0 and get involved.
+
+]]></description>
+			<content:encoded><![CDATA[	<p>Go <a href="http://labs.macromedia.com/">download the beta of Flex 2.0 </a>and get involved.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/flex-20-in-beta/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Introduction to AS 3.0</title>
+		<link>http://www.tink.ws/blog/introduction-to-as-30/</link>
+		<comments>http://www.tink.ws/blog/introduction-to-as-30/#comments</comments>
+		<pubDate>Mon, 30 Jan 2006 01:00:23 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Events</category>
+	<category>Flash 8.5</category>
+	<category>ActionScript 3.0</category>
+		<guid>http://www.tink.ws/blog/introduction-to-as-30/</guid>
+		<description><![CDATA[	Here&#8217;s the presentation from the LMMUG meeting the other week. You can download all the examples used in the presentation here.
+	I haven&#8217;t uploaded the source for the actually presentation yet as there a few things that are a bit buggy and unfortunately i can&#8217;t get any of the links to work using html tags and [...]]]></description>
+			<content:encoded><![CDATA[	<p><a href="http://www.tink.ws/blog/files/as3/IntroductionToAS3/">Here&#8217;s the presentation</a> from the LMMUG meeting the other week. You can <a href="http://www.tink.ws/blog/files/as3/IntroductionToAS3/examples.zip">download all the examples used in the presentation here</a>.</p>
+	<p>I haven&#8217;t uploaded the source for the actually presentation yet as there a few things that are a bit buggy and unfortunately i can&#8217;t get any of the links to work using html tags and htmlText, and i just haven&#8217;t had time to luck into them. I thought it might be useful to some people if i just put it up in the state thats its in, and when i get a chance to have a look at it i&#8217;ll update it and upload the source.</p>
+	<p>Aral&#8217;s presentation from the same night <a href="http://www.flashant.org/index.php?p=511&#038;more=1&#038;c=1">Introduction to Flex 2.0</a> can be <a href="http://www.flashant.org/index.php?p=511&#038;more=1&#038;c=1">downloaded from his blog</a>.</p>
+	<p>You&#8217;ll need <a href="http://labs.macromedia.com/technologies/flashplayer8_5/">Flash Player 8.5</a> installed to view either of them.</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/introduction-to-as-30/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Sparkle in beta</title>
+		<link>http://www.tink.ws/blog/sparkle-in-beta/</link>
+		<comments>http://www.tink.ws/blog/sparkle-in-beta/#comments</comments>
+		<pubDate>Tue, 24 Jan 2006 21:06:48 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Personal</category>
+	<category>Flash 8.5</category>
+		<guid>http://www.tink.ws/blog/sparkle-in-beta/</guid>
+		<description><![CDATA[	The first public release of Sparkle is here.
+]]></description>
+			<content:encoded><![CDATA[	<p><a href="http://www.microsoft.com/products/expression/en/interactive_designer/id_free_trial.aspx">The first public release of Sparkle is here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/sparkle-in-beta/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Advanced ActionScript Developers</title>
+		<link>http://www.tink.ws/blog/advanced-actionscript-developers/</link>
+		<comments>http://www.tink.ws/blog/advanced-actionscript-developers/#comments</comments>
+		<pubDate>Mon, 23 Jan 2006 19:25:05 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Jobs</category>
+		<guid>http://www.tink.ws/blog/advanced-actionscript-developers/</guid>
+		<description><![CDATA[	AKQA are currently recruiting permanent and freelance. Here&#8217;s what they&#8217;re after
+	&#8220;We are developing some very sophisticated web applications and require people with excellent object-oriented AS2 skills, with knowledge of design patterns and with good examples of application development, to work on various projects, starting immediately. There are both freelance and permanent opportunities - please send [...]]]></description>
+			<content:encoded><![CDATA[	<p>AKQA are currently recruiting permanent and freelance. Here&#8217;s what they&#8217;re after</p>
+	<p>&#8220;We are developing some very sophisticated web applications and require people with excellent object-oriented AS2 skills, with knowledge of design patterns and with good examples of application development, to work on various projects, starting immediately. There are both freelance and permanent opportunities - please send your CV and details to crdcareersATakqa.com (replace &#8216;AT&#8217; with &#8216;@&#8217;).&#8221;</p>
+	<p>From firsthand experience i can tell ya they have great team there, and some really exciting work. If you fit the bill then get in touch, and hey, tell em I sent ya!
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/advanced-actionscript-developers/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Default and Additional Method Parameters in AS 3.0</title>
+		<link>http://www.tink.ws/blog/default-method-parameters-in-as-30/</link>
+		<comments>http://www.tink.ws/blog/default-method-parameters-in-as-30/#comments</comments>
+		<pubDate>Mon, 23 Jan 2006 02:17:23 +0000</pubDate>
+		<dc:creator>Tink</dc:creator>
+		
+	<category>Flash 8.5</category>
+	<category>ActionScript 3.0</category>
+		<guid>http://www.tink.ws/blog/default-method-parameters-in-as-30/</guid>
+		<description><![CDATA[	Something i covered briefly in my presentation the other day on AS 3.0 (the files are coming guys).
+	Default
+You will get an error in AS 3.0 if a method doesn't get passed the correct amount of paremeters i.e. if it expects 2 and you pass one you will get an error. This is a nice addition, [...]]]></description>
+			<content:encoded><![CDATA[	<p>Something i covered briefly in my presentation the other day on AS 3.0 (the files are coming guys).</p>
+	<p><strong>Default</strong><br />
+You will get an error in AS 3.0 if a method doesn't get passed the correct amount of paremeters i.e. if it expects 2 and you pass one you will get an error. This is a nice addition, but you can get round this using default values for parameters. If the correct amount of parameters are then not passed the method will use the default values instead of generating an error therefore making the parameters optional.</p>
+	<div class="igBar"><a href="javascript:showCodeTxt('actionscript-3');">PLAIN TEXT</a></div>
+	<div class="syntax_hilite"><span style="color:#000000; font-weight:bold;">Actionscript:</span><br />
+<div id="actionscript-3">
+	<div class="actionscript">
+<ol>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">private</span> <span style="color: #000000; font-weight: bold;">function</span> testDefaultParams<span style="color:#006600; font-weight:bold;">&#40;</span>noDefault:<span style="color: #0066CC;">String</span>, hasDefault:<span style="color: #0066CC;">String</span> = <span style="color: #ff0000;">"Tink"</span><span style="color:#006600; font-weight:bold;">&#41;</span>:<span style="color: #0066CC;">Void</span></div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color:#006600; font-weight:bold;">&#123;</span></div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">trace</span><span style="color:#006600; font-weight:bold;">&#40;</span>hasDefault + <span style="color: #ff0000;">" "</span> + noDefault<span style="color:#006600; font-weight:bold;">&#41;</span>;</div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color:#006600; font-weight:bold;">&#125;</span></div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;">&nbsp;</div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;">testDefaultParams<span style="color:#006600; font-weight:bold;">&#40;</span><span style="color: #ff0000;">"has a beard"</span><span style="color:#006600; font-weight:bold;">&#41;</span> <span style="color: #808080; font-style: italic;">// Tink has a beard </span></div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;">&nbsp;</div>
+</li>
+</ol>
+</div>
+	</div>
+</div>
+	<p>Note that once you have specified a default parameter, all following parameters in that method also need a default value.</p>
+	<p><strong>Additional</strong><br />
+AS 3.0 also gives use the ability to pass more arguments to a method that it expects by using the ... keyword<br />
+<div class="igBar"><a href="javascript:showCodeTxt('actionscript-4');">PLAIN TEXT</a></div>
+	<div class="syntax_hilite"><span style="color:#000000; font-weight:bold;">Actionscript:</span><br />
+<div id="actionscript-4">
+	<div class="actionscript">
+<ol>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">private</span> <span style="color: #000000; font-weight: bold;">function</span> testExtraParams<span style="color:#006600; font-weight:bold;">&#40;</span>m:<span style="color: #0066CC;">String</span>, ...<span style="color: #006600;">n</span><span style="color:#006600; font-weight:bold;">&#41;</span>:<span style="color: #0066CC;">Void</span></div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color:#006600; font-weight:bold;">&#123;</span></div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">trace</span><span style="color:#006600; font-weight:bold;">&#40;</span>m<span style="color:#006600; font-weight:bold;">&#41;</span>;</div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;">&nbsp;</div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #b1b100;">for</span> each <span style="color:#006600; font-weight:bold;">&#40;</span><span style="color: #000000; font-weight: bold;">var</span> s:<span style="color: #0066CC;">String</span> <span style="color: #b1b100;">in</span> n<span style="color:#006600; font-weight:bold;">&#41;</span></div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color:#006600; font-weight:bold;">&#123;</span></div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">trace</span><span style="color:#006600; font-weight:bold;">&#40;</span>s<span style="color:#006600; font-weight:bold;">&#41;</span>;</div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color:#006600; font-weight:bold;">&#125;</span></div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color:#006600; font-weight:bold;">&#125;</span></div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;">&nbsp;</div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;">testExtraParams<span style="color:#006600; font-weight:bold;">&#40;</span><span style="color: #ff0000;">"Tink"</span>, <span style="color: #ff0000;">"has"</span>, <span style="color: #ff0000;">"a"</span>, <span style="color: #ff0000;">"beard"</span><span style="color:#006600; font-weight:bold;">&#41;</span>;</div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #808080; font-style: italic;">//Tink</span></div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #808080; font-style: italic;">//has</span></div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #808080; font-style: italic;">//a</span></div>
+</li>
+	<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #808080; font-style: italic;">//beard</span></div>
+</li>
+	<li style="font-weight: bold;color:#26536A;">
+<div style="color:#000000; font-family: 'Courier New', Courier, monospace; font-weight: normal;">&nbsp;</div>
+</li>
+</ol>
+</div>
+	</div>
+</div>
+	<p>So in the above example the first parameter is manitory. If it isn't passed they you will get an error, but the second paremeter is optional and you can pass more arguments and access their values inside the method as an Array.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.tink.ws/blog/default-method-parameters-in-as-30/feed/</wfw:commentRSS>
+	</item>
+	</channel>
+</rss>

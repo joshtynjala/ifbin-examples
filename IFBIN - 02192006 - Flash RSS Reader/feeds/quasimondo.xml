@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>Quasimondo</title>
+    <link>http://www.quasimondo.com/</link>
+    <description>The world of Flash according to Mario Klingemann. 
+quasi: Having a likeness to something; resembling
+mondo (ital.): World</description>
+    <dc:language>en-us</dc:language>
+    <dc:creator>mario@quasimondo.de</dc:creator>
+    <dc:rights>Copyright 2006</dc:rights>
+    <dc:date>2006-02-14T00:43:45+01:00</dc:date>
+    <admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+    <admin:errorReportsTo rdf:resource="mailto:mario@quasimondo.de"/>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+    <item>
+      <title>Flash 8: Pirate Map Generator</title>
+      <link>http://www.quasimondo.com/archives/000609.php</link>
+      <description>Yesterday I was asked if the blotting paper algorithm could also be used to create the look of paper with scorched edges. Well, as this is something a seasoned webdesigner needs on a daily basis I gave it a quick try. And indeed it&apos;s possible - though it takes one or two seconds to render, so don&apos;t try this in realtime. Here&apos;s a little treasure map paper generator which will create a range of randomly scorched edges. Press any key to create a different version (as usual - click the Flash file once to focus it). BTW - for colorizing</description>
+      <guid isPermaLink="false">609@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>Yesterday I was asked if the blotting paper algorithm could also be used to create the look of paper with scorched edges. Well, as this is something a seasoned webdesigner needs on a daily basis I gave it a quick try. And indeed it's possible - though it takes one or two seconds to render, so don't try this in realtime. </p>
+
+<p>Here's a little treasure map paper generator which will create a range of randomly scorched edges. Press any key to create a different version (as usual - click the Flash file once to focus it).</p>
+
+<p>BTW - for colorizing the map I'm using my ColorMap gradient generator class in concert with the paletteMap method, so even if you don't need a pirate map, you might need a smooth color palette someday.</p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2006-02-14T00:43:45+01:00</dc:date>
+    </item>
+    <item>
+      <title>Flash 8: Blotting Paper Effect</title>
+      <link>http://www.quasimondo.com/archives/000608.php</link>
+      <description>Here is an astonishingly simple method to get something like a diffusion effect of wet ink on blotting paper. This can be used to get organic looking edges or to give photos a painterly effect: 1. draw the object you want to diffuse onto a BitmapData object [A] 2. create another BitmapData object [B] of the same size as a temporary storage 3. create another BitmapData object [C] of the same size and fill it with noise 4. apply the DisplacementMapFilter on A using C as the displacement map and store it in B 5. draw B over A using</description>
+      <guid isPermaLink="false">608@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>Here is an astonishingly simple method to get something like a diffusion effect of wet ink on blotting paper. This can be used to get organic looking edges or to give photos a painterly effect:</p>
+
+<p>1. draw the object you want to diffuse onto a BitmapData object [A]<br />
+2. create another BitmapData object [B] of the same size as a temporary storage<br />
+3. create another BitmapData object [C] of the same size and fill it with noise</p>
+
+<p>4. apply the DisplacementMapFilter on A using C as the displacement map and store it in B<br />
+5. draw B over A using Multiply mode for growth or Screen mode for shrinking or both for something in between. You can also experiment with other blendmodes<br />
+6. repeat from step 4</p>
+
+<p>For a less fibery look you have to create a new random noise map each round. Instead of normal noise you can also use perlin Noise which will give you some freakish effect especially when used with photos.</p>
+
+<p>Here is a demo:</p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2006-02-13T00:31:19+01:00</dc:date>
+    </item>
+    <item>
+      <title>Flash Usability Par Excellence</title>
+      <link>http://www.quasimondo.com/archives/000607.php</link>
+      <description>Jens Franke has just finished Orange Project, a portfolio site for the photographer Sandra Weimar - what makes this so newsworthy apart from the beautiful photos is that he built it with the challenge to implement all features that Flash pundits usually moan about: back button support, deep linking, keyboard support, context menus just to mention a few. From what I could see he did it very well and he could make good use of several techniques that were collected in an earlier post here. So it looks like there is no excuse anymore to omit those features in the</description>
+      <guid isPermaLink="false">607@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p><a href="http://blog.jensfranke.com/2006/02/11/orange-project-%e2%80%93-the-technical-view/">Jens Franke</a> has just finished <a href="http://www.orange-project.com/">Orange Project</a>, a portfolio site for the photographer Sandra Weimar - what makes this so newsworthy apart from the beautiful photos is that he built it with the challenge to implement all features that Flash pundits usually moan about: back button support, deep linking, keyboard support, context menus just to mention a few. From what I could see he did it very well and he could make good use of several techniques that were <a href="http://www.quasimondo.com/archives/000565.php">collected in an earlier post</a> here.</p>
+
+<p>So it looks like there is no excuse anymore to omit those features in the next site you build. Well, except if your client doesn't want to pay for the 3 extra days of work...</p>]]></content:encoded>
+      <dc:subject>Observation</dc:subject>
+      <dc:date>2006-02-12T17:33:59+01:00</dc:date>
+    </item>
+    <item>
+      <title>Flash 8: Glowing Trails</title>
+      <link>http://www.quasimondo.com/archives/000606.php</link>
+      <description>My mate and ex-colleague Jan Peiro who is a master of &quot;manual&quot; Flash animation has given me an inspirational spark for a little glowing light trails eyecandy. I cannot stop praising the wonders and speed of the new draw() command - check it out:</description>
+      <guid isPermaLink="false">606@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>My mate and ex-colleague <a href="http://www.rogues.de/varioscopia">Jan Peiro</a> who is a master of "manual" Flash animation has given me an inspirational spark for a little glowing light trails eyecandy. </p>
+
+<p>I cannot stop praising the wonders and speed of the new draw() command - check it out:</p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2006-02-08T16:17:39+01:00</dc:date>
+    </item>
+    <item>
+      <title>Dr. Woohoo Goes Blogging</title>
+      <link>http://www.quasimondo.com/archives/000605.php</link>
+      <description>Just recently I had the pleasure to meet Drew Trujillo aka Dr. Woohoo in person and I can say that I love him and his stuff. One reason is that he also researches this area between mathematics, coding and art so we have lots of great discussions - the other reason is that this guy is simply super cool. Finally he has started a blog where he will document the progress and results of his brushes.paints.stencils. project. Bps is an amazing toolset that emulates natural and artificial brushes, paints and stencils and allows to make live recordings of paint sessions.</description>
+      <guid isPermaLink="false">605@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>Just recently I had the pleasure to meet Drew Trujillo aka Dr. Woohoo in person and I can say that I love him and his stuff. One reason is that he also researches this area between mathematics, coding and art so we have lots of great discussions - the other reason is that this guy is simply super cool.</p>
+
+<p>Finally he has started a blog where he will document the progress and results of his <a href="http://www.inthemod.com/bps/">brushes.paints.stencils.</a> project. Bps is an amazing toolset that emulates natural and artificial brushes, paints and stencils and allows to make live recordings of paint sessions.</p>
+
+<p>And if you haven't seen his <a href="http://www.inthemod.com/inthemod.html">color analytics experiment</a> where he statistically analyzes the color palettes of various artist you should do so now.</p>]]></content:encoded>
+      <dc:subject>Inspiration</dc:subject>
+      <dc:date>2006-01-18T02:19:20+01:00</dc:date>
+    </item>
+    <item>
+      <title>Flash 8: How to Colorize Àla Photoshop</title>
+      <link>http://www.quasimondo.com/archives/000604.php</link>
+      <description>As two commenters on my recent ColorMatrix class update correctly noticed, the new colorize() method does not tint images the way Photoshop does it. It&apos;s more the Blue Note Album Cover type of tint it does. Of course I have tried immediately to find the right ColorMatrix values that simulate the Photoshop colorize method, but I was not able to achieve the desired effect. So unless somebody proves me wrong I dare to say that it is not possible to do it with just a single ColorMatrix operation (of course I only say that to encourage someone to prove me</description>
+      <guid isPermaLink="false">604@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>As <a href="http://www.quasimondo.com/archives/000598.php">two commenters</a> on my recent ColorMatrix class update correctly noticed, the new colorize() method does not tint images the way Photoshop does it. It's more the <a href="http://www.pixagogo.com/7180565202">Blue Note Album Cover</a> type of tint it does. </p>
+
+<p>Of course I have tried immediately to find the right ColorMatrix values that simulate the Photoshop colorize method, but I was not able to achieve the desired effect. So unless somebody proves me wrong I dare to say that it is not possible to do it with just a single ColorMatrix operation (of course I only say that to encourage someone to prove me wrong).</p>
+
+<p>Nevertheless there is a way to get the colorizing right and it is rather simple. It only involves two operations: </p>
+
+<p>- first desaturate the image with the ColorMatrix.desaturate() method<br />
+- then draw a rectangle filled with the desired color over the whole image using the "overlay" blendmode.</p>
+
+<p>Here's the demo:</p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2006-01-17T14:15:08+01:00</dc:date>
+    </item>
+    <item>
+      <title>Another Flickr Tool: Tagnautica</title>
+      <link>http://www.quasimondo.com/archives/000603.php</link>
+      <description>Oh well. I&apos;ve just made another widget for Flickr only to discover that someone else has already built something very similar more than half a year ago. I better mention this before anyone thinks that I&apos;ve borrowed the idea - I really haven&apos;t seen the Flickr Related Tag Browser by Airtight until five minutes ago so the similarities are totally coincidental. Actually - if you want a great usable tool you don&apos;t need to read any further. Because Tagnautica is a rather experimental navigation tool to explore the Flickr related tags space. The fisheye pearl chain interface has been lying</description>
+      <guid isPermaLink="false">603@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>Oh well. I've just made another widget for Flickr only to discover that someone else has already built something very similar more than half a year ago. I better mention this before anyone thinks that I've borrowed the idea - I really haven't seen the <a href="http://www.airtightinteractive.com/projects/related_tag_browser/">Flickr Related Tag Browser</a> by <a href="http://www.airtightinteractive.com/">Airtight</a> until five minutes ago so the similarities are totally coincidental. Actually  - if you want a great usable tool you don't need to read any further.</p>
+
+<p>Because <a href="http://www.quasimondo.com/tagnautica.php">Tagnautica</a> is a rather experimental navigation tool to explore the <a href="http://www.flickr.com/photos/tags">Flickr related tags space</a>. The fisheye pearl chain interface has been lying in one of my folders for quite a while (4 years actually) and I found this a good opportunity to use it. I think it is quite entertaining to play around with it. But see yourself.</p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2006-01-09T00:24:30+01:00</dc:date>
+    </item>
+    <item>
+      <title>Flickr Search by Sketch: Retrievr</title>
+      <link>http://www.quasimondo.com/archives/000602.php</link>
+      <description>System One have created Retrievr an impressing tool that allows you to draw a raw sketch and then retrieve those images from Flickr that have the highest similarity. Those who want to know what happens behind the scenes should have a look at the research paper of Chuck Jacobs, Adam Finkelstein and David Salesin from the University of Washington: Fast Multiresolution Image Querying.</description>
+      <guid isPermaLink="false">602@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p><a href="http://www.systemone.at/en/company/labs/">System One</a> have created <a href="http://labs.systemone.at/retrievr/">Retrievr</a> an impressing tool that allows you to draw a raw sketch and then retrieve those images from Flickr that have the highest similarity. Those who want to know what happens behind the scenes should have a look at the research paper of Chuck Jacobs, Adam Finkelstein and David Salesin from the University of Washington: <a href="http://grail.cs.washington.edu/projects/query/">Fast Multiresolution Image Querying</a>.</p>]]></content:encoded>
+      <dc:subject>Inspiration</dc:subject>
+      <dc:date>2006-01-04T11:50:48+01:00</dc:date>
+    </item>
+    <item>
+      <title>Flash 8: Clockr</title>
+      <link>http://www.quasimondo.com/archives/000601.php</link>
+      <description>Whilst waiting for this year to end I have build another little Flash widget that uses the Flickr API: Clockr is a clock that displays the current time by using images from Flickr that show single digits. If you want to contribute more numbers to the pool use the tag &quot;onedigit&quot; but please follow the rules of that group (just upload real photos for example). If you don&apos;t like a number just click on it so it will switch to another one from the huge pool - as more and more numbers are loaded the available selection gets bigger the</description>
+      <guid isPermaLink="false">601@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>Whilst waiting for this year to end I have build another little Flash widget that uses the Flickr API: <a href="http://www.quasimondo.com/clockr.php">Clockr</a> is a clock that displays the current time by using images from <a href="http://www.flickr.com">Flickr</a> that show single digits. If you want to contribute more numbers to the pool use the tag "<a href="http://www.flickr.com/groups/onedigit">onedigit</a>" but please follow the rules of that group (just upload real photos for example).</p>
+
+<p>If you don't like a number just click on it so it will switch to another one from the huge pool - as more and more numbers are loaded the available selection gets bigger the longer you wait.</p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2005-12-31T17:32:13+01:00</dc:date>
+    </item>
+    <item>
+      <title>Flash 8: Flickeur</title>
+      <link>http://www.quasimondo.com/archives/000600.php</link>
+      <description>I finally had some time to play around with the Flickr API and created Flickeur. This piece retrieves random images from Flickr.com and creates a stream-of-consciousness type of video clip out of them. By adding image layer upon image layer it creates an endless loop which is in constant change. Sometimes this principle generates the strangest stories. Due to the random nature of the piece you may have to be patient a bit until something starts to happen. I have used Kelvin Luck&apos;s Flashr wrapper which makes all the communcation with the Flickr API very easy. Unfortunately there is a</description>
+      <guid isPermaLink="false">600@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>I finally had some time to play around with the Flickr API and created <a href="http://incubator.quasimondo.com/flash/flickeur.php">Flickeur</a>. This piece retrieves random images from <a href="http://www.flickr.com">Flickr.com</a> and creates a stream-of-consciousness type of video clip out of them. By adding image layer upon image layer it creates an endless loop which is in constant change. Sometimes this principle generates the strangest stories. Due to the random nature of the piece you may have to be patient a bit until something starts to happen.</p>
+
+<p>I have used <a href="http://kelvinluck.com/">Kelvin Luck's</a> <a href="http://kelvinluck.com/projects/flashr-a-flickr-api-wrapper-for-flash">Flashr</a> wrapper which makes all the communcation with the Flickr API very easy. Unfortunately there is a <a href="http://livedocs.macromedia.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts&file=00001950.html">real problem</a> with the way the security sandbox in Flash handles the draw() command: whilst you can load and display images from other servers you cannot draw() them to a bitmapData object. In order for that to work the loaded clip has to issue a System.security.allowDomain(myDomain) which of course only swfs can do - not JPEGS. This means you cannot do any fancy bitmap operations with these images. The only workaround I have found until now is to use a proxy on my own server which fetches the images from flickr. Of course that is not satisfying at all as now all the traffic is adding to my server bill. </p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2005-12-29T16:45:28+01:00</dc:date>
+    </item>
+    <item>
+      <title>Oh... here comes ColorMatrix Class v1.2</title>
+      <link>http://www.quasimondo.com/archives/000599.php</link>
+      <description>Two updates in one day? Well, whilst playing around with the class today I just had a few more ideas how to make it more useful, so I quickly implemented them: I&apos;ve added a blend() method which allows to blend between two ColorMatrices - this makes color tweening very easy because you just have to tween one value - the amount of blending. Additionally I&apos;ve added a &quot;filter&quot; property which returns a ColorMatrixFilter object initialized with the matrix values - this saves you one step. Furthermore there&apos;s now a randomize() and a clone() method. Here is an example which demonstrates</description>
+      <guid isPermaLink="false">599@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>Two updates in one day? Well, whilst playing around with the class today I just had a few more ideas how to make it more useful, so I quickly implemented them:</p>
+
+<p>I've added a blend() method which allows to blend between two ColorMatrices - this makes color tweening very easy because you just have to tween one value - the amount of blending.</p>
+
+<p>Additionally I've added a "filter" property which returns a ColorMatrixFilter object initialized with the matrix values - this saves you one step.</p>
+
+<p>Furthermore there's now a randomize() and a clone() method.</p>
+
+<p>Here is an example which demonstrates the tweening between two ColorMatrices (something that <a href="http://www.gskinner.com/blog/archives/2005/09/flash_8_source.html">Grant Skinner demonstrated so elegantly</a> with his ColorMatrix class already months ago):<br />
+</p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2005-12-22T15:25:25+01:00</dc:date>
+    </item>
+    <item>
+      <title>Update: Flash 8 ColorMatrix Class v1.1</title>
+      <link>http://www.quasimondo.com/archives/000598.php</link>
+      <description>I have added a colorize( rgb, amount ) method to my ColorMatrix class - it allows you to tint bitmaps similar to the &quot;colorize&quot; method of Photoshop. Correct me if I&apos;m wrong here, but to my knowledge this kind of colorizing is not possible with Flash&apos;s normal colorTransform or tint. Here&apos;s the demo:</description>
+      <guid isPermaLink="false">598@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>I have added a colorize( rgb, amount ) method to my <a href="http://www.quasimondo.com/archives/000565.php">ColorMatrix</a> class - it allows you to tint bitmaps similar to the "colorize" method of Photoshop. Correct me if I'm wrong here, but to my knowledge this kind of colorizing is not possible with Flash's normal colorTransform or tint. </p>
+
+<p>Here's the demo:</p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2005-12-22T12:54:36+01:00</dc:date>
+    </item>
+    <item>
+      <title>Scripted Tweening News</title>
+      <link>http://www.quasimondo.com/archives/000597.php</link>
+      <description>Daniel Wabyick from fluid.com has updated his Tween Playground and the underlying Fluid Tweener Class so it plays nicely now with AS2.0. So if you are not satisfied with Flash&apos;s out-of-the-box Strong.easeIn or Regular.easeInOut but want the full Penner Easing Package you should check it out. And you also might want to have a look at Filippo Gregoretti&apos;s new blog Pippo Flash that he just started with his Smooth Mover class which is an easy way to generate scripted organic looking tweens.</description>
+      <guid isPermaLink="false">597@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>Daniel Wabyick from <a href="http://www.fluid.com">fluid.com</a> has updated his <a href="http://www.fluid.com/experiments/tweenplayground/ ">Tween Playground</a> and the underlying Fluid Tweener Class so it plays nicely now with AS2.0. So if you are not satisfied with Flash's out-of-the-box Strong.easeIn or Regular.easeInOut but want the full Penner Easing Package you should check it out.</p>
+
+<p>And you also might want to have a look at Filippo Gregoretti's new blog <a href="http://www.pippoflash.com">Pippo Flash</a> that he just started with  his <a href="http://www.pippoflash.com/?p=24">Smooth Mover class</a> which is an easy way to generate scripted organic looking tweens.</p>]]></content:encoded>
+      <dc:subject>Observation</dc:subject>
+      <dc:date>2005-12-19T20:21:37+01:00</dc:date>
+    </item>
+    <item>
+      <title>Flash 8: Instant Camouflage</title>
+      <link>http://www.quasimondo.com/archives/000596.php</link>
+      <description>Lavalamp meets camouflage. A little Flash sketch which creates random textures that morph and move. Did someone say &quot;Perlin Noise&quot;? Klick the area once and then press any key to create different patterns and color schemes (some of which are really ugly I must admit - but well, that&apos;s the nature of randomness).</description>
+      <guid isPermaLink="false">596@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>Lavalamp meets camouflage. A little Flash sketch which creates random textures that morph and move. Did someone say "Perlin Noise"?</p>
+
+<p>Klick the area once and then press any key to create different patterns and color schemes (some of which are really ugly I must admit - but well, that's the nature of randomness). </p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2005-12-18T15:07:51+01:00</dc:date>
+    </item>
+    <item>
+      <title>Flash 8: Hitting Bitmaps with the concatenatedMatrix</title>
+      <link>http://www.quasimondo.com/archives/000595.php</link>
+      <description>I always wondered when I would find a use for MovieClip.transform.concatenatedMatrix - finally I&apos;ve found one. It becomes very useful when you try to detect if you&apos;ve hit a BitmapData object under your mouse pointer - especially if that bitmap is nested inside one or more movieclips that have been scaled or rotated. Think of it like the localToGlobal for bitmaps - just a little bit more elegant. Here&apos;s a code to do that: var m:Matrix = mc.transform.concatenatedMatrix; // mc is the clip that holds the bitmapData Object m.invert(); // that&apos;s the trick - by inverting the matrix // we</description>
+      <guid isPermaLink="false">595@http://www.quasimondo.com/</guid>
+      <content:encoded><![CDATA[<p>I always wondered when I would find a use for  MovieClip.transform.concatenatedMatrix - finally I've found one. It becomes very useful when you try to detect if you've hit a BitmapData object under your mouse pointer - especially if that bitmap is nested inside one or more movieclips that have been scaled or rotated. Think of it like the localToGlobal for bitmaps - just a little bit more elegant.</p>
+
+<p>Here's a code to do that:<br />
+<code><br />
+var m:Matrix = mc.transform.concatenatedMatrix; <br />
+// mc is the clip that holds the bitmapData Object</p>
+
+<p>m.invert(); <br />
+// that's the trick - by inverting the matrix <br />
+// we can map the mouse coordinates back into the mc</p>
+
+<p>var mp:Point = new Point( _root._xmouse, _root._ymouse );<br />
+// the current mouse coordinates as a Point<br />
+// note _root is not evil here, because that's <br />
+// the same level as concatenatedMatrix points to</p>
+
+<p>var p:Point = m.transformPoint( mp );<br />
+// transform the mouse coordinates <br />
+// through the inverted matrix</p>
+
+<p>if ( myBitmap.hitTest( new Point(), 8, p ) ){<br />
+ // and make the hit test<br />
+ // 8 in this case is the minimum alpha level <br />
+ //to count as a hit</p>
+
+<p>  trace("bitmap hit");<br />
+}<br />
+</code></p>
+
+<p>And here is a demo:</p>]]></content:encoded>
+      <dc:subject>Concentration</dc:subject>
+      <dc:date>2005-12-17T16:44:17+01:00</dc:date>
+    </item>
+
+
+  </channel>
+</rss>
+

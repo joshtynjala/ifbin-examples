@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	
+		EXAMPLE: Flex 2 Syndication
+		AUTHOR: Josh Tynjala
+		CREATED: February 20, 2006
+		MODIFIED: August 12, 2006
+	
+		Adobe® Flex™ by Example
+		http://www.ifbin.com/
+		
+-->
+
+<!-- This application loads a series of news feeds into a feed aggregation panel. -->
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" xmlns="*" layout="vertical"
+	creationComplete="this.loadDefaultFeeds()">
+	
+	<!-- Holds a listing of the default feeds that will be loaded.
+		It's a short listing of only a few of IFBIN's contributors. -->
+	<mx:ArrayCollection id="feedsList">
+		<mx:String>./feeds/abdulqabiz.xml</mx:String>
+		<mx:String>./feeds/andremichelle.xml</mx:String>
+		<mx:String>./feeds/aralbalkan.xml</mx:String>
+		<mx:String>./feeds/darronschall.rdf</mx:String>
+		<mx:String>./feeds/gskinner.xml</mx:String>
+		<mx:String>./feeds/guywatson.xml</mx:String>
+		<mx:String>./feeds/jessewarden.rdf</mx:String>
+		<mx:String>./feeds/keithpeters.xml</mx:String>
+		<mx:String>./feeds/quasimondo.rdf</mx:String>
+		<mx:String>./feeds/tedpatrick.rdf</mx:String>
+		<mx:String>./feeds/tink.xml</mx:String>
+		<mx:String>./feeds/zeuslabs.xml</mx:String>
+	</mx:ArrayCollection>
+	
+	<!-- The FeedReader component displays the feeds. -->
+	<FeedReader id="reader" width="90%" height="90%" />
+	
+	<mx:Script>
+		<![CDATA[
+			
+			// Used to load the news feeds.
+			import flash.net.URLLoader;
+			import flash.net.URLRequest;
+			
+			// General feed interfaces used by the FeedReader
+			// These interfaces come from Adobe's open source feed library.
+			import com.adobe.xml.syndication.generic.IFeed;
+			import com.adobe.xml.syndication.generic.IItem;
+			import com.adobe.xml.syndication.generic.FeedFactory;
+			
+			// This holds the index of the feed being loaded.
+			private var _currentFeedID:uint;
+			
+			/**
+			 *  This function is called on the Application's creationComplete
+			 *  event. It starts loading the feeds specified in the "feedsList"
+			 *  ArrayCollection object.
+			 */
+			private function loadDefaultFeeds():void
+			{
+				// start at the first feed
+				this._currentFeedID = 0;
+				
+				// Parse the first feed
+				this.getNextFeed();
+			}
+			
+			/**
+			 *  Loads the current feed.
+			 */
+			private function getNextFeed():void
+			{
+				// Get the next feed from the list
+				var currentFeed:String = this.feedsList[ this._currentFeedID ];
+				
+				// Update the feed counter to use the next feed
+				this._currentFeedID++;
+				
+				// Use an URLLoader to retrieve the current feed.
+				var feedLoader:URLLoader = new URLLoader();
+				feedLoader.addEventListener( Event.COMPLETE, loadCompleteHandler, false, 0, true );
+				feedLoader.addEventListener( IOErrorEvent.IO_ERROR, loadErrorHandler, false, 0, true );
+				feedLoader.load( new URLRequest( currentFeed ) );
+			}
+			
+			/**
+			 *  When the feed loader completes its operation, convert the data
+			 *  to an IFeed, and pass it to the FeedReader component.
+			 */
+			private function loadCompleteHandler( event:Event ):void
+			{
+				// The event's target is our feed loader
+				var feedLoader:URLLoader = event.target as URLLoader;
+				
+				// Don't forget to stop listening for the events!
+				feedLoader.removeEventListener( Event.COMPLETE, loadCompleteHandler );
+				feedLoader.removeEventListener( IOErrorEvent.IO_ERROR, loadErrorHandler );
+				
+				// The FeedReader only takes classes that implement IFeed
+				var rawFeed:XML = new XML(feedLoader.data);
+				
+				// The FeedFactory class can convert arbitrary feeds to an IFeed
+				var genericFeed:IFeed;
+				
+				try
+				{
+					// If we're dealing with a feed type that the factory does
+					// not understand (such as Atom 0.3), it might throw an
+					// error our way. That's bad.
+					genericFeed = FeedFactory.getFeedByXML(rawFeed);
+				}
+				catch(error:Error)
+				{
+					trace( "The feed " + this.feedsList[ this._currentFeedID - 1 ] + " may not be a valid feed, or it may be of an unknown type." );
+					
+					
+					// If we have any more feeds, get the next one
+					if( this._currentFeedID < this.feedsList.length ) this.getNextFeed();
+					return;
+				}
+				
+				// We've got it, now send it to the reader to handle
+				// displaying the feed.
+				reader.addFeed( genericFeed );
+				
+				// If we have any more feeds, get the next one
+				if( this._currentFeedID < this.feedsList.length ) this.getNextFeed();
+			}
+			
+			/**
+			 *  If there is an error loading one of the feeds, it should be
+			 *  handled, and the next feed should be loaded.
+			 */
+			private function loadErrorHandler( event:IOErrorEvent ):void
+			{
+				// The event's target is our feed loader
+				var feedLoader:URLLoader = event.target as URLLoader;
+				
+				// Don't forget to stop listening for the events!
+				feedLoader.removeEventListener( Event.COMPLETE, loadCompleteHandler );
+				feedLoader.removeEventListener( IOErrorEvent.IO_ERROR, loadErrorHandler );
+				
+				// We seem to be having problems getting a feed. 
+				// Just trace an error message for debugging.
+				// In a more complete program, you might want to inform the user.
+				trace( "The feed " + this.feedsList[ this._currentFeedID - 1 ] + " failed to load. The URL may be invalid, or there may be a server error." );
+
+				// If we have any more feeds, get the next one
+				if( this._currentFeedID < this.feedsList.length ) this.getNextFeed();
+			}
+		]]>
+	</mx:Script>
+</mx:Application>

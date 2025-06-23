@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+   <channel>
+      <title>Brajeshwar</title>
+      <link>http://www.brajeshwar.com/</link>
+      <description>Brajeshwar is an ace digerati, dedicating his time mostly to the - F - Technology; Flash, FlashPaper, FlashRemoting, FlashMediaServer, FlashLite and Flex. An ardent believer of KISS (Keep It Simple Stupid), he envision pushing the technical envelop time and again for the betterment of commercial and practical applications.</description>
+      <language>en</language>
+      <copyright>Copyright 2006</copyright>
+      <lastBuildDate>Wed, 15 Feb 2006 10:20:14 +0000</lastBuildDate>
+      <generator>http://www.sixapart.com/movabletype/?v=3.2</generator>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+
+            <item>
+         <title>Design Pattern and User Interface Library from Yahoo!</title>
+         <description><![CDATA[<p>Everyone have blogged about <a href="http://developer.yahoo.net/ypatterns/" title="Design Pattern Library">Design Pattern Library</a> and <a href="http://developer.yahoo.net/yui/" title="User Interface Library">User Interface Library</a> from <a href="http://developer.yahoo.net/" title="Yahoo! Developer Network">Yahoo! Developer Network</a>. Let me do my bit for the archive.</p>
+
+<p>The <strong>Yahoo! User Interface Library</strong> is a set of utilities and controls, written in JavaScript, for building richly interactive web applications using techniques such as <span class="caps">DOM </span>scripting, <span class="caps">HTML </span>and <span class="caps">AJAX.</span> The UI Library Utilities facilitate the implementation of rich client-side features by enhancing and normalizing the developer&#8217;s interface to important elements of the browser infrastructure (such as events, in-page <span class="caps">HTTP </span>requests and the <span class="caps">DOM</span>). The Yahoo UI Library Controls produce visual, interactive user interface elements on the page with just a few lines of code and an included <span class="caps">CSS </span>file. All the components in the Yahoo! User Interface Library have been released as open source under a <span class="caps">BSD </span>license and are free for all uses.</p>
+
+<p><a href="http://developer.yahoo.net/yui/downloads/yui.zip" title="Download Yahoo! UI Library">Download Yahoo! UI Library</a><br />
+Join <a href="http://groups.yahoo.com/group/ydn-javascript/" title="Yahoo! UI Library">Yahoo! UI Library</a> mailing list.</p>
+
+<p>The <strong>Yahoo! Design Pattern Library</strong> is an evolving set of sophisticated design guidelines for building web pages and applications. The design patterns do not require the Yahoo! UI Library components, although using the UI Library can help you more easily implement the patterns.</p>
+
+<p>The Yahoo! UI Library downloads contains documentations, source files and examples of the various libraries.</p>
+
+<p>While you are at it, don&#8217;t forget to read the article, <a href="http://developer.yahoo.net/yui/articles/gbs/gbs.html" title="Graded Browser Support">Graded Browser Support</a> By Nate Koechley, Senior Web Developer at Yahoo! Inc.</p>]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/02/design-pattern-and-user-interface-library-from-yahoo/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/02/design-pattern-and-user-interface-library-from-yahoo/</guid>
+         <category>Technology</category>
+         <pubDate>Wed, 15 Feb 2006 10:20:14 +0000</pubDate>
+      </item>
+            <item>
+         <title>Turbine Video Encorder 2</title>
+         <description><![CDATA[<p><?php ImgBlog("technology/TurbineVideoEncorder2.png", 0, "Turbine Video Encoder 2", "http://blue-pacific.com/products/turbinevideo/");?><a href="http://blue-pacific.com/" title="Blue Pacific">Blue Pacific</a> have recently released <a href="http://blue-pacific.com/products/turbinevideo/" title="Turbine Video Encoder 2">Turbine Video Encoder 2</a>, an easy to use Video Encorder. It makes it easy to convert videos to <span class="caps">FLV</span>/SWF and instantly publish it for viewing, complete with the html wrapper and the skin swf.</p>
+
+<p>Besides just encoding videos, it comes pre-bundled with a bunch of click-apply visual effects, good collection of player skins and of course the ability to define properties to your player assets. <a href="http://blue-pacific.com/products/turbinevideo/" title="Turbine Video Encoder 2">Turbine Video Encoder 2</a> comes with the ability to add subtitles, captions to your videos and the ability to watermark a video.</p>
+
+<p>Its <strong>Simple</strong> mode allows publishing a video in 2 easy steps - <strong>Encode</strong> &gt; <strong>Publish</strong> while its <strong>Advanced</strong> mode allows tinkering with the different settings - video, audio, special effects, player, subtitles.</p>]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/02/turbine-video-encorder-2/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/02/turbine-video-encorder-2/</guid>
+         <category>Technology</category>
+         <pubDate>Tue, 14 Feb 2006 20:34:06 +0000</pubDate>
+      </item>
+            <item>
+         <title>Aftermath of a Fresh Windows Install, Few Tips</title>
+         <description><![CDATA[<p>Whenever I do an install or a re-intall of <a href="http://www.microsoft.com/" title="Windows">Windows</a>, I do coupla Must-Do-Tweaks. I have them written down so I know how to execute them in steps. Let me archive some of them here for future reference.</p>
+
+<p><strong>Customize Folder Context Menu</strong></p>
+
+<p>Start &gt; Run and type &#8220;Regedit&#8221;</p>
+
+<p>[HKEY_CLASSES_ROOT\Folder\Shell\]<br />
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\]<br />
+[HKEY_CLASSES_ROOT\Directory\Shell\]</p>
+
+<p><strong>Shutdown is Slower - Windows XP</strong></p>
+
+<p>Start &gt; Run and type &#8220;Regedit&#8221;</p>
+
+<p>[HKEY_LOCAL_MACHINE<br />
+\SYSTEM<br />
+\CurrentControlSet<br />
+\Control<br />
+\Session Manager<br />
+\Memory Management]</p>
+
+<p>Set ClearPageFileAtShutdown value to 0</p>
+
+<p><strong>Alternate method for Windows XP Professional</strong></p>
+
+<p>Start &gt; Run and type &#8220;Secpol.msc&#8221;<br />
+Click Local Policies | Security Options<br />
+In the right-pane, set &#8220;Shutdown: Clear virtual memory pagefile&#8221; to &#8220;Disabled&#8221;</p>
+
+<p>However, this setting is not the only cause for slow shutdowns. Non-responsive programs and Services also contribute to slow shutdowns. Lowering the WaitToKillServiceTimeOut may help as well. The WaitToKillServiceTimeout value name in the registry allows you to specify a length of time that the service control manager must wait for services to complete the shut-down request. To do this;</p>
+
+<p>Start &gt; Run and type &#8220;Regedit&#8221;</p>
+
+<p><span class="caps">HKEY</span>_LOCAL_MACHINE<br />
+\SYSTEM<br />
+\CurrentControlSet<br />
+\Control<br />
+\WaitToKillServiceTimeout</p>
+
+<p>Then, reduce the Service timeout value (default being 20000ms) to your preference.</p>
+
+<p>Similarly, set the AutoEndTasks to 1 in the following registry key: </p>
+
+<p><span class="caps">HKEY</span>_CURRENT_USER<br />
+\Control Panel<br />
+\Desktop</p>
+
+<p>&#8220;AutoEndTasks&#8221; value determines whether user processes end automatically when the user either logs off or shuts down Windows 2000/XP.</p>]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/02/aftermath-of-a-fresh-windows-install-few-tips/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/02/aftermath-of-a-fresh-windows-install-few-tips/</guid>
+         <category>Technology</category>
+         <pubDate>Sun, 12 Feb 2006 15:46:24 +0000</pubDate>
+      </item>
+            <item>
+         <title>I have some 23hq PLUS Coupons</title>
+         <description><![CDATA[<p><a href="http://www.23hq.com/" title="23hq">23hq</a> is a <a href="http://www.flickr.com/" title="Flickr">Flickr</a> like Photo Sharing Application. Recently we finished an <a href="http://blog.oinam.com/archives/2006/02/23hq-the-flash-8-multiple-photo-upload-feature/" title="Flash 8 Multiple Photo Upload Feature">additional feature</a> to their application. <a href="http://www.23hq.com/" title="23hq">23hq</a> have given us some coupons for their <strong><span class="caps">PLUS</span> Paid Service</strong> to raffle. Just like I gave away some <a href="http://www.brajeshwar.com/archives/2005/04/get-your-free-flickr-pro-account/" title="Flickr Pro Account">Flickr Pro Account</a> sometime back, I am willing to give this away to interested readers who can summon up enough time to mail/comment for the same.</p>]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/02/i-have-some-23hq-plus-coupons/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/02/i-have-some-23hq-plus-coupons/</guid>
+         <category>General</category>
+         <pubDate>Fri, 10 Feb 2006 09:40:40 +0000</pubDate>
+      </item>
+            <item>
+         <title>God is a .Net Programmer</title>
+         <description><![CDATA[<p>Here is a funny article - <a href="http://jroller.com/page/agoncal?entry=god_is_a_net_programmer" title="God is a .Net Programmer">God is a .Net Programmer</a></p>
+
+<p>&#8220;God created the universe, the planet and Man in just 7 days. And you can see the mess. Imagine if he had 40% more time to think about it, life would be better!&#8221;</p>]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/02/god-is-a-net-programmer/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/02/god-is-a-net-programmer/</guid>
+         <category>General</category>
+         <pubDate>Fri, 10 Feb 2006 08:02:35 +0000</pubDate>
+      </item>
+            <item>
+         <title>Escaped from a deadly accident</title>
+         <description><![CDATA[<p>My brother, Benao was driving the car wherein me, <a href="http://www.arindambiswas.com/" title="Arindam">Arindam</a> and my cousin, <a href="http://lindathejyoti.blogspot.com/" title="Linda">Linda</a> were returning from Pune on the Pune-Mumbai Expressway on that fateful night of 8th of February, 2006. Along the way on one stretch of the ExpressWay, we saw a huge truck lying on its side and about 5 minutes ahead of it the road followed a concave curve along which he had maneuvered very well just to find that an iron rod have strayed on the right side of the road. Well, instead of doing a sharp turn at 120 km/hr, he slowed down and went over it allowing it to hit the right wheel which eventually saved us an accident by sacrificing the right wheel rubber. While we stood guard at the road&#8217;s shoulder for incoming vehicles, he quickly changed to the back-up tyre in about 15 minutes and returned home safely.</p>
+
+<p>I have always trusted him with driving most vehicle and is very good at it. I am pretty sure it was his quick judgement that save us a tragedy. His love for vehicles have drove him to drive cars, jeeps and even trucks at a much early age of his life (well before he was even legal to drive). I can recollect the facts that all the family, my uncles and relatives have trusted him to drive any vehicle. I have even heard episodes, while around the tender age of 14-15 years, he have driven heavy road-rollers while one of our uncle was doing some contract work for road repairs.</p>
+
+<p>Anyway, we went to Pune for an on-the-spurt-decision meeting with a company who wanted a high-end Rich-Media, Video-Enhanced Application to be powered by Flash Media Server and served through a Flash Interface. The whole project is clandestine yet and I won&#8217;t say anything more. I think I should be able to say something after 6 months from now.</p>]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/02/escaped-from-a-deadly-accident/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/02/escaped-from-a-deadly-accident/</guid>
+         <category>General</category>
+         <pubDate>Fri, 10 Feb 2006 07:58:57 +0000</pubDate>
+      </item>
+            <item>
+         <title>Personal Time Management for Busy Managers</title>
+         <description><![CDATA[<p><strong>Effective</strong> - having a definite or desired effect<br />
+<strong>Efficient</strong> - productive with minimum waste or effort<br />
+<strong>Effortless</strong> - seemingly without effort; natural, easy</p>
+
+<p><a href="http://www.see.ed.ac.uk/~gerard/Management/art2.html" title="Personal Time Management for Busy Managers">Personal Time Management for Busy Managers</a> looks at the basics of Personal Time Management and describes how one can assume control of this basic resource.</p>
+
+<p>Personal Time Management is a set of tools which allow you to:</p>
+
+
+<ul>
+<li>eliminate wastage</li>
+<li>be prepared for meetings</li>
+<li>refuse excessive workloads</li>
+<li>monitor project progress</li>
+<li>allocate resource (time) appropriate to a task&#8217;s importance</li>
+<li>ensure that long term projects are not neglected</li>
+<li>plan each day efficiently</li>
+<li>plan each week effectively</li>
+</ul>
+
+
+
+<p>and to do so simply with a little self-discipline.</p>
+
+<p><strong>Reference Articles</strong></p>
+
+
+<ul>
+<li><a href="http://www.see.ed.ac.uk/~gerard/Management/art2.html" title="Personal Time Management for Busy Managers">Personal Time Management for Busy Managers</a></li>
+<li><a href="http://www.see.ed.ac.uk/~gerard/Management/" title="More Management Skills">More Management Skills</a></li>
+</ul>
+
+]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/02/personal-time-management-for-busy-managers/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/02/personal-time-management-for-busy-managers/</guid>
+         <category>Management</category>
+         <pubDate>Sat, 04 Feb 2006 12:12:12 +0000</pubDate>
+      </item>
+            <item>
+         <title>Xombie Chapter 7 Thunder and Light</title>
+         <description><![CDATA[<p>I don&#8217;t really recollect when they started their first chapter but I am sure it was a long time ago. The last chapter must be almost a year old. <a href="http://www.xombified.com/" title="Xombie">Xombie</a> finally released their <a href="http://www.newgrounds.com/portal/view/292568" title="7th Chapter - Thunder and Light">7th Chapter - Thunder and Light</a>.</p>
+
+<p>Browse through the full <a href="http://www.xombified.com/episodes.html" title="Chapter Listing">Chapter Listing</a>. I don&#8217;t quite remember but there were few other coupla chaptered episodes done in flash which I really liked.</p>
+
+<p>Enjoy <a href="http://www.xombified.com/" title="Xombie">Xombie</a>.</p>]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/02/xombie-chapter-7-thunder-and-light/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/02/xombie-chapter-7-thunder-and-light/</guid>
+         <category>Technology</category>
+         <pubDate>Thu, 02 Feb 2006 06:35:30 +0000</pubDate>
+      </item>
+            <item>
+         <title>IE7 Beta2 Preview Available for Download</title>
+         <description><![CDATA[<p>The new <a href="http://www.microsoft.com/windows/ie/ie7/" title="IE7 Beta2 Preview"><span class="caps">IE7</span> Beta2 Preview</a> is available for <a href="http://www.microsoft.com/windows/ie/ie7/ie7betaredirect.mspx" title="Dowload IE7 Beta">download</a>.</p>
+
+<p>Check your <span class="caps">CSS</span> Hacks. Coupla months back, there was a <a href="http://blogs.msdn.com/ie/archive/2005/10/12/480242.aspx" title="Call to action: The demise of CSS hacks and broken pages">Call to action: The demise of <span class="caps">CSS </span>hacks and broken pages</a>. The IE Team says that the <a href="http://www.positioniseverything.net/articles/poll/star-html.php" title="Star-HTML Hack">Star-HTML Hack</a> is gone and so also is <a href="http://www.communitymx.com/content/article.cfm?page=2&amp;cid=C37E0" title="Holy Hack">Holy Hack</a>.</p>]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/01/ie7-beta2-preview-available-for-download/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/01/ie7-beta2-preview-available-for-download/</guid>
+         <category>Technology</category>
+         <pubDate>Tue, 31 Jan 2006 20:07:07 +0000</pubDate>
+      </item>
+            <item>
+         <title>LSD Public Beta</title>
+         <description><![CDATA[<p><a href="http://www.oinam.com/" title="Oinam Software">Oinam Software</a> has released <a href="http://blog.oinam.com/archives/2006/01/join-the-lsd-beta/"><span class="caps">LSD</span> Beta</a></p>
+
+<p>What is <a href="http://www.livespeedating.com/" title="Live Speed Dating"><span class="caps">LSD</span></a><br />
+Join the <a href="http://list.oinam.com/lsd/" title="LSD Beta Mailing List"><span class="caps">LSD</span> Beta Mailing List</a></p>
+
+<p><span class="codeRed">Please remember to check your Junk Folder as we have received notifications from subscribers informing us that the confirmation mail were caught in Junk Folders.</span></p>]]></description>
+         <link>http://www.brajeshwar.com/archives/2006/01/lsd-public-beta/</link>
+         <guid>http://www.brajeshwar.com/archives/2006/01/lsd-public-beta/</guid>
+         <category>Technology</category>
+         <pubDate>Mon, 30 Jan 2006 13:01:49 +0000</pubDate>
+      </item>
+      
+   </channel>
+</rss>

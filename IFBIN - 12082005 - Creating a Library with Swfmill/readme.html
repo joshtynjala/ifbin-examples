@@ -1,0 +1,42 @@
+<html><body>	<p><u>Using Swfmill to create a library for MTASC</u></p><br/>
+
+	<p>Create a SWF via XML through Swfmill's "simple" mode that contains library items (such as a SWF, JPG, or PNG image). Then, attach the items to the stage with code compiled with MTASC.</p>
+
+	<p><u>Configuration:</u></p><br/>
+	
+	<li>MTASC required - http://www.mtasc.org/</li>
+	<li>Swfmill required - http://iterative.org/swfmill/</li>
+	
+
+	<p><u>Compilation:</u></p>
+	
+	<p><i>Creating the SWF with Swfmill:</i></p><br/>
+	<li>Open a command prompt by opening Run from the Windows Start Menu, and typing cmd.exe and hitting OK.</li>
+		<li>Navigate to the example folder.</li>
+		<li>Type in the following (Changing to the location where you put Swfmill):</li>
+		<li><b>c:\Location\Where\You\Unzipped\swfmill\swfmill.exe simple library.xml IntroToSwfmill.swf</b></li>
+		<li>"simple" specifies to use Swfmill's simple XML language.</li>
+		<li>The second argument is the XML file containing your library.</li>
+		<li>The last argument is the target SWF. It doesn't have to exist, Swfmill will create it.</li>
+		
+	<p><i>Adding classes with MTASC:</i></p><br/>
+	
+	<li>Open a command prompt by opening Run from the Windows Start Menu, and typing cmd.exe and hitting OK.</li>
+		<li>Navigate to the example folder.</li>
+		<li>Type in the following (Changing to the location where you put MTASC):</li>
+		<li><b>c:\Location\Where\You\Unzipped\Mtasc\mtasc.exe -version 8 -swf IntroToSwfmill.swf -cp "C:\Program Files\Macromedia\Flash 8\en\First Run\Classes" -main IfbinLogo.as</b></li>
+		<li>-version specifies to export for Flash 8</li>
+		<li>-swf specifies the name the of swf file in which to inject your code.</li>
+		<li>-main tells the swf to start with the main function.</li>
+		<li>-cp allows you to set a folder as a classpath. Here we're setting Flash's main class folder.</li>
+		<li>Finally, specify the class with your main function inside.</li>
+	
+
+	<p><u>Files:</u></p><br/>
+	
+		<li>IntroToSwfmill.swf</li>
+		<li>IfbinLogo.as</li>
+		<li>library.xml</li>
+		<li>readme.html</li>
+
+ </body></html>

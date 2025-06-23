@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.0.1" -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+	<title>Zeus Labs</title>
+	<link>http://lab.zeusdesign.net</link>
+	<description>Josh Tynjala - Flash and Actionscript Insights from a San Diego Developer and Designer</description>
+	<pubDate>Thu, 16 Feb 2006 02:52:29 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.0.1</generator>
+	<language>en</language>
+			<item>
+		<title>Why Web 2.0 is more like 1.5</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/34</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/34#comments</comments>
+		<pubDate>Wed, 15 Feb 2006 22:12:04 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Flash</category>
+	<category>Web Development</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/index.php/archives/34</guid>
+		<description><![CDATA[If a web site contains asynchronous calls or doesn't work like a regular webpage in some way, it's being labeled with the notorious Web 2.0 tag. Regardless of my feelings about the hype surrounding it, I believe that we're actually seeing a preview or teaser of what we'll really consider a second version of the [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/34/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>A New Look For Zeus Labs</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/33</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/33#comments</comments>
+		<pubDate>Tue, 14 Feb 2006 05:41:47 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Design</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/index.php/archives/33</guid>
+		<description><![CDATA[I've been working pretty hard the last several weeks to create a new look for the lab here. I wanted to make this place look a little more professional and more inviting. After creating half a dozen different mockups, I finally came up with the look you see now. I may tweak it a bit [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/33/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Changing Flash’s image among the tech crowd.</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/32</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/32#comments</comments>
+		<pubDate>Thu, 09 Feb 2006 06:28:54 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/index.php/archives/32</guid>
+		<description><![CDATA[As anyone who has read Slashdot knows, mentioning Flash is a good way to get people angry. Among the ultra-devout tech crowd, Flash has one of the worst stigmas imaginable. When I read comments on Slashdot, and even on Digg, I want to scream at the closed-mindedness. These people slammed the doors shut years ago, [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/32/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Opera’s Small Screen Mode is Awesome!</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/31</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/31#comments</comments>
+		<pubDate>Sun, 05 Feb 2006 06:43:10 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Web Development</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/?p=31</guid>
+		<description><![CDATA[I recently downloaded the Opera Web Browser so that I could use it for testing some pages I'm working on. Did you know it's totally ad-free now (and doesn't cost a penny)? Me either. Anyway, as I was playing around with its weird interface, I discovered "Small Screen" mode in the View menu. Suddenly, the [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/31/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Time to Target Flash 8?</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/30</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/30#comments</comments>
+		<pubDate>Thu, 02 Feb 2006 20:50:38 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/?p=30</guid>
+		<description><![CDATA[Many wisely chose to wait before putting Flash 8 content on the web. For a business, blocking a large portion of your customer base is a bad idea. As I'm sure you've read, Adobe recently released their first Flash Player 8 version penetration data. Now, 8-ball sits on about 50% of machines out there. The [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/30/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>DOM Scripting Offers an Introduction to the Murky JavaScript World</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/29</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/29#comments</comments>
+		<pubDate>Wed, 01 Feb 2006 19:16:40 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Reviews</category>
+	<category>Web Development</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/?p=29</guid>
+		<description><![CDATA[After previously reading Web Standards Solutions and adoring it, I've been keen to read another book published by Friends of ED. All the buzz about AJAX and the comeback of JavaScript made me pick up DOM Scripting by Jeremy Keith. Though not quite the same calibre as the previous book, Friends of ED delivers an [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/29/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>A giant listing of your bad HTML</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/28</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/28#comments</comments>
+		<pubDate>Wed, 25 Jan 2006 21:12:18 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Web Development</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/?p=28</guid>
+		<description><![CDATA[Google released an interesting study about the content of over a billion webpages in their database. It's nicely seperated into categories of markup, and identifies the most used HTML tags and attributes. I found the comments on the most frequent mistakes very interesting. Obviously many tags are used incorrectly for presentational (instead of semantic) purposes, [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/28/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Playing with Parameters</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/27</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/27#comments</comments>
+		<pubDate>Mon, 23 Jan 2006 17:39:11 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/?p=27</guid>
+		<description><![CDATA[If you didn't see it, Tink posted a nice little overview of a couple things you can do with function parameters in AS3. I knew about default params from my experience with other languages, but I find the "..." keyword very intriguing. It lets a function receive any number of optional parameters. The function accesses [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/27/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Inspectable and Inheritance</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/26</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/26#comments</comments>
+		<pubDate>Fri, 20 Jan 2006 06:41:25 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/?p=26</guid>
+		<description><![CDATA[While I've had problems with Flash's Inspectable tag in the past, I still actively use it in my daily component development. With highly complex components, Inspectable let's me finish property definition quicker, and I can spend less time messing with details in the FLA. Just today, I discovered something that speeds things up even more, [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/26/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>New Logo Madness</title>
+		<link>http://lab.zeusdesign.net/index.php/archives/24</link>
+		<comments>http://lab.zeusdesign.net/index.php/archives/24#comments</comments>
+		<pubDate>Wed, 18 Jan 2006 07:48:55 +0000</pubDate>
+		<dc:creator>Josh</dc:creator>
+		
+	<category>Design</category>
+		<guid isPermaLink="false">http://lab.zeusdesign.net/?p=24</guid>
+		<description><![CDATA[A lot of established companies have undertaken major identity changes recently. Changing a logo, especially for a company or brand recognized around the world, is no small decision. This small symbol acts as the core of any sort of recognition, and once it's firmly in the public's mind, changing it changes everything.
+Three specific new logos [...]]]></description>
+		<wfw:commentRSS>http://lab.zeusdesign.net/index.php/archives/24/feed/</wfw:commentRSS>
+		</item>
+	</channel>
+</rss>

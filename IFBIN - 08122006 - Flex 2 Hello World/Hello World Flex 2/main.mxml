@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	
+		EXAMPLE: Hello World
+		AUTHOR: Josh Tynjala
+		CREATED: March 31, 2006
+		MODIFIED: August 12, 2006
+	
+		Adobe® Flex™ by Example
+		http://www.ifbin.com/
+		
+-->
+
+<!-- The main application. This project creates an animated "typing" text area. -->
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="vertical"
+	horizontalAlign="center" initialize="this.startTypingAnimation();">
+	
+	<!-- The panel holds our typing TextArea. It has an icon, specified by the
+		IfbinLogo class and a title. It's like a window, but it doesn't move. -->
+	<mx:Panel width="350" height="300" layout="vertical" titleIcon="{IfbinLogo}"
+		title="Hello World, by Josh Tynjala">
+	
+		<!-- We'll be "typing" in this TextArea. It fills the most of the panel background. -->
+		<mx:TextArea width="100%" height="100%" borderStyle="none" editable="false"
+			wordWrap="true" id="message" x="0" y="4"/>
+		
+		<!-- The Replay button allow the user can see the animation again
+			or restart it from the beginning. -->
+		<mx:Button label="Restart" id="replayButton" click="this.replayClickHandler(event);"/>
+	</mx:Panel>
+	
+	<!-- Styles allow you to customize certain aspects of the Flex framework
+		user interface. They should be familiar if you've used Cascading Style Sheets (CSS) -->
+	<mx:Style>
+		Panel {borderStyle: solid; headerColors: #e7e7e7, #d9d9d9; paddingTop: 10;}
+	</mx:Style>
+	
+	<!-- Script blocks allow us to embed Actionscript 3 within our MXML -->
+	<mx:Script>
+		<![CDATA[
+			// Be sure to include imports. Here, we're using the Timer class and
+			// its related event class.
+			import flash.utils.Timer;
+			import flash.events.TimerEvent;
+			
+			// By making "IfbinLogo" Bindable, we can easily set it as the
+			// Panel's icon.
+			[Bindable]
+			// Embed allows us to include things like images in the SWF.
+			// If you come from a Flash background, think of it as a
+			// programmatic library.
+			[Embed(source="logo.png")]
+			private var IfbinLogo:Class;
+			
+			// Actionscript 3 adds constants!
+			// Here, we have the message we're going to "type", and the cursor
+			// animation characters.
+			private const TIMER_MESSAGE:String = "Hello World!\n\nMy name is Josh Tynjala. I'm a Software Engineer from San Diego, CA. I love developing and experimenting with Flash and Flex.\n\nIf you learn even one tidbit of knowledge from my examples, I know that my contributions to IFBIN have been a success.\n\nFor more information about me, you can visit my blog.\n\n http://www.zeuslabs.us.\n\nHappy coding!";
+			private const CURSOR_CHARS:Array = ["_"," "];
+			
+			// The main Timer object that controls the typing.
+			private var _typingTimer:Timer;
+			
+			// This variable keeps track of the number of characters from
+			// TIMER_MESSAGE that we have typed already. It's stored in the new
+			// uint (unsigned integer) type.
+			private var _characterCount:uint;
+			
+			// We need to keep track which cursor character we're displaying.
+			private var _cursorCharacterCount:uint;
+			
+			/**
+			 *  Called when the application is initialized. Uses a Timer object
+			 *  to control the "typing" of characters.
+			 */
+			private function startTypingAnimation():void
+			{
+				// reset the character count and the message
+				this._characterCount = 0;
+				this.message.text = "";
+				
+				// The timer is called every 25 milliseconds.
+				this._typingTimer = new Timer(25);
+				
+				//we need to listen for the TIMER event.
+				this._typingTimer.addEventListener(TimerEvent.TIMER, timerUpdateHandler);
+				this._typingTimer.start();
+			}
+			
+			/**
+			 *  Adds a single character
+			 */
+			private function timerUpdateHandler(event:TimerEvent):void
+			{
+				// This first section adds a little time pause between letters.
+				// It draws a blinking cursor that makes it look kind of like a command line.
+				
+				// If one of the cursor characters is displayed, take it away so we can replace it.
+				if(this.message.text.length > this._characterCount)
+					this.message.text = this.message.text.substr(0, this.message.text.length - 1);
+					
+				// If we still have a cursor character to draw, do it now
+				if(this._cursorCharacterCount < CURSOR_CHARS.length)
+				{
+					// if message.text.length was 1, it becomes null so let's account for that
+					if(this.message.text == null) this.message.text = "";
+					
+					//add the next cursor character, and update the count
+					this.message.text += CURSOR_CHARS[this._cursorCharacterCount];
+					this._cursorCharacterCount++;
+					
+					// don't update the message yet!
+					return;
+				}
+				// reset the cursor characters for our next timer update
+				this._cursorCharacterCount = 0;
+				
+				// Get the next character from the message and update the text
+				var currentCharacter:String = TIMER_MESSAGE.substr(this._characterCount, 1);
+				this.message.text += currentCharacter;
+				
+				// Update the character count, and if we've finished the message, stop the timer.
+				this._characterCount++;
+				if(this._characterCount == TIMER_MESSAGE.length)
+					this._typingTimer.stop();
+			}
+			
+			/**
+			 *  Restarts the typing from the beginning, or starts it again after
+			 *  the animation has stopped.
+			 */
+			private function replayClickHandler(event:MouseEvent):void
+			{
+				// Stop the timer if it's still running.
+				if(this._typingTimer.running) this._typingTimer.stop();
+				
+				// Restart from the beginning
+				this.startTypingAnimation();
+			}
+		]]>
+	</mx:Script>
+</mx:Application>

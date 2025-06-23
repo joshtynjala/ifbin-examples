@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+  <channel rdf:about="http://www.quasimondo.com/">
+    <title>Quasimondo</title>
+    <link>http://www.quasimondo.com/</link>
+    <description>The world of Flash according to Mario Klingemann. 
+quasi: Having a likeness to something; resembling
+mondo (ital.): World</description>
+    <dc:language>en-us</dc:language>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-07-26T14:58:06+01:00</dc:date>
+    <admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+    <admin:errorReportsTo rdf:resource="mailto:mario@quasimondo.com"/>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+    <items>
+      <rdf:Seq>
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000629.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000628.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000626.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000625.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000624.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000623.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000622.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000621.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000620.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000619.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000617.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000616.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000615.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000614.php" />
+
+        <rdf:li rdf:resource="http://www.quasimondo.com/archives/000613.php" />
+
+      </rdf:Seq>
+    </items>
+  </channel>
+
+
+  <item rdf:about="http://www.quasimondo.com/archives/000629.php">
+    <title>&quot;Islands Of Consciousness&quot; is a Flashforward Finalist</title>
+    <description>This morning started with a happy surprise: Islands Of Consciousness is among the four finalists in the &quot;Original Sound&quot; category of the Flashforward2006 Austin Film Festival. On Islands Of Consciousness I collaborated with the Ukrainian musician and composer Oleg Marakov who&apos;s concept of a randomly arranged soundtrack I translated into Flash and merged it with my random visual engine. Of course we would be delighted if you give us your vote in the People&apos;s Choice Award, though I must say that the decision is a tough one - I see Dr. Whohoo&apos;s Color Analytics, the awesome C-64 emulator by Darron</description>
+    <content:encoded><![CDATA[<p>This morning started with a happy surprise: <a href="http://incubator.quasimondo.com/flash/islands_of_consciousness.php">Islands Of Consciousness</a> is among the four finalists in the "Original Sound" category of the <a href="http://www.flashforwardconference.com/finalists">Flashforward2006 Austin Film Festival</a>. On Islands Of Consciousness I collaborated with the Ukrainian musician and composer Oleg Marakov who's concept of a randomly arranged soundtrack I translated into Flash and merged it with my random visual engine. </p>
+
+<p>Of course we would be delighted if you <a href="http://www.flashforwardconference.com/peoples_choice">give us your vote in the People's Choice Award</a>, though I must say that the decision is a tough one - I see Dr. Whohoo's <a href="http://www.inthemod.com/inthemod.html">Color Analytics</a>, the awesome <a href="http://codeazur.com.br/stuff/fc64/">C-64 emulator</a> by Darron Schall and Claus Wahlers and the fantastic <a href="http://www.comcastic.com/awards/index.html">Comcastic</a> site among the candidates just to name a few.<br />
+</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000629.php</link>
+    <dc:subject>Relevation</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-07-26T14:58:06+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000628.php">
+    <title>FilterForge Beta</title>
+    <description>If you like patch based tools and experimental visuals you might want to check out FilterForge a new Photoshop plugin which also works as a standalone application. Currently it&apos;s in beta and you can register at their site to apply for a free evaluation copy. FilterForge allows you to create all kinds of textures or effects by simply connecting various functional modules with &quot;cables&quot; - a system that is very common in a lot of 3d software or visual programming tools like max/msp or Quartz Composer. Some features that I find very interesting are: the resulting patterns can be made</description>
+    <content:encoded><![CDATA[<p>If you like patch based tools and experimental visuals you might want to check out <a href="http://www.filterforge.com">FilterForge</a> a new Photoshop plugin which also works as a standalone application. Currently it's in beta and you can register at their site to apply for a free evaluation copy.</p>
+
+<p>FilterForge allows you to create all kinds of textures or effects by simply connecting various functional modules with "cables" - a system that is very common in a lot of 3d software or visual programming tools like max/msp or Quartz Composer.</p>
+
+<p>Some features that I find very interesting are: the resulting patterns can be made seamless, they can be up to 32000x32000 pixels in size and there is an optional intelligent antialiasing algorithm that smoothes out jaggies at high contrast edges.</p>
+
+<p>You can share the filters and effects that you build on the FilterForge website and if you deliver good ones that many others find useful you can even get FilterForge for free.</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000628.php</link>
+    <dc:subject>Observation</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-05-26T16:50:03+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000626.php">
+    <title>BabyCam - See the World like Babies Do</title>
+    <description>Oh well, after I read this article on Gizmodo about how scientists simulate how a baby sees the world I quickly had to mock up a baby eyesight simulator with Flash. Instead of uploading pictures you just have to have a webcam attached to your computer. Of course my approach is 100% unscientific and just uses the example image series from the Tinyeyes site as a base for the discoloring and the blurring. Here we go:</description>
+    <content:encoded><![CDATA[<p>Oh well, after I read <a href="http://gizmodo.com/gadgets/software/see-the-world-through-the-eyes-of-a-baby-172874.php">this article on Gizmodo</a> about how scientists simulate how a baby sees the world I quickly had to mock up a baby eyesight simulator with Flash. Instead of uploading pictures you just have to have a webcam attached to your computer. Of course my approach is 100% unscientific and just uses the example image series from the <a href="http://www.tinyeyes.com/">Tinyeyes</a> site as a base for the discoloring and the blurring.</p>
+
+<p>Here we go:<br />
+</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000626.php</link>
+    <dc:subject>Transformation</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-05-11T19:38:39+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000625.php">
+    <title>&quot;Making a VJ Tool With Flash&quot; Lecture Notes</title>
+    <description>For those interested in having another look at the slides from my talks at FiTC Toronto and fmx/flashconference Stuttgart here is the link to my collected lectures. The VJ tool itself will not be made accessible online but as I promised I will prepare the live frequency analysis and the MIDI control part as a separate module/library/component and publish it here for you to play around with it. It might just take a little while until I&apos;ve finished the cleanup.</description>
+    <content:encoded><![CDATA[<p>For those interested in having another look at the slides from my talks at <a href="http://www.fitc.ca">FiTC Toronto</a> and <a href="http://www.fmx.de">fmx/flashconference Stuttgart</a> here is the link to <a href="http://lectures.quasimondo.com">my collected lectures</a>. The VJ tool itself will not be made accessible online but as I promised I will prepare the live frequency analysis and the MIDI control part as a separate module/library/component and publish it here for you to play around with it. It might just take a little while until I've finished the cleanup.<br />
+</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000625.php</link>
+    <dc:subject>Relevation</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-05-07T16:10:06+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000624.php">
+    <title>Simply Awesome!</title>
+    <description>I&apos;m back from Canada and my head is still woozy from all those impressions that hammered down on me during the last days. FITC was definitely the best conference ever I&apos;ve been to. Shawn Pucknell and his team have put so much love and effort into every little detail of this event - it just blew me away. I&apos;m very proud that I could be part of this. Thank you to everyone who attended my session - I will try to publish the lecture notes and the files for Flash live sound analysis and MIDI control next week. Of course</description>
+    <content:encoded><![CDATA[<p>I'm back from Canada and my head is still woozy from all those impressions that hammered down on me during the last days. <a href="http://www.fitc.ca">FITC</a> was definitely the best conference ever I've been to. Shawn Pucknell and his team have put so much love and effort into every little detail of this event - it just blew me away. I'm very proud that I could be part of this. Thank you to everyone who attended my session - I will try to publish the lecture notes and the files for Flash live sound analysis and MIDI control next week.</p>
+
+<p>Of course the most important part about any conference is the attendants and I was really lucky to have had the chance to have fun and talk with such a lot of wonderful people: <a href="http://www.galaxygoo.org/blogs/index.html">Kristin</a>, <a href="http://www.moock.org">Colin</a>, <a href="http://www.flashant.org">Aral</a>, <a href="http://www.gskinner.com/blog/">Grant and Bobi</a>, <a href="http://www.quantumwave.com/flash/">Dave</a>, <a href="http://www.rewindlife.com/">Chafic</a>, <a href="http://www.ifbin.com">Ted</a>, <a href="http://www.flight404.com/version8/index.html">Robert</a>, <a href="http://www.robertpenner.com">Robert</a>, <a href="http://www.tomontheweb.ca/">Tom</a>, <a href="http://www.newyyz.com">Kevin</a>, <a href="http://www.angryalien.com">Jen</a>, <a href="http://www.reflektions.com/miniml/default.asp">Paul</a>, <a href="http://www.natzke.com">Erik</a>, <a href="http://benfry.com/">Ben</a>, <a href="http://www.crashmedia.com">Craig</a>, <a href="http://www.waxpraxis.org/">Branden</A>, <a href="http://TheUnseenVideo.com">Daniel</a>, <a href="http://www.aaronphelan.com/">Aaron</a>, <a href="http://blogs.adobe.com/jnack/">John</a>, <a href="http://www.darronschall.com">Darron</a>, <a href="http://www.lordalex.org/">Lord Alex</a>, <a href="http://www.margotknight.com">Margot</a>, <a href="http://www.bit-101.com">Keith</a>, <a href="http://blogs.adobe.com/skilisky/">Steve</a>, <a href="http://www.themakers.com">Snow and Robert</a>, <a href="http://www.sagmeister.com">Stefan</a>, <a href="http://weblogs.macromedia.com/md/">Mike</a> and <a href="http://weblogs.macromedia.com/mesh/">Mike</A>. Oh and I'm sure that I forgot someone here.</p>
+
+<p>A last tip: if you happen to be in Toronto and you read "Kids & Explosions" on a flyer someday - you have to go to that party. Josh is absolutely awesome and I really hope to get the chance to see (or rather hear) him again.</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000624.php</link>
+    <dc:subject>Vibration</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-05-01T21:32:50+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000623.php">
+    <title>Packing my Bags for FITC in Toronto</title>
+    <description>I&apos;m all excited because in about 12 hours I will be sitting in the plane to Toronto which takes me to this year&apos;s FITC conference. Actually I&apos;m very very exited because I will not only attend this conference to see and meet some of the world&apos;s greatest Flash + Processing gurus but I will also have my own session there: Making a VJ Tool with Flash. And because everyone should eat their own dog food I will be creating visuals during the Media Temple Party at the Drake Hotel on Friday 21st.</description>
+    <content:encoded><![CDATA[<p>I'm all excited because in about 12 hours I will be sitting in the plane to Toronto which takes me to this year's <a href="http://www.fitc.ca/event_detail.cfm?festival_id=5&display=introduction">FITC conference</a>. Actually I'm very very exited because I will not only attend this conference to see and meet some of the <a href="http://www.fitc.ca/speaker_list.cfm?festival_id=5">world's greatest Flash + Processing gurus</a> but I will also have my own session there:  <a href="http://www.fitc.ca/presentation_detail.cfm?festival_id=5&presentation_id=282">Making a VJ Tool with Flash</a>. And because everyone should eat their own dog food I will be creating visuals during the Media Temple Party at the <a href="http://www.thedrakehotel.ca/">Drake Hotel</a> on Friday 21st.</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000623.php</link>
+    <dc:subject>Occupation</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-04-19T15:57:01+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000622.php">
+    <title>So Who Goes to the fmx/flashconference for Free?</title>
+    <description>The two lucky winners of my fmx/flashconference raffle are: Fabian Nöthe and Matthis Herrmann. Each of you will get a free four-day ticket for the fmx worth 185 Euro. Congratulations! And to all that have not won this time: I hope to see you nevertheless in Stuttgart - especially for the flashconference which will take place on Friday the 5th and Saturday the 6th of May. BTW - you have one more chance to win a fmx ticket over at Kungbao, Marc Thieles blog.</description>
+    <content:encoded><![CDATA[<p>The two lucky winners of my <a href="http://www.fmx.de/">fmx</a>/<a href="http://www.flashconference.de/">flashconference</a> raffle are: Fabian Nöthe and Matthis Herrmann. Each of you will get a free four-day ticket for the <a href="http://www.fmx.de/">fmx</a> worth 185 Euro. Congratulations! </p>
+
+<p>And to all that have not won this time: I hope to see you nevertheless in Stuttgart - especially for the <a href="http://www.flashconference.de/">flashconference</a> which will take place on Friday the 5th and Saturday the 6th of May. </p>
+
+<p>BTW - you have one more chance to win a fmx ticket over at <a href="http://www.kungbao.de">Kungbao, Marc Thieles blog</a>.</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000622.php</link>
+    <dc:subject>Relevation</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-04-19T01:38:40+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000621.php">
+    <title>New at the Incubator: Minority Cube</title>
+    <description>If you&apos;ve seen the movie Minority Report you probably remember the impressing gesture based computer interface that Tom Cruise uses there. Well, my latest experiment is far from the sophistication of that tool, but for it being made with Flash it&apos;s quite nice and entertaining: Minority Cube allows you to control the rotation of a cube on the screen by simply moving your hand in front of your webcam. (I just hope that it works with every other camera model as well as it does on my machine.)</description>
+    <content:encoded><![CDATA[<p>If you've seen the movie Minority Report you probably remember the impressing gesture based computer interface that Tom Cruise uses there. Well, my latest experiment is far from the sophistication of that tool, but for it being made with Flash it's quite nice and entertaining:</p>
+
+<p><a href="http://incubator.quasimondo.com/flash/minority_cube.php">Minority Cube</a> allows you to control the rotation of a cube on the screen by simply moving your hand in front of your webcam. (I just hope that it works with every other camera model as well as it does on my machine.)<br />
+</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000621.php</link>
+    <dc:subject>Concentration</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-04-13T02:07:28+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000620.php">
+    <title>Flash 8: Measuring Line Widths of TextFields</title>
+    <description>While ActionScript 3.0 comes with the TextLineMetrics Class that allows you to get all kinds of information about a text selection, with Flash 8 and below you have to go all the way on your feet if you want to know the width or position of a line of text within a textfield. Before Flash 8 the only way I know of to accomplish this was to split the whole text into single words and add up their widths. But Flash 8 offers a new way to do this which works by using a BitmapData object together with the rarely</description>
+    <content:encoded><![CDATA[<p>While ActionScript 3.0 comes with the <a href="http://livedocs.macromedia.com/labs/1/flex/langref/flash/text/TextLineMetrics.html">TextLineMetrics Class</a> that allows you to get all kinds of information about a text selection, with Flash 8 and below you have to go all the way on your feet if you want to know the width or position of a line of text within a textfield. </p>
+
+<p>Before Flash 8 the only way I know of to accomplish this was to <a href="http://www.quasimondo.com/archives/000526.php">split the whole text into single words</a> and add up their widths. But Flash 8 offers a new way to do this which works by using a BitmapData object together with the rarely used getColorBoundsRect() method. Check out the code and a demo here:</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000620.php</link>
+    <dc:subject>Concentration</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-04-12T18:13:01+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000619.php">
+    <title>Open Source Flash Media Server Anyone?</title>
+    <description>Now that Adobe has published the specifications for the FLV format I wonder if someone smarter than me can write an open source alternative to Flash Media Server? As Tinic Uro writes the format is essentially AMF, so with AMFPHP out there it might be just a small step to extend this to Video - though my expertise in this area is to little to judge how difficult this would be. Note: I must have been living in the woods during the last months - the red5 project is working exactly on that and it looks like they have gotten</description>
+    <content:encoded><![CDATA[<p>Now that Adobe has published the <a href="http://www.macromedia.com/licensing/developer/">specifications for the FLV format</a> <strike>I wonder if someone smarter than me can write an open source alternative to <a href="http://www.macromedia.com/software/flashmediaserver/">Flash Media Server</a>? As <a href="http://www.kaourantin.net/2006/03/swf-flv-file-format-specification.html">Tinic Uro</a> writes the format is essentially AMF, so with <a href="http://www.amfphp.org/">AMFPHP</a> out there it might be just a small step to extend this to Video - though my expertise in this area is to little to judge how difficult this would be.</strike></p>
+
+<p><i>Note: I must have been living in the woods during the last months - the <a href="http://www.osflash.org/red5">red5</a> project is working exactly on that and it looks like they have gotten pretty far already - that's great news!</i></p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000619.php</link>
+    <dc:subject>Information</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-04-01T12:51:05+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000617.php">
+    <title>Flash BitmapExporter in Action</title>
+    <description>I just got notice that my Flash 8 BitmapExporter class is currently being used in a real world assignment: on spamrecycling.com it allows users to save images created from the innards of creatively recycled spam emails. To try it yourself, all you have to do is to forward a spam mail you&apos;ve received to spam@spamrecycling.com. Shortly after you will receive a reply email containing a link to your personal spam recycling tool which allows you to get artistic with the garbage mail. When you are satisfied with the outcome you can take a screenshot and have it sent to your</description>
+    <content:encoded><![CDATA[<p>I just got notice that my <a href="http://www.quasimondo.com/archives/000572.php">Flash 8 BitmapExporter class</a> is currently being used in a real world assignment:  on <a href="http://www.spamrecycling.com">spamrecycling.com</a> it allows users to save images created from the innards of creatively recycled spam emails. To try it yourself, all you have to do is to forward a spam mail you've received to <a href="mailto:spam@spamrecycling.com">spam@spamrecycling.com</a>.  Shortly after you will receive a reply email containing a link to your personal spam recycling tool which allows you to get artistic with the garbage mail. When you are satisfied with the outcome you can take a screenshot and have it sent to your email adress. </p>
+
+<p>The task of the BitmapExporter in this project is to compress and send <a href="http://www.quasimondo.com/archives/recycledImage.php" onclick="window.open('http://www.quasimondo.com/archives/recycledImage.php','popup','width=1024,height=768,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">fullscreen images like this</a> to the server - for more details how this works and why this is more difficult than it might appear check out <a href="http://www.quasimondo.com/archives/000572.php">my original posting and the comments there</a>.</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000617.php</link>
+    <dc:subject>Observation</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-03-22T18:57:59+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000616.php">
+    <title>Win a flashconference/fmx 2006 Ticket</title>
+    <description>This year&apos;s flashconference/fmx in Stuttgart is approaching fast - it&apos;s taking place from May 3rd - 6th - and it has become something like a tradition that I&apos;m speaking there. In my session I will be talking about my attempts to build a VJ tool with Flash and quite untraditional for a german conference I&apos;ll be holding it in English. The lineup is great as always - I&apos;m sure that retiree André Michelle will blow us away with some amazing Flash 8.5 3D stuff, Holger Eggert will surprise us with impressive sound and Director tricks. I&apos;m looking forward to see</description>
+    <content:encoded><![CDATA[<p>This year's <a href="http://www.flashconference.de">flashconference</a>/<a href="http://www.fmx.de">fmx</a> in Stuttgart is approaching fast - it's taking place from May 3rd - 6th - and it has become something like a tradition that I'm speaking there. In my session I will be talking about my attempts to <a href="http://www.flashconference.de/program/klingemann01.html">build a VJ tool with Flash</a> and quite untraditional for a german conference I'll be holding it in English. The <a href="http://www.flashconference.de/program/program.overview.html">lineup</a> is great as always - I'm sure that <a href="http://blog.andre-michelle.com/2006/leaving-the-projects-world/">retiree</a> <a href="http://blog.andre-michelle.com/">André Michelle</a> will blow us away with some <a href="http://www.flashconference.de/program/michelle01.html">amazing Flash 8.5 3D stuff</a>, <a href="http://www.levelgreen.de">Holger Eggert</a> will surprise us with impressive sound and Director tricks. I'm looking forward to see <a href="http://www.ninapaley.com">Nina Paley's</a> Flash animation talents and I'm very anxious to see <a href="http://www.liquidjourney.com">Gary Stasiuk's </a>two sessions. And there are many more great presenters - <a href="http://www.flashconference.de/program/program.overview.html">check them all out here</a>.</p>
+
+<p>And now for another tradition - well, maybe it's a bit early to call it like that already - but as the headline says I'm in the lucky position to raffle two four-day tickets for the fmx, each worth 185 Euro. I will give them to two different people (so it's not two tickets for one winner). In order to win, all you have to do is send an email to <b>fmx2006@quasimondo.com</b> and list your personal <a href="http://www.flashconference.de/program/program.overview.html">top 3 sessions of the flashconference</a>. On Monday, April the 17th I will randomly draw the two winners.</p>
+
+<p>Something like a disclaimer: The tickets will ony be valid for the two winners and cannot be sold or transfered. There is no compensation in money possible. The winner will only get the ticket, there is no accomodation or travel expenses included. Oh yes - and of course it would be fair towards the others if you only take part in this raffle if you are able to attend.</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000616.php</link>
+    <dc:subject>Vibration</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-03-22T13:51:14+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000615.php">
+    <title>Flash 8: Realtime Video Color Keying</title>
+    <description>My previous experiment with the selective color transforms made me think a bit more about creating masks from colors and its applications. I wondered if it is possible to use a similiar technique to calculate green screen or blue screen masks in realtime for Flash video. And indeed - it works. I&apos;ve programmed a keying technique similar the Color Difference Key known from AfterEffects or other video editing programs. This kind of keying allows for finer control and better transitions than for example a simple chroma key. A very important factor for successful keying is good lighting of the fore-</description>
+    <content:encoded><![CDATA[<p>My previous experiment with the selective color transforms made me think a bit more about creating masks from colors and its applications. I wondered if it is possible to use a similiar technique to calculate green screen or blue screen masks in realtime for Flash video. And indeed - it works. </p>
+
+<p>I've programmed a keying technique similar the <a href="http://designer.pri.ee/after_effects/1_21_84_0.html">Color Difference Key</a> known from AfterEffects or other video editing programs. This kind of keying allows for finer control and better transitions than for example a simple chroma key.</p>
+
+<p>A very important factor for successful keying is good lighting of the fore- and background and as I don't have a studio at hand for this demo I allowed myself to use the example clip from this <a href="http://www.macromedia.com/devnet/flash/articles/talking_head_video.html">Macromedia Video Tutorial</a> featuring <a href="http://www.tomontheweb.ca">Tom Green</a> - I hope that's okay for this purpose. I've converted the original 20MB quicktime movie to a 1 MB FLV (wow, isn't that on2 codec great?) - and there is definitely no more alpha channel in there. Alternatively you can try to use your webcam, but if you don't have good lighting and a decent background the results will be only so-so. But I can imagine that the same technique could be used for example on still images to mount peoples' heads on avatars.</p>
+
+<p>Here is the demo:<br />
+</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000615.php</link>
+    <dc:subject>Concentration</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-03-19T22:49:41+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000614.php">
+    <title>Flash 8: Selective Color Transform</title>
+    <description>I was asked if my ColorMatrix Class can be used to change only a certain range of colors within a bitmap. Well, that&apos;s mathematically not possible, but nevertheless there is a way to make this work with Flash - it just needs a few more steps and some temporary helper bitmaps. In short it works like this - if you only want to change the orange parts of an image you first isolate those parts by replacing all other colors with 100%transparent pixels, then you apply the ColorMatrix filter to it and finally draw it over the original bitmap. Here</description>
+    <content:encoded><![CDATA[<p>I was asked if my ColorMatrix Class can be used to change only a certain range of colors within a bitmap. Well, that's mathematically not possible, but nevertheless there is a way to make this work with Flash - it just needs a few more steps and some temporary helper bitmaps.</p>
+
+<p>In short it works like this - if you only want to change the orange parts of an image you first isolate those parts by replacing all other colors with 100%transparent pixels, then you apply the ColorMatrix filter to it and finally draw it over the original bitmap.</p>
+
+<p>Here is the part of the code that creates a mask from a given color range - as you see I'm using several consecutive threshold commands for every color channel.</p>
+
+<pre>mask.threshold( original, rect, zero, "<", rmin<<16,0,0x00ff0000,true);
+mask.threshold( mask, rect, zero, "<", gmin<<8,0,0x0000ff00,true);
+mask.threshold( mask, rect, zero, "<", bmin,0,0x000000ff,true);
+		
+mask.threshold( mask, rect, zero, ">", rmax<<16,0,0x00ff0000,true);
+mask.threshold( mask, rect, zero, ">", gmax<<8,0,0x0000ff00,true);
+mask.threshold( mask, rect, zero, ">", bmax,0,0x000000ff,true);
+		
+mask.threshold( mask, rect, zero, "==", 0xff000000,0xffffffff,0xff000000,true);
+</pre>		
+
+<p>I have expanded the concept a bit and added a few tools to clean up and adjust the resulting mask. Check out the demo here:</p>]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000614.php</link>
+    <dc:subject>Concentration</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-03-17T19:38:50+01:00</dc:date>
+  </item>
+
+  <item rdf:about="http://www.quasimondo.com/archives/000613.php">
+    <title>The Good News and the Bad News</title>
+    <description>You&apos;ve probably read it all over the blogs today - Microsoft has discovered a security vulnerability in the Flash Player which seems to affect almost every version. The good news is that Adobe has published a fix already. And it sounds to me like you really shouldn&apos;t wait too long to make that update - it might become quite ugly out there in case someone finds out how to make use of this exploit. I see two possible consequences out of this issue, as soon as this news hits the mass media: a) Panic - people disable their Flash Plugins</description>
+    <content:encoded><![CDATA[<br><br>You've probably read it all over the blogs today - <a href="http://www.microsoft.com/technet/security/advisory/916208.mspx">Microsoft</a> has discovered a <a href="http://www.macromedia.com/go/apsb06-03/">security vulnerability in the Flash Player</a> which seems to affect almost every version. The good news is that Adobe has published a fix already. And it sounds to me like you really shouldn't wait too long to <a href="http://www.macromedia.com/go/apsb06-03/">make that update</a> - it might become quite ugly out there in case someone finds out how to make use of this exploit.<br><br>
+
+I see two possible consequences out of this issue, as soon as this news hits the mass media:<br> 
+a) Panic - people disable their Flash Plugins alltogether<br>
+b) Chance - 99% penetration rate for Flash Player 8 within weeks<br>
+<br>
+Of course I am an ambassador of alternative b - especially as it is the much more logical consequence - ultimately the exploit has already been found and been fixed - it's not some unknown danger lurking in the depths of your system. All you have to do is spend maybe 2 minutes for the update. How about doing it right now - I've prepared a little ExpressInstall swf which should do the magic almost automatically - if it doesn't ask you to update and shows you "Flash Player 8.0.24.0 installed" you are fine. (If you are beta testing the new 8.5 player you'll have to tread a bit more carefully for a while).<br><br>
+
+
+<script type="text/javascript" src="http://www.quasimondo.com/flashobject.js"></script>
+<div id="flashcontent"></div>
+<script type="text/javascript">
+	var fo = new FlashObject("http://www.quasimondo.com/updateflash.swf", "updateflash", "300", "200", "8.0.24.0", "#ffffff");
+fo.write("flashcontent");
+</script>
+
+<br>Of course this will only update your browser plugin. For the standalone player, the debug player or other version you should consult the <a href="http://www.macromedia.com/go/apsb06-03/">Macromedia update page</a>.<br><br>
+]]></content:encoded>
+    <link>http://www.quasimondo.com/archives/000613.php</link>
+    <dc:subject>Information</dc:subject>
+    <dc:creator>Quasimondo</dc:creator>
+    <dc:date>2006-03-15T22:11:21+01:00</dc:date>
+  </item>
+
+
+</rdf:RDF>
+

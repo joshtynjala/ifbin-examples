@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/1.5" -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+	<title>andré michelle</title>
+	<link>http://blog.andre-michelle.com</link>
+	<description>experience in gamedevelopment</description>
+	<pubDate>Sun, 06 Aug 2006 19:31:27 +0000</pubDate>
+	<generator>http://wordpress.org/?v=1.5</generator>
+	<language>en</language>
+
+		<item>
+		<title>I’m mentioned in wikipedia - check our 8bitboy !</title>
+		<link>http://blog.andre-michelle.com/2006/im-mentioned-in-wikipedia-check-our-8bitboy/</link>
+		<comments>http://blog.andre-michelle.com/2006/im-mentioned-in-wikipedia-check-our-8bitboy/#comments</comments>
+		<pubDate>Sun, 06 Aug 2006 20:24:01 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>announce</category>
+		<guid>http://blog.andre-michelle.com/2006/im-mentioned-in-wikipedia-check-our-8bitboy/</guid>
+		<description><![CDATA[I checked my referres and found one from a wikipedia article about the mod-format. That's cool, since I have found a lot of usefull information about amiga-mods while developing the Super Mario Modplayer. Okay, to be up to date: Check out the preview of our 8bitboy for the web. Thanks Andre Stubbe for the design [...]]]></description>
+			<content:encoded><![CDATA[	<p>I checked my referres and found one from a <a href="http://blog.andre-michelle.com/go.php?http://en.wikipedia.org/wiki/MOD_(file_format)" title="(160 hits)">wikipedia article</a> about the mod-format. That&#8217;s cool, since I have found a lot of usefull information about amiga-mods while developing the <a href="http://blog.andre-michelle.com/go.php?http://blog.andre-michelle.com/2006/supermario-modplayer/" title="(357 hits)">Super Mario Modplayer</a>. Okay, to be up to date: Check out the preview of our <a href="http://blog.andre-michelle.com/go.php?http://8bitboy.popforge.de" title="(773 hits)">8bitboy</a> for the web. Thanks <a href="http://blog.andre-michelle.com/go.php?http://www.andrestubbe.com" title="(55 hits)">Andre Stubbe</a> for the design and <a href="http://blog.andre-michelle.com/go.php?http://blog.je2050.de" title="(56 hits)">Joa Ebert</a> for the initial idea and his Modparser. We are currently implementing the missing effects and hope to finish the player and the appendant website this month. I&#8217;m also planning a flex-library(swc) to provide implementing the player in your own projects. Even a complete buffering of a song rather than runtime rendering will be supported to save performance while playing.</p>
+	<p><em>Note: This is a preview-version. Not all songs are rendered as they were originally designed.</em><br />
+<a href="http://blog.andre-michelle.com/go.php?http://8bitboy.popforge.de" title="(773 hits)"><img src="http://blog.andre-michelle.com/upload/8bitboy.gif" alt="8bitboy" /></a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/im-mentioned-in-wikipedia-check-our-8bitboy/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Scratch My Back !</title>
+		<link>http://blog.andre-michelle.com/2006/scratch-my-back/</link>
+		<comments>http://blog.andre-michelle.com/2006/scratch-my-back/#comments</comments>
+		<pubDate>Sun, 06 Aug 2006 19:40:18 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>actionscript</category>
+		<guid>http://blog.andre-michelle.com/2006/scratch-my-back/</guid>
+		<description><![CDATA[http://lab.andre-michelle.com > F9: Audio > scratch
+
+Make sure you have a fast computer, since I adjust a very small latency to get almost immediately feedback on you movements.
+
+Scratch My Back ! ]]></description>
+			<content:encoded><![CDATA[	<p><a href="http://blog.andre-michelle.com/go.php?http://lab.andre-michelle.com" title="(3784 hits)">http://lab.andre-michelle.com</a> > F9: Audio > scratch</p>
+	<p>Make sure you have a fast computer, since I adjust a very small latency to get almost immediately feedback on you movements.</p>
+	<p>Scratch My Back !
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/scratch-my-back/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Dynamic Sound - How to ?</title>
+		<link>http://blog.andre-michelle.com/2006/dynamic-sound-how-to/</link>
+		<comments>http://blog.andre-michelle.com/2006/dynamic-sound-how-to/#comments</comments>
+		<pubDate>Wed, 02 Aug 2006 08:08:35 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/dynamic-sound-how-to/</guid>
+		<description><![CDATA[The guys from flashcodersbrighton explain the technic, how you can replay your own waveforms in flash. Sources enclosed.
+
+related posts:
+blog.andre-michelle.com/2006/supermario-modplayer
+blog.andre-michelle.com/2006/how-cool-is-audioprogramming ]]></description>
+			<content:encoded><![CDATA[	<p>The guys from <a href="http://blog.andre-michelle.com/go.php?http://www.flashcodersbrighton.org" title="(212 hits)">flashcodersbrighton</a> explain <a href="http://blog.andre-michelle.com/go.php?http://www.flashcodersbrighton.org/wordpress/?p=9" title="(432 hits)">the technic</a>, how you can replay your own waveforms in flash. Sources enclosed.</p>
+	<p>related posts:<br />
+<a href="http://blog.andre-michelle.com/go.php?http://blog.andre-michelle.com/2006/supermario-modplayer" title="(203 hits)">blog.andre-michelle.com/2006/supermario-modplayer</a><br />
+<a href="http://blog.andre-michelle.com/go.php?http://blog.andre-michelle.com/2006/how-cool-is-audioprogramming" title="(165 hits)">blog.andre-michelle.com/2006/how-cool-is-audioprogramming</a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/dynamic-sound-how-to/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Supermario Modplayer</title>
+		<link>http://blog.andre-michelle.com/2006/supermario-modplayer/</link>
+		<comments>http://blog.andre-michelle.com/2006/supermario-modplayer/#comments</comments>
+		<pubDate>Mon, 31 Jul 2006 00:58:35 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>actionscript</category>
+		<guid>http://blog.andre-michelle.com/2006/supermario-modplayer/</guid>
+		<description><![CDATA[Everything seems to be possible now. After implementing a lot of new features to my current AudioBufferEngine, Joa Ebert pointed me directly to the mod-format. There are tons of songs outside in the net. Here is just the first one and of course, it has to be Super Mario. Underlay your flashgames with 8bit music.
+
+
+[Flash]/upload/supermario.mod.swf,512,72[/FLASH]
+
+Just [...]]]></description>
+			<content:encoded><![CDATA[	<p>Everything seems to be possible now. After implementing a lot of new features to my current <a href="http://blog.andre-michelle.com/go.php?http://blog.andre-michelle.com/2006/how-cool-is-audioprogramming/" title="(359 hits)">AudioBufferEngine</a>, <a href="http://blog.andre-michelle.com/go.php?http://www.je2050.de" title="(131 hits)">Joa Ebert</a> pointed me directly to the mod-format. There are <a href="http://blog.andre-michelle.com/go.php?http://www.mono211.com/st-00/chip.html" title="(184 hits)">tons of songs</a> outside in the net. Here is just the first one and of course, it has to be Super Mario. Underlay your flashgames with 8bit music.</p>
+	<p><a id="more-131"></a><br />
+<object type="application/x-shockwave-flash" menu="false" data="/upload/supermario.mod.swf" width="512" height="72"><param menu="false" name="movie" value="/upload/supermario.mod.swf" /></object></p>
+	<p>Just 25KB and a stereodelay with short offsets for super-sonic-super-mario-sound :)<br />
+Believe it or not, I could easily mix a 909 drumset into the stream. Stay tuned&#8230;</p>
+	<p><a href="http://blog.andre-michelle.com/go.php?http://digg.com/music/ModPlayer_for_Flash9" title="(244 hits)">digg this</a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/supermario-modplayer/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>How cool is Audioprogramming ?</title>
+		<link>http://blog.andre-michelle.com/2006/how-cool-is-audioprogramming/</link>
+		<comments>http://blog.andre-michelle.com/2006/how-cool-is-audioprogramming/#comments</comments>
+		<pubDate>Wed, 26 Jul 2006 20:59:12 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/how-cool-is-audioprogramming/</guid>
+		<description><![CDATA[I'am a sound junkey. I can listen to a short sequence for hours, if there are slight modification over time. If you know Phuture "Acid Trax", than you know, what I am talking about. Now I have my own little toy. My first synthesizer with a random pattern creator and enough knobs to play a [...]]]></description>
+			<content:encoded><![CDATA[	<p>I&#8217;am a sound junkey. I can listen to a short sequence for hours, if there are slight modification over time. If you know Phuture &#8220;Acid Trax&#8221;, than you know, what I am talking about. Now I have my own little toy. My first synthesizer with a random pattern creator and enough knobs to play a long time.</p>
+	<p>Yes! &#8230;drums would be cool&#8230; effects and all that stuff&#8230; but for me, its complete&#8230; just engage in simple waveforms :)</p>
+	<p><a href="http://blog.andre-michelle.com/go.php?http://lab.andre-michelle.com" title="(3784 hits)">http://lab.andre-michelle.com</a> | F9: Audio | synthesis (F9Player and fast computer are required)
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/how-cool-is-audioprogramming/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>AS3 - AudioCycleBuffer</title>
+		<link>http://blog.andre-michelle.com/2006/as3-audiocyclebuffer/</link>
+		<comments>http://blog.andre-michelle.com/2006/as3-audiocyclebuffer/#comments</comments>
+		<pubDate>Sat, 22 Jul 2006 17:09:44 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/as3-audiocyclebuffer/</guid>
+		<description><![CDATA[After lots of crashes and frailties, I got today the solution for an audio-cycle-buffer (2047 samples). That means, it is possible to synthesize custom sounds and effects nearly in runtime (delay about 47ms). I have no *BIG* example here right now. Just the first running engine. It has a simple SWF embedded, where an empty [...]]]></description>
+			<content:encoded><![CDATA[	<p>After lots of crashes and frailties, I got today the solution for an audio-cycle-buffer (2047 samples). That means, it is possible to synthesize custom sounds and effects nearly in runtime (delay about 47ms). I have no *BIG* example here right now. Just the first running engine. It has a simple SWF embedded, where an empty wavfile is exported. This SWF will be parsed, modified and reloaded to create the sync- and the permanently changing cycle-buffer-sound. The <strong>class Cycle</strong> provides switching mono/stereo and 8bit/16bit, yet.</p>
+	<p>Sidenote to <a href="http://blog.andre-michelle.com/go.php?http://www.develotec.com" title="(149 hits)">Frank</a>: It&#8217;s on you to bring the <a href="http://blog.andre-michelle.com/go.php?http://en.wikipedia.org/wiki/TB-303" title="(250 hits)">Roland TB-303</a> to Flash :-) And I have to mention <a href="http://blog.andre-michelle.com/go.php?http://e-phonic.com/misc" title="(177 hits)">e-phonic </a> and <a href="http://blog.andre-michelle.com/go.php?http://blog.davr.org/2006/04/21/dynamic-sound-in-85" title="(159 hits)">david</a>. They also tried to find a solution on dynamic sound synthesis in flash with pretty cool results.</p>
+	<p><a id="more-129"></a><br />
+<strong>To have a stable sync in the browser I had to double the cycle-buffer. So the latency is now about 92ms.</strong></p>
+	<p><object type="application/x-shockwave-flash" menu="false" data="/upload/tb303.swf" width="400" height="128"><param menu="false" name="movie" value="/upload/tb303.swf" /></object></p>
+	<p><em>UPDATE: Frank Baumgartner shared his tb303 code. Here is a first preview !</em></p>
+	<p>Play with the knobs.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/as3-audiocyclebuffer/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>AS3 physics engine found on flashkit</title>
+		<link>http://blog.andre-michelle.com/2006/as3-physics-engine-found-on-flashkit/</link>
+		<comments>http://blog.andre-michelle.com/2006/as3-physics-engine-found-on-flashkit/#comments</comments>
+		<pubDate>Tue, 18 Jul 2006 14:20:22 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/as3-physics-engine-found-on-flashkit/</guid>
+		<description><![CDATA[ozmic66 posted  an AS3 physics engine, which seems to be rock solid.
+
+Awesome work ! ]]></description>
+			<content:encoded><![CDATA[	<p><a href="http://blog.andre-michelle.com/go.php?http://www.fileitup.com" title="(391 hits)">ozmic66</a> <a href="http://blog.andre-michelle.com/go.php?http://board.flashkit.com/board/showthread.php?t=695375" title="(526 hits)">posted </a> an AS3 <a href="http://blog.andre-michelle.com/go.php?http://studio.fileitup.com:88/oz/fisixengine" title="(1682 hits)">physics engine</a>, which seems to be rock solid.</p>
+	<p>Awesome work !
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/as3-physics-engine-found-on-flashkit/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Papervision - Great flash8 3d-engine</title>
+		<link>http://blog.andre-michelle.com/2006/papervision-great-flash8-3d-engine/</link>
+		<comments>http://blog.andre-michelle.com/2006/papervision-great-flash8-3d-engine/#comments</comments>
+		<pubDate>Mon, 17 Jul 2006 09:12:02 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/papervision-great-flash8-3d-engine/</guid>
+		<description><![CDATA[Carlos Ulloa compiles some examples of his 3d-engine Papervision. The quality and the stage dimension of his examples are awesome.  Even he works with linear-texture-mapping by the flash.geom.Matrix, the unfavorable distorsion is quite missing. ]]></description>
+			<content:encoded><![CDATA[	<p><a href="www.noventaynueve.com">Carlos Ulloa</a> <a href="http://blog.andre-michelle.com/go.php?http://noventaynueve.com/lab" title="(964 hits)">compiles some examples</a> of his 3d-engine <a href="http://blog.andre-michelle.com/go.php?http://www.noventaynueve.com/papervision" title="(1129 hits)">Papervision</a>. The quality and the stage dimension of his examples are awesome.  Even he works with <a href="http://blog.andre-michelle.com/go.php?http://session.andre-michelle.com/w3d" title="(727 hits)">linear-texture-mapping</a> by the <a href="http://blog.andre-michelle.com/go.php?http://livedocs.macromedia.com/flash/8/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts&#038;file=00002389.html" title="(21 hits)">flash.geom.Matrix</a>, the unfavorable distorsion is quite missing.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/papervision-great-flash8-3d-engine/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Must-read for AS3 developer</title>
+		<link>http://blog.andre-michelle.com/2006/must-read-for-as3-developer/</link>
+		<comments>http://blog.andre-michelle.com/2006/must-read-for-as3-developer/#comments</comments>
+		<pubDate>Tue, 11 Jul 2006 07:42:50 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>links</category>
+		<guid>http://blog.andre-michelle.com/2006/must-read-for-as3-developer/</guid>
+		<description><![CDATA[Gary Grossman (Creator of ActionScript) gives us a deeper insight how the new AVM2 affects actionscript performance. Very absorbing. ]]></description>
+			<content:encoded><![CDATA[	<p>Gary Grossman (Creator of ActionScript) gives us a <a href="http://blog.andre-michelle.com/go.php?http://www.onflex.org/ACDS/AS3TuningInsideAVM2JIT.pdf" title="(1417 hits)">deeper insight</a> how the new AVM2 affects actionscript performance. Very absorbing.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/must-read-for-as3-developer/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Webflags wm2006</title>
+		<link>http://blog.andre-michelle.com/2006/webflags-wm2006/</link>
+		<comments>http://blog.andre-michelle.com/2006/webflags-wm2006/#comments</comments>
+		<pubDate>Thu, 22 Jun 2006 14:16:25 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/webflags-wm2006/</guid>
+		<description><![CDATA[You may have seen the germany flag in the sidebar. I decided to distribute all 32 team flags as webflags.  I didn't care care about soccer yet except worldcup games. But this time, having the wm2006 in germany, I am completely involved. If you join as a fan with a webflag, leave your url [...]]]></description>
+			<content:encoded><![CDATA[	<p>You may have seen the germany flag in the sidebar. I decided to distribute all 32 team flags as webflags.  I didn&#8217;t care care about soccer yet except worldcup games. But this time, having the wm2006 in germany, I am completely involved. If you join as a fan with a webflag, leave your url in the comments. Any suggestion are welcome.</p>
+	<p><a href="http://blog.andre-michelle.com/go.php?http://wm2006.popforge.de" title="(1582 hits)"><img src="http://blog.andre-michelle.com/upload/webflags.jpg" alt="webflags" /></a></p>
+	<p><a href="http://blog.andre-michelle.com/go.php?http://blog.andre-michelle.com/upload/Flag.as" title="(397 hits)">source</a> | <a href="http://blog.andre-michelle.com/go.php?http://digg.com/design/Support_your_favorite_team_in_the_World_Cup06" title="(216 hits)">digg it</a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/webflags-wm2006/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Stable FPS Test</title>
+		<link>http://blog.andre-michelle.com/2006/stable-fps-test/</link>
+		<comments>http://blog.andre-michelle.com/2006/stable-fps-test/#comments</comments>
+		<pubDate>Fri, 02 Jun 2006 10:17:17 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/stable-fps-test/</guid>
+		<description><![CDATA[I tried one more time to get a stable frameRate in browser enviroment and an old workaround works fine for me now (flash9player tested).
+
+[AS]
+//-- pseudo code
+lastExitFrameMillis: int
+
+function init(): void
+{
+	lastExitFrameMillis = getTimer();
+	frameRate = 200;
+}
+
+function onEnterFrameLoop( event: Event ): void
+{
+	// execute code
+	// [...]
+	
+	while( getTimer() - lastExitFrameMillis < 20 ){};
+	
+	lastExitFrameMillis = getTimer();
+}
+[/AS]
+
+My results:
+IE6.0 = 49 FPS
+FireFox 1.5.0.3 = [...]]]></description>
+			<content:encoded><![CDATA[	<p>I tried one more time to get a stable frameRate in browser enviroment and an <a href="http://blog.andre-michelle.com/go.php?http://blog.andre-michelle.com/2005/tight-fps-solution" title="(407 hits)">old workaround</a> works fine for me now (flash9player tested).</p>
+	<div class="syntax_hilite"><strong>ActionScript:</strong><br />
+<div id="as-1">
+	<div>
+<span style="color: #808080; font-style: italic;">//-- pseudo code</span><br />
+lastExitFrameMillis: <span style="color: #003366;">int</span></p>
+	<p><span style="color: #000000; font-weight:bold;">function</span> init<span style="color:#008800; font-weight:bold;">&#40;</span><span style="color:#008800; font-weight:bold;">&#41;</span>: <span style="color: #003366;">void</span><br />
+<span style="color:#008800; font-weight:bold;">&#123;</span><br />
+&nbsp; &nbsp; &nbsp; &nbsp; lastExitFrameMillis = <span style="color: #003366;">getTimer</span><span style="color:#008800; font-weight:bold;">&#40;</span><span style="color:#008800; font-weight:bold;">&#41;</span>;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; frameRate = <span style="color: #cc66cc;color:#800000;">200</span>;<br />
+<span style="color:#008800; font-weight:bold;">&#125;</span></p>
+	<p><span style="color: #000000; font-weight:bold;">function</span> onEnterFrameLoop<span style="color:#008800; font-weight:bold;">&#40;</span> event: Event <span style="color:#008800; font-weight:bold;">&#41;</span>: <span style="color: #003366;">void</span><br />
+<span style="color:#008800; font-weight:bold;">&#123;</span><br />
+&nbsp; &nbsp; &nbsp; &nbsp; <span style="color: #808080; font-style: italic;">// execute code</span><br />
+&nbsp; &nbsp; &nbsp; &nbsp; <span style="color: #808080; font-style: italic;">// [...]</span><br />
+&nbsp; &nbsp; &nbsp; &nbsp; <br />
+&nbsp; &nbsp; &nbsp; &nbsp; <span style="color: #b1b100;">while</span><span style="color:#008800; font-weight:bold;">&#40;</span> <span style="color: #003366;">getTimer</span><span style="color:#008800; font-weight:bold;">&#40;</span><span style="color:#008800; font-weight:bold;">&#41;</span> - lastExitFrameMillis &lt; <span style="color: #cc66cc;color:#800000;">20</span> <span style="color:#008800; font-weight:bold;">&#41;</span><span style="color:#008800; font-weight:bold;">&#123;</span><span style="color:#008800; font-weight:bold;">&#125;</span>;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; <br />
+&nbsp; &nbsp; &nbsp; &nbsp; lastExitFrameMillis = <span style="color: #003366;">getTimer</span><span style="color:#008800; font-weight:bold;">&#40;</span><span style="color:#008800; font-weight:bold;">&#41;</span>;<br />
+<span style="color:#008800; font-weight:bold;">&#125;</span><br />
+&nbsp;</div>
+	</div>
+</div>
+	<p>My results:<br />
+IE6.0 = 49 FPS<br />
+FireFox 1.5.0.3 = 47 FPS</p>
+	<p><a href="http://blog.andre-michelle.com/upload/as3/stable.fps.test">Please test with your system and post you results
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/stable-fps-test/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Revive - 2d physics engine</title>
+		<link>http://blog.andre-michelle.com/2006/revive-2d-physics-engine/</link>
+		<comments>http://blog.andre-michelle.com/2006/revive-2d-physics-engine/#comments</comments>
+		<pubDate>Thu, 01 Jun 2006 16:29:57 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>announce</category>
+		<guid>http://blog.andre-michelle.com/2006/revive-2d-physics-engine/</guid>
+		<description><![CDATA[I promised to publish the sources of the physics engine I had shown on the flashconference in stuttgart (same engine I would had shown in paris). I did some big changes in the structure, so some things are missing (1d physics, billard example). In the current version, I tried to test on movable segments, which [...]]]></description>
+			<content:encoded><![CDATA[	<p>I promised to publish the sources of the physics engine I had shown on the flashconference in stuttgart (same engine I would had shown in paris). I did some big changes in the structure, so some things are missing (1d physics, billard example). In the current version, I tried to test on <em>movable segments</em>, which could be a nice feature dealing with polygons created by simple spring connections between particles. This is very alpha, but I will develope this technic further on. And I'm sorry - no comments in the code. Try to get this on your own! To many things will change, so I won't spend time in commenting code, which definitely will be removed.<br />
+<a id="more-122"></a><br />
+<b>: Features</b></p>
+	<p>+ Dynamic Intersection Tests (very stable for fast moving objects)<br />
++ MovableParticles<br />
++ MovableCircles<br />
++ MovableSegment (Test)<br />
++ ImmovablePoint<br />
++ ImmovableGate<br />
++ ImmovableCircleOuter<br />
++ ImmovableCircleOuterSegment<br />
++ ImmovableCircleInner<br />
++ ImmovableCircleInnerSegment<br />
++ ImmovableBezierQuadric (assembled by circle segments)<br />
++ ImmovableGroup<br />
++ Spring<br />
++ FixedSpring</p>
+	<p>(includes 5 different test scenes)</p>
+	<p><a href="http://blog.andre-michelle.com/go.php?http://recycle.andre-michelle.com/as3/beta3" title="(2147 hits)"><img src="http://blog.andre-michelle.com/upload/revive.gif"/></a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/revive-2d-physics-engine/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Short note (apology to paris)</title>
+		<link>http://blog.andre-michelle.com/2006/short-note-apology-to-paris/</link>
+		<comments>http://blog.andre-michelle.com/2006/short-note-apology-to-paris/#comments</comments>
+		<pubDate>Sun, 28 May 2006 15:05:43 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/short-note-apology-to-paris/</guid>
+		<description><![CDATA[I miss the flashconference in paris, cause I contract early this week an ugly otitis.  I'm still lying in bed and I could imagine, this will continue for some more days. I'm sorry for all the people, who liked to watch my session. This is an exception - I hate to miss such dates.
+Thanks [...]]]></description>
+			<content:encoded><![CDATA[	<p>I miss the flashconference in paris, cause I contract early this week an ugly otitis.  I'm still lying in bed and I could imagine, this will continue for some more days. I'm sorry for all the people, who liked to watch my session. This is an exception - I hate to miss such dates.<br />
+Thanks for Thibault, who has presented my current AS3 projects, without having anything more than a zip-file. I packed, uploaded the folder and send him a link...and...I lulled back to sleep. So he didn't know any hints or code location, where to change scenes and properties. But I hope you got the idea.</p>
+	<p>next time. promised.</p>
+	<p><em>sources and demoes will be delivered  soon.</em>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/short-note-apology-to-paris/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Flex2 Beta3 disappointments correction</title>
+		<link>http://blog.andre-michelle.com/2006/flex2-beta3-disappointments-correction/</link>
+		<comments>http://blog.andre-michelle.com/2006/flex2-beta3-disappointments-correction/#comments</comments>
+		<pubDate>Tue, 09 May 2006 18:09:06 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/flex2-beta3-disappointments-correction/</guid>
+		<description><![CDATA[Related to my previous posting I have to do some corrections. Read Darron Schall and Werner Sharps comments to notice, that the built-in Run-Player isn't as fast as the release player, that is currently not public available for now. So my comparisons are wrong. I tested the IE plugin and it could be, that it [...]]]></description>
+			<content:encoded><![CDATA[	<p>Related to my previous posting I have to do some corrections. Read <a href="http://blog.andre-michelle.com/go.php?http://blog.andre-michelle.com/2006/flex2-beta3-disappointments/#comments" title="(494 hits)">Darron Schall and Werner Sharps comments</a> to notice, that the built-in Run-Player isn't as fast as the release player, that is currently <strong>not</strong> public available for now. So my comparisons are wrong. I tested the IE plugin and it could be, that it is much faster, than I assume. More to come...</p>
+	<p>To post something new:<br />
+<a href="http://blog.andre-michelle.com/go.php?http://www.darronschall.com/weblog" title="(361 hits)">Darron Schall</a> and <a href="http://blog.andre-michelle.com/go.php?http://wahlers.com.br/claus/blog" title="(310 hits)">Claus Wahlers</a> updated their C64 emulator, which is in my opinion the coolest thing ever done with AS3.<br />
+<a href="http://blog.andre-michelle.com/go.php?http://codeazur.com.br/stuff/fc64/" title="(1189 hits)">Watch the C64 booting !</a> | <a href="http://blog.andre-michelle.com/go.php?http://www.macromedia.com/software/flashplayer/public_beta/" title="(2997 hits)">flash9 player required</a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/flex2-beta3-disappointments-correction/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Flex2 Beta3 disappointments</title>
+		<link>http://blog.andre-michelle.com/2006/flex2-beta3-disappointments/</link>
+		<comments>http://blog.andre-michelle.com/2006/flex2-beta3-disappointments/#comments</comments>
+		<pubDate>Tue, 09 May 2006 12:20:01 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>actionscript</category>
+		<guid>http://blog.andre-michelle.com/2006/flex2-beta3-disappointments/</guid>
+		<description><![CDATA[I cannot couch my disappointment about the current beta3 related to the BitmapData.setPixel method.
+A simple test confirms, that the setPixels method is now 30% slower than before. After that test, I converted my 3dengine (beta2) to the current beta3 and the framerate drops from 76 to 55FPS. So, simply put, I will abort the research [...]]]></description>
+			<content:encoded><![CDATA[	<p>I cannot couch my disappointment about the current beta3 related to the BitmapData.setPixel method.<br />
+A simple test confirms, that the setPixels method is now 30% slower than before. After that test, I converted my <a href="http://blog.andre-michelle.com/go.php?http://recycle.andre-michelle.com/as3/beta2/perspective.texture.mapping" title="(1205 hits)">3dengine (beta2)</a> to the current beta3 and the framerate drops from 76 to 55FPS. <del>So, simply put, I will abort the research about-perspective texture-mapping in AS3.</del></p>
+	<p>I know, there are many wonderfull things to do with AS3, but hey, it <del>was</del> is still a dream...
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/flex2-beta3-disappointments/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Speaking on flashconference’06 stuttgart</title>
+		<link>http://blog.andre-michelle.com/2006/speaking-on-flashconference06-stuttgart/</link>
+		<comments>http://blog.andre-michelle.com/2006/speaking-on-flashconference06-stuttgart/#comments</comments>
+		<pubDate>Wed, 26 Apr 2006 08:45:49 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/speaking-on-flashconference06-stuttgart/</guid>
+		<description><![CDATA[I will give a random insight into my current AS3 projects, including 3D Texturemapping and a new solid physics engine.
+
+From the press notes:
+The flashconference has a lively atmosphere: Colleagues  give each other a hearty welcome – because it's good to meet in Stuttgart!
+Professionals  contact producers and self-assured newcomers  make their first contacts. [...]]]></description>
+			<content:encoded><![CDATA[	<p><a href="http://blog.andre-michelle.com/go.php?http://flashconference.de/program/michelle01.html" title="(267 hits)">I</a> will give a random insight into my current AS3 projects, including 3D Texturemapping and a new solid physics engine.</p>
+	<p><strong>From the press notes:</strong><br />
+<em>The flashconference has a lively atmosphere: Colleagues  give each other a hearty welcome – because it's good to meet in Stuttgart!<br />
+Professionals  contact producers and self-assured newcomers  make their first contacts. For around three thousand filmmakers, industry experts, media representatives, programmers, and artists, the fmx is a sure mark in their calendars. They come from many countries  to see familiar faces, meet friends again, hear the latest news and information, and get the ball rolling on new projects.</em></p>
+	<p> <a href="http://blog.andre-michelle.com/go.php?http://flashconference.de" title="(571 hits)"><img src="http://blog.andre-michelle.com/upload/fc06.gif" alt="" /></a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/speaking-on-flashconference06-stuttgart/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>AS3 Sound Radar</title>
+		<link>http://blog.andre-michelle.com/2006/as3-sound-radar/</link>
+		<comments>http://blog.andre-michelle.com/2006/as3-sound-radar/#comments</comments>
+		<pubDate>Tue, 25 Apr 2006 10:05:05 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>actionscript</category>
+		<guid>http://blog.andre-michelle.com/2006/as3-sound-radar/</guid>
+		<description><![CDATA[flash 8.5 player required | source
+
+ ]]></description>
+			<content:encoded><![CDATA[	<p><a href="http://blog.andre-michelle.com/go.php?http://www.macromedia.com/software/flashplayer/public_beta/" title="(2997 hits)">flash 8.5 player required</a> | <a href="http://blog.andre-michelle.com/go.php?http://recycle.andre-michelle.com" title="(3664 hits)">source</a></p>
+	<p><a href="http://blog.andre-michelle.com/go.php?http://recycle.andre-michelle.com/as3/beta2/sound.radar" title="(3526 hits)"><img src="http://recycle.andre-michelle.com/as3/beta2/sound.radar/screenshot.gif" alt="" /></a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/as3-sound-radar/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>AS3 SoundChannel Feature Request</title>
+		<link>http://blog.andre-michelle.com/2006/as3-soundchannel-feature-request/</link>
+		<comments>http://blog.andre-michelle.com/2006/as3-soundchannel-feature-request/#comments</comments>
+		<pubDate>Thu, 20 Apr 2006 09:19:16 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/as3-soundchannel-feature-request/</guid>
+		<description><![CDATA[Regarding to this posting I had an idea today to handle SoundChannels in a very effective way. One of my favourite feature in AS3 is the Displaylist, where DisplayObjects can easily added and rejected from a DisplayObjectContainer  remaining as intact objects.
+So, imagine a SoundChannelList, where SoundChannels can be added as childs into other SoundChannels. [...]]]></description>
+			<content:encoded><![CDATA[	<p>Regarding to <a href="http://blog.andre-michelle.com/go.php?http://blog.andre-michelle.com/2006/missing-things-top3-soundbytes" title="(398 hits)">this posting</a> I had an idea today to handle SoundChannels in a very effective way. One of my favourite feature in AS3 is the Displaylist, where <a href="http://blog.andre-michelle.com/go.php?http://livedocs.macromedia.com/labs/1/flex/langref/flash/display/DisplayObject.html" title="(323 hits)">DisplayObjects</a> can easily added and rejected from a <a href="http://blog.andre-michelle.com/go.php?http://livedocs.macromedia.com/labs/1/flex/langref/flash/display/DisplayObjectContainer.html" title="(212 hits)">DisplayObjectContainer </a> remaining as intact objects.<br />
+So, imagine a SoundChannelList, where SoundChannels can be added as childs into other SoundChannels. Assume that we will have new manipulators as effects and filters as well as the wellknown volume and pan, nested SoundChannels would be effected by their preferences itself as well as the parent SoundChannels.</p>
+	<blockquote><p>
+example:<br />
+A SoundChannel with an effect and volume about 50%.<br />
+A nested SoundChannel with a volume about 50%.<br />
+Results the nested SoundChannel to be played with 25% (related to its waveform volume) and the effect from the parent SoundChannel.
+</p></blockquote>
+	<p>Get the point ? Awesome possebilities !
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/as3-soundchannel-feature-request/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Invited to flashfestival paris 2006</title>
+		<link>http://blog.andre-michelle.com/2006/invited-to-flashfestival-paris-2006/</link>
+		<comments>http://blog.andre-michelle.com/2006/invited-to-flashfestival-paris-2006/#comments</comments>
+		<pubDate>Wed, 19 Apr 2006 17:22:22 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>announce</category>
+		<guid>http://blog.andre-michelle.com/2006/invited-to-flashfestival-paris-2006/</guid>
+		<description><![CDATA[I've been invited to the flashfestival 2006 in paris - france, starting on mai, 27th. I will hold a session with Thibault Imbert about the new possebilities in Actionscript 3. I'm looking forward to see some of you french people there. I always had a lot of referres to my website from french sites, but [...]]]></description>
+			<content:encoded><![CDATA[	<p>I've been invited to the <a href="http://blog.andre-michelle.com/go.php?http://www.flashfestival.net/2006" title="(414 hits)">flashfestival 2006</a> in paris - france, starting on mai, 27th. I will hold a session with Thibault Imbert about the new possebilities in Actionscript 3. I'm looking forward to see some of you french people there. I always had a lot of referres to my website from french sites, but I didn't understand a word.</p>
+	<p>Je vais maintenant faire un gâteau.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/invited-to-flashfestival-paris-2006/feed/</wfw:commentRSS>
+	</item>
+		<item>
+		<title>Missing things TOP3:  Graphiccard Acceleration</title>
+		<link>http://blog.andre-michelle.com/2006/missing-things-top3-graphiccard-acceleration/</link>
+		<comments>http://blog.andre-michelle.com/2006/missing-things-top3-graphiccard-acceleration/#comments</comments>
+		<pubDate>Tue, 18 Apr 2006 11:45:01 +0000</pubDate>
+		<dc:creator>André Michelle</dc:creator>
+		
+	<category>+</category>
+		<guid>http://blog.andre-michelle.com/2006/missing-things-top3-graphiccard-acceleration/</guid>
+		<description><![CDATA[Calls for graphiccard acceleration for the flashplayer can be dated to over 7 years ago ? Anyway, the fast broadband internet is reality and it's not necessary to reduce the player size under 1MB or whatever the internal preferences are, anymore. It's not only about 3D. As a developer, I want to create new effects [...]]]></description>
+			<content:encoded><![CDATA[	<p>Calls for graphiccard acceleration for the flashplayer can be dated to over 7 years ago ? Anyway, the fast broadband internet is reality and it's not necessary to reduce the player size under 1MB or whatever the internal preferences are, anymore. It's not only about 3D. As a developer, I want to create new effects besides the 'presets' in the flashplayer. The new bitmap effects are nice, but too slow to combine them for new effects. With graphiccard acceleration we could source out a lot of computations to have more power on the application site.</p>
+	<p>It's not just a feature, its the possebility to extend the player heavily with new effects in actionscript.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://blog.andre-michelle.com/2006/missing-things-top3-graphiccard-acceleration/feed/</wfw:commentRSS>
+	</item>
+	</channel>
+</rss>

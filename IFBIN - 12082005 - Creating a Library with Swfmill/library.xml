@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<!-- The "movie" tag is the root tag for our XML.
+	The "version" tag sets it to compile for Flash 8. 
+	The "height" and "width" tags set the SWF dimensions, 
+	and "framerate" sets the number of frames per second. -->
+<movie version="8" width="640" height="480" framerate="30">
+
+	<!-- The background color of the Stage. -->
+	<background color="#ffffff"/>
+
+	<!-- We are compiling the library in the first frame.
+		It is possible to put it in other frames as well. -->
+	<frame>
+		<library>
+			<!-- The clip tag can import SWF, JPG, or PNG files.
+				"id" sets the linkage ID (for attaching the clip),
+				and "import" takes the path of the file on the filesystem.
+				The path can be relative or absolute. -->
+			<clip id="imageInLibrary" import="logo.png" />
+		</library>
+	</frame>
+</movie>

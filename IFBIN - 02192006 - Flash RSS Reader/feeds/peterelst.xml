@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.0" -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+	<title>Peter Elst</title>
+	<link>http://www.peterelst.com/blog</link>
+	<description>Multimedia Application Development</description>
+	<pubDate>Wed, 15 Feb 2006 08:00:39 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.0</generator>
+	<language>en</language>
+			<item>
+		<title>Google acquires Measure Map</title>
+		<link>http://www.peterelst.com/blog/2006/02/15/google-acquires-measure-map/</link>
+		<comments>http://www.peterelst.com/blog/2006/02/15/google-acquires-measure-map/#comments</comments>
+		<pubDate>Wed, 15 Feb 2006 08:00:38 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>General</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/02/15/Google acquires Measure Map/</guid>
+		<description><![CDATA[<p>Just got an email by Jeff Veen that <a href="http://www.measuremap.com/">Measure Map</a> by <a href="http://www.adaptivepath.com/">Adaptive Path</a> has been acquired by Google. Should be very good news for bloggers, I'm sure we'll see some great things happening with it.</p>]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/02/15/google-acquires-measure-map/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Configuring a Flash application - Part Two</title>
+		<link>http://www.peterelst.com/blog/2006/02/08/configure-flash-application-part-two/</link>
+		<comments>http://www.peterelst.com/blog/2006/02/08/configure-flash-application-part-two/#comments</comments>
+		<pubDate>Wed, 08 Feb 2006 14:34:54 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>Flash</category>
+	<category>PHP</category>
+	<category>Publications</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/02/08/configure-flash-application-part-two/</guid>
+		<description><![CDATA[<p><a href="http://www.dmxzone.com">DMXzone.com</a> has just published my follow-up article on using an XML file to configure your Flash applications, its a pretty cool piece even if I say so myself ;)</p>]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/02/08/configure-flash-application-part-two/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>New Orleans - we care</title>
+		<link>http://www.peterelst.com/blog/2006/02/08/new-orleans-we-care/</link>
+		<comments>http://www.peterelst.com/blog/2006/02/08/new-orleans-we-care/#comments</comments>
+		<pubDate>Wed, 08 Feb 2006 14:00:05 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>General</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/02/08/New Orleans - we care/</guid>
+		<description><![CDATA[<p><b>"what we do in life echoes in eternity"</b></p>
+
+<p>Inspired by those words <a href="http://www.helpingout.be">Bart Stassen</a>, a regular at our <a href="http://www.mmug.be">MMUG Belgium</a>, took a week of work, bought himself a plane ticket and flew out to New Orleans to help clean out homes struck by hurricane Katrina.</p>]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/02/08/new-orleans-we-care/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Flex 2 Beta announced</title>
+		<link>http://www.peterelst.com/blog/2006/02/01/flex2-beta-announced/</link>
+		<comments>http://www.peterelst.com/blog/2006/02/01/flex2-beta-announced/#comments</comments>
+		<pubDate>Tue, 31 Jan 2006 23:47:21 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/02/01/flex2-beta-announced/</guid>
+		<description><![CDATA[<p><a href="http://labs.macromedia.com/technologies/flexbuilder2/">Flex 2 Beta</a> will be available from the <a href="http://labs.adobe.com">labs.adobe.com</a> site very soon and as you've probably heard by now an important licensing change was announced. The Flex 2 SDK, framework and compiler will be *free of charge* -- (with the Eclipse based Flex Builder 2 priced at under 1,000 USD).</p>]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/02/01/flex2-beta-announced/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>FlashExtensibility.com</title>
+		<link>http://www.peterelst.com/blog/2006/01/28/flashextensibility-dot-com/</link>
+		<comments>http://www.peterelst.com/blog/2006/01/28/flashextensibility-dot-com/#comments</comments>
+		<pubDate>Sat, 28 Jan 2006 08:08:27 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>JSFL</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/01/28/flashextensibility-dot-com/</guid>
+		<description><![CDATA[<p>If you're into JSFL you'll no doubt know about "<a href="http://www.amazon.co.uk/exec/obidos/ASIN/1590593049/peterelstmult-21/">Extending Flash MX 2004</a>" by <a href="http://www.bit-101.com/blog/">Keith Peters</a> and <a href="http://www.27bobs.com">Todd Yard </a>which is essentially the bible on Flash extensibility (though I have to admit there is little competition).</p>
+
+<p>After <a href="http://www.bit-101.com/blog/?p=720">reading</a> Keith is letting the accompanying domain <a href="http://www.flashextensibility.com">FlashExtensibility.com</a> go, I got in touch and he graciously transferred the domain to me. Pretty cool, looking forward to building it up to a nice little resource on extending the Flash IDE!</p>]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/01/28/flashextensibility-dot-com/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Object-Oriented ActionScript for Flash 8</title>
+		<link>http://www.peterelst.com/blog/2006/01/25/oo-actionscript-for-flash-8/</link>
+		<comments>http://www.peterelst.com/blog/2006/01/25/oo-actionscript-for-flash-8/#comments</comments>
+		<pubDate>Wed, 25 Jan 2006 18:33:19 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>Flash</category>
+	<category>Publications</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/01/19/oo-actionscript-for-flash-8/</guid>
+		<description><![CDATA[<p>I'm happy to say "<a href="http://www.friendsofed.com/book.html?isbn=1590596196">Object-Oriented ActionScript for Flash 8</a>" is finally done and going to the printers. This was definitely one of the biggest book projects I've worked on and must say it turned out great. With the help of contributing authors <a href="http://www.27bobs.com/">Todd Yard</a> and <a href="http://www.sasjacobs.com/">Sas Jacobs</a> we covered tons of information you rarely find in ActionScript books.</p>]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/01/25/oo-actionscript-for-flash-8/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Configuring a Flash application</title>
+		<link>http://www.peterelst.com/blog/2006/01/23/configure-flash-application/</link>
+		<comments>http://www.peterelst.com/blog/2006/01/23/configure-flash-application/#comments</comments>
+		<pubDate>Mon, 23 Jan 2006 14:12:49 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>Flash</category>
+	<category>Publications</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/01/23/configure-flash-application/</guid>
+		<description><![CDATA[<p>I've got a <a href="http://www.dmxzone.com/ShowDetail.asp?NewsId=11482">free article</a> up on <a href="http://www.dmxone.com">DMXzone.com</a> that shows you the basics of using an XML file to configure your Flash applications.</p>]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/01/23/configure-flash-application/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Firefox popup from Flash</title>
+		<link>http://www.peterelst.com/blog/2006/01/16/firefox-popup-issue/</link>
+		<comments>http://www.peterelst.com/blog/2006/01/16/firefox-popup-issue/#comments</comments>
+		<pubDate>Mon, 16 Jan 2006 11:26:00 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>Flash</category>
+	<category>Flex</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/01/16/firefox-popup-issue/</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/01/16/firefox-popup-issue/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Flash Thriller Night</title>
+		<link>http://www.peterelst.com/blog/2006/01/13/Flash-Thriller-Night/</link>
+		<comments>http://www.peterelst.com/blog/2006/01/13/Flash-Thriller-Night/#comments</comments>
+		<pubDate>Fri, 13 Jan 2006 21:59:50 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>Flash</category>
+	<category>Flex</category>
+	<category>Events</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/01/13/Flash Thriller Night/</guid>
+		<description><![CDATA[<p>Just got back from the Flash Thriller Night event (yes it's Friday the 13th)-- featuring sessions by Belgians best and bravest <a href="http://www.webkitchen.be">Serge Jespers</a> and <a href="http://www.herrodius.com">Christophe Herreman</a> talking respectively about "Flash 8 design features" and "AS3 and Flash Player 8.5".</p>]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/01/13/Flash-Thriller-Night/feed/</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Event Bubbling in AS2.0</title>
+		<link>http://www.peterelst.com/blog/2006/01/07/Event-Bubbling/</link>
+		<comments>http://www.peterelst.com/blog/2006/01/07/Event-Bubbling/#comments</comments>
+		<pubDate>Sat, 07 Jan 2006 17:25:18 +0000</pubDate>
+		<dc:creator>Peter</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.peterelst.com/blog/2006/01/07/Event-Bubbling/</guid>
+		<description><![CDATA[<p>There's been a lot of hype around the support for event bubbling in AS3 recently, and after <a href="http://www.helpqlodhelp.com/blog/">Ralf Bokelberg</a> posted an <a href="http://www.helpqlodhelp.com/blog/archives/000144.html">ingenious method</a> to get it to work with AS2.0 thought I'd look at it more closely and post an example.</p>
+
+<p>First of all, what exactly is event bubbling? Well the concept is relatively easy, an event dispatched from a nested view 'bubbles' up the chain to its parent views so they can listen to and act upon that event. Without event bubbling the parent views need a reference to the nested view to listen to subscribe to the events.</p>]]></description>
+		<wfw:commentRSS>http://www.peterelst.com/blog/2006/01/07/Event-Bubbling/feed/</wfw:commentRSS>
+		</item>
+	</channel>
+</rss>

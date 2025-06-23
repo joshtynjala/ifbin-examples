@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Abdul Qabiz&apos;s Blog - India</title>
+<link>http://www.abdulqabiz.com/blog/</link>
+<description>on Macromedia Flash, Flex, Web Technologies...</description>
+<language>en-us</language>
+<copyright>Copyright 2006</copyright>
+<lastBuildDate>Fri, 14 Jul 2006 00:43:18 +0530</lastBuildDate>
+<pubDate>Thu, 03 Aug 2006 06:37:13 +0530</pubDate>
+<generator>http://www.movabletype.org/?v=3.2</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+
+<item>
+<title>Yahoo! Messenger 8 beta deleted message archives</title>
+<description>This evening, I trusted Yahoo! Messenger beta which is of course of beta quality. I installed it to check the new Yahoo! and MSN thingy. Just now, I noticed it deleted entire message archive while installation. Sad :(...</description>
+<link>http://www.abdulqabiz.com/blog/archives/general/yahoo_messenger_1.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/general/yahoo_messenger_1.php</guid>
+<category>General</category>
+<pubDate>Fri, 14 Jul 2006 00:43:18 +0530</pubDate>
+</item>
+<item>
+<title>Xhtmlized.com</title>
+<description>Xhtmlized.com takes your design and turn them into XHTML/CSS, it&apos;s manual process which takes atmost five days. Price is also reasonable ($149 per design). It&apos;s also talked on Techcrunch.com...</description>
+<link>http://www.abdulqabiz.com/blog/archives/web_development/xhtmlizedcom.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/web_development/xhtmlizedcom.php</guid>
+<category>Web Development</category>
+<pubDate>Tue, 04 Jul 2006 15:24:03 +0530</pubDate>
+</item>
+<item>
+<title>Adobe Flex 2.0 released</title>
+<description>Adobe Flex 2 has been released, I got to know from Matt&apos;s blog. With this release Flex.org has also been announced. Check out Flex.org for more information. Download Flex 2.0 (Free SDK or FlexBuilder 2.0 trial) Update: Raghu ( a...</description>
+<link>http://www.abdulqabiz.com/blog/archives/macromedia_flex/adobe_flex_20_r_1.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/macromedia_flex/adobe_flex_20_r_1.php</guid>
+<category>Macromedia Flex</category>
+<pubDate>Wed, 28 Jun 2006 11:25:48 +0530</pubDate>
+</item>
+<item>
+<title>Adobe Flash Player 9 released</title>
+<description>Adobe Flash Player 9 has been released finally. All Flash/Flex developers/designers have been waiting for it. Adobe Flash Player 9 has totally overhauled virtual machine with a better language (ActionScript 3 or AS3), JIT compiler, better garbage collector, new display-list...</description>
+<link>http://www.abdulqabiz.com/blog/archives/macromedia_flex/adobe_flash_pla.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/macromedia_flex/adobe_flash_pla.php</guid>
+<category>Macromedia Flex</category>
+<pubDate>Wed, 28 Jun 2006 11:05:12 +0530</pubDate>
+</item>
+<item>
+<title>Are you a Flex developer? Register</title>
+<description>Tariq Ahmed sent me link of flexcoders.net. Which is a site that hosts International Registery of Flex developers (flexcoders). If you are a Flex developer, register yourself. Blogged with Flock...</description>
+<link>http://www.abdulqabiz.com/blog/archives/macromedia_flex/are_you_a_flex_1.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/macromedia_flex/are_you_a_flex_1.php</guid>
+<category>Macromedia Flex</category>
+<pubDate>Wed, 28 Jun 2006 10:30:46 +0530</pubDate>
+</item>
+<item>
+<title>My blog and IE</title>
+<description>After a long time, today I checked my blog in Internet Explorer. I found that there are many bugs. I would fix it soon. If you had problem reading post because of it, I am sorry about it....</description>
+<link>http://www.abdulqabiz.com/blog/archives/general/my_blog_and_ie.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/general/my_blog_and_ie.php</guid>
+<category>General</category>
+<pubDate>Fri, 23 Jun 2006 04:33:34 +0530</pubDate>
+</item>
+<item>
+<title>Yahoo! Messenger Plugin SDK</title>
+<description>When I was in Yahoo!, I heard about this new plugin architecture in Yahoo! Messenger. I was very excited because I could extend the capabilities of Yahoo! Messenger with my current skills set (ActionScript, HTML, JavaScript, C++). Now this is...</description>
+<link>http://www.abdulqabiz.com/blog/archives/flash_and_actionscript/yahoo_messenger.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/flash_and_actionscript/yahoo_messenger.php</guid>
+<category>Flash and Actionscript</category>
+<pubDate>Thu, 22 Jun 2006 14:46:36 +0530</pubDate>
+</item>
+<item>
+<title>Access your remote PC, Skype with SoonR</title>
+<description>SoonR allows you to access your remote PC, skype account, Outlook etc from your mobile device without installing any software on your mobile device. However, you need to install SoonR desktop client on your PC. Check out it&apos;s features. Also...</description>
+<link>http://www.abdulqabiz.com/blog/archives/mobile_devices/access_your_rem.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/mobile_devices/access_your_rem.php</guid>
+<category>Mobile &amp; Devices</category>
+<pubDate>Thu, 22 Jun 2006 13:36:10 +0530</pubDate>
+</item>
+<item>
+<title>Loading JavaScript file(s) using HTTPService/URLLoader</title>
+<description>In my previous post, I talked about JavaScript Flex 2 component that can inject Javascript code in HTML wrapper&apos;s context. I wanted to let you all know that you can load Javascript files (.js) using HTTPService (or flash.net.URLLoader) in Flex2/AS3...</description>
+<link>http://www.abdulqabiz.com/blog/archives/macromedia_flex/loading_javascr.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/macromedia_flex/loading_javascr.php</guid>
+<category>Macromedia Flex</category>
+<pubDate>Tue, 20 Jun 2006 20:58:43 +0530</pubDate>
+</item>
+<item>
+<title>What makes you happy is undefined</title>
+<description>Came up with these words a few days back. I think, it makes sense. You gotta define your own list of things that makes you happy. BTW! I am cool and very happy. These words are outcome of my nature...</description>
+<link>http://www.abdulqabiz.com/blog/archives/general/what_makes_you.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/general/what_makes_you.php</guid>
+<category>General</category>
+<pubDate>Mon, 19 Jun 2006 16:04:18 +0530</pubDate>
+</item>
+<item>
+<title>JavaScript injection through ActionScript</title>
+<description>In my previous post , I showed how can you inject JavaScript using ActionScript or MXML. I can think of following:- - Request server-side script to send a JavaScript (for specific browser) as string and using JavaScript class, I can...</description>
+<link>http://www.abdulqabiz.com/blog/archives/macromedia_flex/javascript_inje.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/macromedia_flex/javascript_inje.php</guid>
+<category>Macromedia Flex</category>
+<pubDate>Fri, 16 Jun 2006 04:49:56 +0530</pubDate>
+</item>
+<item>
+<title>A MXML component that embeds JavaScript in html</title>
+<description>I know subject line is confusing but I am not able to think a better one. I have written a Adobe Flex 2.0 component(JavaScript.as), which can be used as MXML tag in Flex 2.0 applications. You can write JavaScript code...</description>
+<link>http://www.abdulqabiz.com/blog/archives/macromedia_flex/a_mxml_componen_1.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/macromedia_flex/a_mxml_componen_1.php</guid>
+<category>Macromedia Flex</category>
+<pubDate>Fri, 16 Jun 2006 03:31:21 +0530</pubDate>
+</item>
+<item>
+<title>Things I want to see in Adobe Apollo</title>
+<description>Lots of talk going on Apollo. I have kept quite because I had not seen Apollo except in MAX-2005 but today I saw screenshots on Ryan&apos;s blog. And I commented on his blog, I would like to see following things...</description>
+<link>http://www.abdulqabiz.com/blog/archives/macromedia_flex/things_i_want_t_1.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/macromedia_flex/things_i_want_t_1.php</guid>
+<category>Macromedia Flex</category>
+<pubDate>Thu, 15 Jun 2006 15:33:08 +0530</pubDate>
+</item>
+<item>
+<title>Camera.getCamera (name) doesn&apos;t work in Adobe Flash Player 9 beta</title>
+<description>I just noticed that if you have multiple cameras attached to your machine, in that case Camera.getCamera (cameraName) doesn&apos;t work Adobe Flash Player 9 beta 3. Camera.getCamera () works fine but that would return the default camera. But if you...</description>
+<link>http://www.abdulqabiz.com/blog/archives/flash_and_actionscript/cameragetcamera.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/flash_and_actionscript/cameragetcamera.php</guid>
+<category>Flash and Actionscript</category>
+<pubDate>Wed, 14 Jun 2006 18:33:33 +0530</pubDate>
+</item>
+<item>
+<title>Workaround: FileReference onComplete is not fired on Mac OS</title>
+<description>FileReference&apos;s onComplete event is not fired on Mac version of Adobe Flash Player 8. We faced similar problem and found the workaround, thanks to comment by Bob on Nirav&apos;s blog. There is simple workaround, you need to sent empty response...</description>
+<link>http://www.abdulqabiz.com/blog/archives/flash_and_actionscript/workaround_file_1.php</link>
+<guid>http://www.abdulqabiz.com/blog/archives/flash_and_actionscript/workaround_file_1.php</guid>
+<category>Flash and Actionscript</category>
+<pubDate>Fri, 09 Jun 2006 21:46:54 +0530</pubDate>
+</item>
+
+
+</channel>
+</rss>

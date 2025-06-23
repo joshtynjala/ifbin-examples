@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.0" -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+	<title>BIT-101 Blog</title>
+	<link>http://www.bit-101.com/blog</link>
+	<description>On, Off, and On Again.</description>
+	<pubDate>Fri, 11 Aug 2006 12:20:02 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.0</generator>
+	<language>en</language>
+			<item>
+		<title>Flash 9 TextFields Rock!</title>
+		<link>http://www.bit-101.com/blog/?p=852</link>
+		<comments>http://www.bit-101.com/blog/?p=852#comments</comments>
+		<pubDate>Fri, 11 Aug 2006 11:46:35 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>General</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=852</guid>
+		<description><![CDATA[Check out some of the new methods on the Flash 9 TextField object. Some stuff we&#8217;ve been dying for for years. Here&#8217;s a nice one:
+getCharBoundaries(index)
+Returns a rectangle that is pretty much the bounding box of the character specified by the index parameter. In other words the first character in the text field would be index [...]]]></description>
+			<content:encoded><![CDATA[<p>Check out some of the new methods on the Flash 9 TextField object. Some stuff we&#8217;ve been dying for for years. Here&#8217;s a nice one:</p>
+<p>getCharBoundaries(index)</p>
+<p>Returns a rectangle that is pretty much the bounding box of the character specified by the index parameter. In other words the first character in the text field would be index 0, etc.</p>
+<p>Here&#8217;s a really quick, crappy demo of something you could do with that. Needs a lot of work, for example, it pukes if you search multiline text. Actually, it finds the positions fine, just doesn&#8217;t handle them correctly. Would be easy to fix, but I was just playing.</p>
+<p>Just type in a word in the text (case sensitive) and hit search.</p>
+<p></p>
+<p>Neat, eh?</p>
+<p><a href="http://www.bit-101.com/flash9/WordSearch.as">Source here</a>.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=852</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Foundation ActionScript Animation: Making Things Move! for AS3!</title>
+		<link>http://www.bit-101.com/blog/?p=851</link>
+		<comments>http://www.bit-101.com/blog/?p=851#comments</comments>
+		<pubDate>Wed, 09 Aug 2006 20:45:14 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>General</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=851</guid>
+		<description><![CDATA[I know I mentioned it earlier, but I thought I&#8217;d add an update that the AS3 version of Making Things Move is definitely underway. I&#8217;ve actually started updating the chapters, and have Chapter 3 pretty much done. Just need to redo a few screenshots, etc.
+Chapter 2 was the biggest beast, I hope. For those of [...]]]></description>
+			<content:encoded><![CDATA[<p>I know I mentioned it earlier, but I thought I&#8217;d add an update that the AS3 version of Making Things Move is definitely underway. I&#8217;ve actually started updating the chapters, and have Chapter 3 pretty much done. Just need to redo a few screenshots, etc.</p>
+<p>Chapter 2 was the biggest beast, I hope. For those of you who have the first version, Chapter 2 covers all the basics of ActionScript, timeline, movie clips, etc. So this was pretty much an entire re-write. I&#8217;m also striving to make it so all the examples are set work in the Flash 9 IDE, Flex Builder 2, or the free Flex 2 SDK. This means describing how to set up and use all three environments. It also means that there won&#8217;t be any timeline code in the book. It&#8217;s all class based, so that subject needed some more work.</p>
+<p>I predict that Chapter 4 may be a bit of work as well, but after that, it&#8217;s mostly just converting code and explanations. At least I got through the worst part, and now it&#8217;s really getting fun.</p>
+<p>As a side note, I&#8217;m writing all of the code for the examples using the free SDK, FlashDevelop, Ant, and <a target="_blank" href="http://www.bit-101.com/blog/?p=849">my project templates</a>. It&#8217;s working great, and I highly encourage you to try it out if you want to experiment with AS3.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=851</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Flash 2: It’s Cinchy!</title>
+		<link>http://www.bit-101.com/blog/?p=850</link>
+		<comments>http://www.bit-101.com/blog/?p=850#comments</comments>
+		<pubDate>Tue, 08 Aug 2006 21:55:29 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>General</category>
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=850</guid>
+		<description><![CDATA[
+Somebody posted this on a list somewhere and I downloaded it and chopped it a bit to make it easier to read. Now I don&#8217;t remember who posted it. Hopefully it&#8217;s cool. This was just too funny not to share.
+
+]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.bit-101.com/misc/flash2postcard.jpg" /></p>
+<p>Somebody posted this on a list somewhere and I downloaded it and chopped it a bit to make it easier to read. Now I don&#8217;t remember who posted it. Hopefully it&#8217;s cool. This was just too funny not to share.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=850</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Tutorial: AS3 in FlashDevelop</title>
+		<link>http://www.bit-101.com/blog/?p=849</link>
+		<comments>http://www.bit-101.com/blog/?p=849#comments</comments>
+		<pubDate>Sun, 06 Aug 2006 16:25:50 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=849</guid>
+		<description><![CDATA[Today marks the public release of the new AS3 parsing plugin and completed intrinsic files for the Adobe AS3 classes for FlashDevelop. I believe FlashDevelop now has probably the best AS3 support of any tool out there, other than Flex Builder 2. A future version of FlashDevelop will have more extensive support for AS3 and [...]]]></description>
+			<content:encoded><![CDATA[<p>Today marks the public release of the new AS3 parsing plugin and completed intrinsic files for the Adobe AS3 classes for FlashDevelop. I believe FlashDevelop now has probably the best AS3 support of any tool out there, other than Flex Builder 2. A future version of FlashDevelop will have more extensive support for AS3 and possiby Flex 2. The plugin and intrinsic classes are really meant as a patch to make it possible to get code completion and hinting in FlashDevelop. But even so, they work pretty damn well.</p>
+<p>I'm going to walk you through modifying your FlashDevelop installation so that it is a fully functional AS3 environment. A lot of these steps reflect my personal preferences in how to set things up, so you are free to use as much or as little as you want, or modify it in any way.</p>
+<p><strong>Step 1: Install all the tools and files.</strong></p>
+<p>First of all, you <strong>need </strong>to have the following installed:</p>
+<ul>
+<li>FlashDevelop <a target="_blank" href="http://www.flashdevelop.org">http://www.flashdevelop.org</a></li>
+<li>Flex2 SDK <a target="_blank" href="https://www.adobe.com/cfusion/tdrc/index.cfm?product=flex">https://www.adobe.com/cfusion/tdrc/index.cfm?product=flex</a></li>
+<li>New ASCompletion.dll <a target="_blank" href="http://flashdevelop.org/downloads/releases/ASCompletion-v1.0.1.zip">http://flashdevelop.org/downloads/releases/ASCompletion-v1.0.1.zip</a></li>
+<li>Intrinsic Class Files <a target="_blank" href="http://www.returnundefined.com/fdas3/">http://www.returnundefined.com/fdas3/</a></li>
+</ul>
+<p>Install FlashDevelop as usual.</p>
+<p>Take note of where you unzip the Flex 2 stuff. Usually a simple location like c:/flex_2_sdk is good.</p>
+<p>Put the ASCompletion.dll in the plugins directory of your FlashDevelop install directory.</p>
+<p>Put the class files wherever you want, but take note of their location.</p>
+<p>For a fully integrated environment, you should also install the following:</p>
+<ul>
+<li>Apache Ant <a target="_blank" href="http://ant.apache.org">http://ant.apache.org</a></li>
+<li>The RunCommand plugin <a target="_blank" href="http://flashdevelop.org/downloads/releases/RunCommand-v0.1.zip">http://flashdevelop.org/downloads/releases/RunCommand-v0.1.zip</a></li>
+<li>My AS3 and Flex 2 Project Templates <a target="_blank" href="http://www.bit-101.com/flashdevelop/ProjectTemplates.zip">http://www.bit-101.com/flashdevelop/ProjectTemplates.zip</a></li>
+</ul>
+<p>There's some info here on installing Ant: <a target="_blank" href="http://www.bit-101.com/blog/?p=627">http://www.bit-101.com/blog/?p=627</a></p>
+<p>The RunCommand plugin dll should also go in FlashDevelop's plugin directory.</p>
+<p>The templates to in FlashCommand's data/Project Templates/ directory.</p>
+<p><strong>Step 2: Tweaking the Environment a bit.</strong></p>
+<p>First, it's nice to be able to build your project with the click of a button or a shortcut key. Open up the ToolBar.xml file, which you will find in FlashDevelop's Settings folder, and add the following line wherever you like:</p>
+<div class="igBar"><span id="lxml-6"><a href="#" onclick="javascript:showPlainTxt('xml-6'); return false;">PLAIN TEXT</a></span></div>
+<div class="syntax_hilite"><span class="langName">XML:</span><br />
+<div id="xml-6">
+<div class="xml">
+<ol>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #009900;"><span style="font-weight: bold; color: black;">&lt;button</span> <span style="color: #000066;">label</span>=<span style="color: #ff0000;">"ANT Build"</span> <span style="color: #000066;">click</span>=<span style="color: #ff0000;">"PluginCommand"</span> <span style="color: #000066;">image</span>=<span style="color: #ff0000;">"54"</span> <span style="color: #000066;">tag</span>=<span style="color: #ff0000;">"Run;SaveAll;ant"</span> <span style="color: #000066;">shortcut</span>=<span style="color: #ff0000;">"CtrlF7"</span> <span style="font-weight: bold; color: black;">/&gt;</span></span> </div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<p></p>
+<p>Note, this step requires that you installed the RunCommand plugin as described above. You'll probably want to change your shortcut key. Just make sure you change it to something that is unused, or swap things around to free up the key of your choice. I like F7 for compiling, so I rearranged things to support that.</p>
+<p>It's also nice to be able to trace into the FlashDevelop output panel when testing a swf in a tab in FlashDevelop. A simple way to accomplish this is to create a trace function that calls fscommand. Create a new file and copy this class into it:</p>
+<div class="igBar"><span id="lactionscript-7"><a href="#" onclick="javascript:showPlainTxt('actionscript-7'); return false;">PLAIN TEXT</a></span></div>
+<div class="syntax_hilite"><span class="langName">Actionscript:</span><br />
+<div id="actionscript-7">
+<div class="actionscript">
+<ol>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;">package org.<span style="color: #006600;">flashdevelop</span>.<span style="color: #006600;">utils</span> <span style="color: #66cc66;">&#123;</span></div>
+</li>
+<li style="font-weight: bold;color:#26536A;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">import</span> flash.<span style="color: #0066CC;">system</span>.<span style="color: #0066CC;">fscommand</span>;</div>
+</li>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;">&nbsp;</div>
+</li>
+<li style="font-weight: bold;color:#26536A;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">public</span> <span style="color: #000000; font-weight: bold;">function</span> xtrace<span style="color: #66cc66;">&#40;</span>msg:<span style="color: #0066CC;">Object</span><span style="color: #66cc66;">&#41;</span>:<span style="color: #0066CC;">void</span> <span style="color: #66cc66;">&#123;</span></div>
+</li>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">fscommand</span><span style="color: #66cc66;">&#40;</span>”<span style="color: #0066CC;">trace</span>”, msg.<span style="color: #0066CC;">toString</span><span style="color: #66cc66;">&#40;</span><span style="color: #66cc66;">&#41;</span><span style="color: #66cc66;">&#41;</span>;</div>
+</li>
+<li style="font-weight: bold;color:#26536A;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #66cc66;">&#125;</span></div>
+</li>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #66cc66;">&#125;</span> </div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<p></p>
+<p>Save this as xtrace.as in the Library/org/flashdevelop/utils/ directory of your FlashDevelop install.</p>
+<p><strong>Step 3: Creating and customizing a project</strong></p>
+<p>Fire up FlashDevelop (or restart it after you've got everything set up) and create a new project.</p>
+<p>Choose AS3 Project which should now be in the list of projects.</p>
+<p>Give it a project name and location, and leave the checkboxed checked to create a new directory. Your project will be created.</p>
+<p>Now you need to add the AS3 classpath to the project. Right-click on the project in the project explorer, and choose properties. In the properties dialog, choose the Classpaths tab and click "Add Classpath". Browse to the directory you put your AS3 intrinsic class files, choose that, and accept it.</p>
+<p>If you are using the xtrace functionality described in step 2, you need to add the Library folder to your compiler arguments as a classpath. Open up the build.xml file in your project and add the line:</p>
+<div class="igBar"><span id="lxml-8"><a href="#" onclick="javascript:showPlainTxt('xml-8'); return false;">PLAIN TEXT</a></span></div>
+<div class="syntax_hilite"><span class="langName">XML:</span><br />
+<div id="xml-8">
+<div class="xml">
+<ol>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #009900;"><span style="font-weight: bold; color: black;">&lt;arg</span> <span style="color: #000066;">line</span>=<span style="color: #ff0000;">"-source-path='C:/Program Files/FlashDevelop/Library'"</span> <span style="font-weight: bold; color: black;">/&gt;</span></span> </div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<p></p>
+<p>along with the other "arg" nodes under the compile target (should be around line 26). Save and close that file.</p>
+<p>Open up the build.properties file in your project. Adjust any paths such as the path to where you installed the Flex 2 SDK, and make any other desired setting changes. These should be self-explanatory.</p>
+<p>Now open your App.as file and start editing away with full AS3 code completion and hinting! If you want to use the xtrace function, you'll need to import it with the following line:</p>
+<div class="igBar"><span id="lactionscript-9"><a href="#" onclick="javascript:showPlainTxt('actionscript-9'); return false;">PLAIN TEXT</a></span></div>
+<div class="syntax_hilite"><span class="langName">Actionscript:</span><br />
+<div id="actionscript-9">
+<div class="actionscript">
+<ol>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">import</span> org.<span style="color: #006600;">flashdevelop</span>.<span style="color: #006600;">utils</span>.<span style="color: #006600;">xtrace</span>; </div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<p></p>
+<p>And then you can just trace like so:</p>
+<div class="igBar"><span id="lactionscript-10"><a href="#" onclick="javascript:showPlainTxt('actionscript-10'); return false;">PLAIN TEXT</a></span></div>
+<div class="syntax_hilite"><span class="langName">Actionscript:</span><br />
+<div id="actionscript-10">
+<div class="actionscript">
+<ol>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;">xtrace<span style="color: #66cc66;">&#40;</span><span style="color: #ff0000;">"hello world"</span><span style="color: #66cc66;">&#41;</span>; </div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<p></p>
+<p>Note, this only works if you are launching the swf in a tab in FlashDevelop.</p>
+<p>When you're ready to test it, hit the Ant Build button, which should now be on your toolbar, or hit the shortcut key you chose, and your class should be compiled into a new swf and launched in a new tab (or standalone or html, if you changed that).</p>
+<p>Also note that you can change the template files themselves so that you don't always need to do a lot of the above when you create a new project. Anything changed in the templates will be copied to any new project. Um... that's why they call it a template.</p>
+<p><strong>Summary </strong></p>
+<p>All of the above should take you no more than a half an hour to set up, and it results in a pretty full-featured AS3 coding environment, currently rivaled only by Flex Builder 2 (as far as I know). Many thanks to Philippe at FlashDevelop and <a target="_blank" href="http://www.returnundefined.com/">Ben Clinkinbeard</a> for making all of this possible.</p>
+<p><strong>Links</strong></p>
+<p>Here are some various links that may contain some more information on some of the stuff I mentioned here:</p>
+<p><a target="_blank" href="http://www.flashdevelop.org/community/viewtopic.php?t=757">http://www.flashdevelop.org/community/viewtopic.php?t=757</a></p>
+<p><a target="_blank" href="http://www.flashdevelop.org/community/viewtopic.php?t=796">http://www.flashdevelop.org/community/viewtopic.php?t=796</a></p>
+<p><a target="_blank" href="http://www.flashdevelop.org/community/viewtopic.php?t=725">http://www.flashdevelop.org/community/viewtopic.php?t=725</a></p>
+<p><a target="_blank" href="http://www.bit-101.com/blog/?p=842">http://www.bit-101.com/blog/?p=842</a></p>
+<p><a target="_blank" href="http://www.bit-101.com/blog/?p=843">http://www.bit-101.com/blog/?p=843</a></p>
+<p><a target="_blank" href="http://www.bit-101.com/blog/?p=845">http://www.bit-101.com/blog/?p=845</a></p>
+<p><a target="_blank" href="http://www.bit-101.com/blog/?p=846">http://www.bit-101.com/blog/?p=846</a></p>
+<p><a target="_blank" href="http://www.bit-101.com/blog/?p=847">http://www.bit-101.com/blog/?p=847</a></p>
+<p><strong>Alternatives</strong></p>
+<p>I also want to call attention to the FlashBuild plugin for FlashDevelop, which is an alternative to using Apache Ant. It is a good tool, and may be easier for many users. Personally, I've used Ant a lot, so I am comfortable with it and find that I can do a lot with it, so that's what this tutorial is based on.</p>
+<p>More about FlashBuild:</p>
+<p><a target="_blank" href="http://www.flashdevelop.org/community/viewtopic.php?t=287">http://www.flashdevelop.org/community/viewtopic.php?t=287</a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=849</wfw:commentRSS>
+		</item>
+		<item>
+		<title>FlashDevelop getting AS3 Support!</title>
+		<link>http://www.bit-101.com/blog/?p=848</link>
+		<comments>http://www.bit-101.com/blog/?p=848#comments</comments>
+		<pubDate>Sat, 05 Aug 2006 12:58:40 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=848</guid>
+		<description><![CDATA[It's in a very early stage, and you have to ask nicely to get the needed files, but it is beginning.
+Check out these forum threads:
+http://www.flashdevelop.org/community/viewtopic.php?t=725 (particularly the last page or two)
+http://www.flashdevelop.org/community/viewtopic.php?t=796
+The upgrade consists of a new ASCompletion.dll (provided by Philippe of FD) that supports some of the newer AS3 structures, and a set of "intrinsic" [...]]]></description>
+			<content:encoded><![CDATA[<p>It's in a very early stage, and you have to ask nicely to get the needed files, but it is beginning.</p>
+<p>Check out these forum threads:</p>
+<p><a target="_blank" href="http://www.flashdevelop.org/community/viewtopic.php?t=725">http://www.flashdevelop.org/community/viewtopic.php?t=725</a> (particularly the last page or two)</p>
+<p><a target="_blank" href="http://www.flashdevelop.org/community/viewtopic.php?t=796">http://www.flashdevelop.org/community/viewtopic.php?t=796</a></p>
+<p>The upgrade consists of a new ASCompletion.dll (provided by Philippe of FD) that supports some of the newer AS3 structures, and a set of "intrinsic" classes developed by <a target="_blank" href="http://www.returnundefined.com/">Ben Clinkinbeard</a>. Still needs some work, but it's an <strong><em>awesome </em></strong>step in the right direction. Nice job guys!
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=848</wfw:commentRSS>
+		</item>
+		<item>
+		<title>FlashDevelop Tip o’ the Day</title>
+		<link>http://www.bit-101.com/blog/?p=847</link>
+		<comments>http://www.bit-101.com/blog/?p=847#comments</comments>
+		<pubDate>Sat, 05 Aug 2006 12:23:55 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=847</guid>
+		<description><![CDATA[If you are a FlashDevelop Power User, you've probably gotten pretty use to editing all those xml files to change your main menu, tool bar, add keyboard shortcuts, etc. And you've probably gotten sick of navigaging to C:/Program Files/FlashDevelop/Settings over and over and created a shortcut to that directory somewhere.
+Now, with the RunCommand Plugin, you [...]]]></description>
+			<content:encoded><![CDATA[<p>If you are a FlashDevelop Power User, you've probably gotten pretty use to editing all those xml files to change your main menu, tool bar, add keyboard shortcuts, etc. And you've probably gotten sick of navigaging to C:/Program Files/FlashDevelop/Settings over and over and created a shortcut to that directory somewhere.</p>
+<p>Now, with the RunCommand Plugin, you can easily go one step further, and create an options menu that gives you direct access to all the files in Settings. Just add this snippet to your MainMenu.xml file. I put mine just before the Help menu:</p>
+<p>< menu label="&#038;Options"><br />
+< button label="MainMenu" click="PluginCommand" tag="Edit;@APPDIR/Settings/MainMenu.xml" /><br />
+< button label="ScintillaMenu" click="PluginCommand" tag="Edit;@APPDIR/Settings/ScintillaMenu.xml" /><br />
+< button label="ScintillaNet" click="PluginCommand" tag="Edit;@APPDIR/Settings/ScintillaNet.xml" /><br />
+< button label="Settings" click="PluginCommand" tag="Edit;@APPDIR/Settings/Settings.xml" /><br />
+< button label="Snippets" click="PluginCommand" tag="Edit;@APPDIR/Settings/Snippets.xml" /><br />
+< button label="TabMenu" click="PluginCommand" tag="Edit;@APPDIR/Settings/TabMenu.xml" /><br />
+< button label="ToolBar" click="PluginCommand" tag="Edit;@APPDIR/Settings/ToolBar.xml" /><br />
+< /menu></p>
+<p>[edited to use the @APPDIR shortcut and remove a couple of files I was told should not be manually edited. also note that I need to insert spaces after the < char to keep WordPress from freaking out. remove them if it's a problem.]</p>
+<p>Don't forget to install the RunCommand plugin:</p>
+<p><a href="http://www.flashdevelop.org/community/viewtopic.php?p=3496">http://www.flashdevelop.org/community/viewtopic.php?p=3496</a>
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=847</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Another Quick AS3 / FlashDevelop Tip</title>
+		<link>http://www.bit-101.com/blog/?p=846</link>
+		<comments>http://www.bit-101.com/blog/?p=846#comments</comments>
+		<pubDate>Fri, 04 Aug 2006 17:48:02 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=846</guid>
+		<description><![CDATA[Add the following line to your toolbar.xml file:
+< button label="AS3 Docs" click="RunProcess" image="25" tag="http://livedocs.macromedia.com/flex/2/langref/index.html" />
+Not a whole lot of explanation needed, but I know it's going to save me time.
+
+]]></description>
+			<content:encoded><![CDATA[<p>Add the following line to your toolbar.xml file:</p>
+<p>< button label="AS3 Docs" click="RunProcess" image="25" tag="http://livedocs.macromedia.com/flex/2/langref/index.html" /></p>
+<p>Not a whole lot of explanation needed, but I know it's going to save me time.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=846</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Even better AS3 tracing in FlashDevelop</title>
+		<link>http://www.bit-101.com/blog/?p=845</link>
+		<comments>http://www.bit-101.com/blog/?p=845#comments</comments>
+		<pubDate>Tue, 01 Aug 2006 17:31:07 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=845</guid>
+		<description><![CDATA[I realized that a package can contain a function directly, rather than going through a class. So you can do something like this:
+PLAIN TEXT
+Actionscript:
+
+
+
+
+package org.flashdevelop.utils &#123;
+
+
+import flash.system.fscommand;
+
+
+public function xtrace&#40;msg:Object&#41;:void
+
+
+&#123;
+
+
+fscommand&#40;"trace", msg.toString&#40;&#41;&#41;;
+
+
+&#125;
+
+
+&#125; 
+
+
+
+
+
+
+And save that in a file named xtrace.as.
+Now you import the function:
+import org.flashdevelop.xtrace;
+and use it:
+xtrace("hello world");
+Note that simply naming it "trace" causes a conflict with [...]]]></description>
+			<content:encoded><![CDATA[<p>I realized that a package can contain a function directly, rather than going through a class. So you can do something like this:</p>
+<div class="igBar"><span id="lactionscript-12"><a href="#" onclick="javascript:showPlainTxt('actionscript-12'); return false;">PLAIN TEXT</a></span></div>
+<div class="syntax_hilite"><span class="langName">Actionscript:</span><br />
+<div id="actionscript-12">
+<div class="actionscript">
+<ol>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;">package org.<span style="color: #006600;">flashdevelop</span>.<span style="color: #006600;">utils</span> <span style="color: #66cc66;">&#123;</span></div>
+</li>
+<li style="font-weight: bold;color:#26536A;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">import</span> flash.<span style="color: #0066CC;">system</span>.<span style="color: #0066CC;">fscommand</span>;</div>
+</li>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">public</span> <span style="color: #000000; font-weight: bold;">function</span> xtrace<span style="color: #66cc66;">&#40;</span>msg:<span style="color: #0066CC;">Object</span><span style="color: #66cc66;">&#41;</span>:<span style="color: #0066CC;">void</span></div>
+</li>
+<li style="font-weight: bold;color:#26536A;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #66cc66;">&#123;</span></div>
+</li>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #0066CC;">fscommand</span><span style="color: #66cc66;">&#40;</span><span style="color: #ff0000;">"trace"</span>, msg.<span style="color: #0066CC;">toString</span><span style="color: #66cc66;">&#40;</span><span style="color: #66cc66;">&#41;</span><span style="color: #66cc66;">&#41;</span>;</div>
+</li>
+<li style="font-weight: bold;color:#26536A;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #66cc66;">&#125;</span></div>
+</li>
+<li style="font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;color:#3A6A8B;">
+<div style="font-family: 'Courier New', Courier, monospace; font-weight: normal;"><span style="color: #66cc66;">&#125;</span> </div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<p></p>
+<p>And save that in a file named xtrace.as.</p>
+<p>Now you import the function:</p>
+<blockquote><p>import org.flashdevelop.xtrace;</p></blockquote>
+<p>and use it:</p>
+<blockquote><p>xtrace("hello world");</p></blockquote>
+<p>Note that simply naming it "trace" causes a conflict with the existing trace function.
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=845</wfw:commentRSS>
+		</item>
+		<item>
+		<title>IFBIN is Open and Free!</title>
+		<link>http://www.bit-101.com/blog/?p=844</link>
+		<comments>http://www.bit-101.com/blog/?p=844#comments</comments>
+		<pubDate>Tue, 01 Aug 2006 14:44:32 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=844</guid>
+		<description><![CDATA[http://www.ifbin.com/
+You remember IFBIN? Tons of quality Flash and Flex example by top developers in the community?
+Wonder what happened to it? Well, Ted Patrick now works for Adobe, and IFBIN has been released free of charge to the community. There's some awesome stuff in there. Go get it!
+
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.ifbin.com/">http://www.ifbin.com/</a></p>
+<p>You remember IFBIN? Tons of quality Flash and Flex example by top developers in the community?</p>
+<p>Wonder what happened to it? Well, <a target="_blank" href="http://www.onflex.org">Ted Patrick</a> now works for Adobe, and IFBIN has been released free of charge to the community. There's some awesome stuff in there. Go get it!
+</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=844</wfw:commentRSS>
+		</item>
+		<item>
+		<title>Tracing in FlashDevelop from AS3</title>
+		<link>http://www.bit-101.com/blog/?p=843</link>
+		<comments>http://www.bit-101.com/blog/?p=843#comments</comments>
+		<pubDate>Tue, 01 Aug 2006 11:43:17 +0000</pubDate>
+		<dc:creator>kp</dc:creator>
+		
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.bit-101.com/blog/?p=843</guid>
+		<description><![CDATA[Someone who was using my AS3 FlashDevelop Templates just asked how they could trace to the output panel in FlashDevelop. It just took a few minutes to come up with a solution, so I'll post it here for everyone. Just create the following class:
+package org.flashdevelop.utils {
+import flash.system.fscommand;
+public class FlashOut3
+{
+public static function trace(msg:Object):void
+{
+fscommand("trace", msg.toString());
+}
+}
+}
+and pop it [...]]]></description>
+			<content:encoded><![CDATA[<p>Someone who was using my AS3 FlashDevelop Templates just asked how they could trace to the output panel in FlashDevelop. It just took a few minutes to come up with a solution, so I'll post it here for everyone. Just create the following class:</p>
+<blockquote><p>package org.flashdevelop.utils {<br />
+import flash.system.fscommand;</p>
+<p>public class FlashOut3<br />
+{<br />
+public static function trace(msg:Object):void<br />
+{<br />
+fscommand("trace", msg.toString());<br />
+}<br />
+}<br />
+}</p></blockquote>
+<p>and pop it in the folder:</p>
+<blockquote><p>C:/Program Files/FlashDevelop/Tools/</p></blockquote>
+<p>Then replace the compile target in your build.xml with the following:</p>
+<blockquote>
+<pre>< target name="compile"></pre>
+<pre>< exec executable="${flex2.dir}/${compiler}"></pre>
+<pre>< arg line="-source-path='C:/Program Files/FlashDevelop/Library'" /></pre>
+<pre>< arg line="-default-frame-rate=${framerate}" /></pre>
+<pre>< arg line="-default-background-color=0x${background.color}" /></pre>
+<pre>< arg line="-default-size ${width} ${height}" /></pre>
+<pre>< arg line="'${basedir}/${source.dir}/${source.file}'" /></pre>
+<pre>< arg line="-o=${output.file}"/></pre>
+<pre>< /exec></pre>
+<pre>< /target></pre>
+</blockquote>
+<p>Or you can just add in that third line there, with the -source-path argument.</p>
+<p>Now, in any class where you want to trace something, you'll have to import the FlashOut3 class:</p>
+<blockquote><p>import org.flashdevelop.utils.Flashout3;</p></blockquote>
+<p>And then you can trace to the output panel like so:</p>
+<blockquote><p>Flashout3.trace("hello world");</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.bit-101.com/blog/?feed=rss2&amp;p=843</wfw:commentRSS>
+		</item>
+	</channel>
+</rss>

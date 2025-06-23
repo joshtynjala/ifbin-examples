@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>rewindlife</title>
+<link>http://www.rewindlife.com/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator>chafic@rewindlife.com</dc:creator>
+<dc:date>2005-11-15T22:17:55-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.64" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+<item>
+<title>In Amsterdam for Spark, and speaking about Flex 2</title>
+<link>http://www.rewindlife.com/archives/000240.cfm</link>
+<description>I&apos;m in Amsterdam this week for Spark Europe and will be speaking on &quot;Introduction to Flex 2.0&quot;. In the session give a good overview of what Flex 2 is all about, how it relates to the rest of the Flash...</description>
+<guid isPermaLink="false">240@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-11-15T22:17:55-05:00</dc:date>
+</item>
+<item>
+<title>labs.macromedia.com up, check out the next generation Flash platform first hand!</title>
+<link>http://www.rewindlife.com/archives/000239.cfm</link>
+<description>Just wanted to point to http://labs.macromedia.com/ which just went live. Will post more thoughts later. Let the fun begin :)...</description>
+<guid isPermaLink="false">239@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-10-17T00:38:50-05:00</dc:date>
+</item>
+<item>
+<title>Off to MAX 2005 in an hour</title>
+<link>http://www.rewindlife.com/archives/000237.cfm</link>
+<description>I&apos;m about to head to the airport to catch my flight to California to attend MAX 2005. I wasn&apos;t originally planning on going to MAX this year but changed my mind last minute. This will most likely be the last...</description>
+<guid isPermaLink="false">237@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-10-16T11:29:35-05:00</dc:date>
+</item>
+<item>
+<title>Kick ass Flash Developer Position</title>
+<link>http://www.rewindlife.com/archives/000236.cfm</link>
+<description>I have a position on my team for a kick ass Flash Developer. Here are some details. Job needs 1. Expert in Flash and AS2 2. Expert in OOP 3. Experience in developing components and component based development is a...</description>
+<guid isPermaLink="false">236@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-10-11T11:52:22-05:00</dc:date>
+</item>
+<item>
+<title>Announcing Atellis my new company, and no longer at B-Line Express</title>
+<link>http://www.rewindlife.com/archives/000235.cfm</link>
+<description>I&apos;ve been busy for the past few months as a few close friends know setting up a new company called Atellis with my partner Lucas Huang. I haven&apos;t been at B-Line Express for months now but held off on blogging...</description>
+<guid isPermaLink="false">235@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-09-28T13:15:36-05:00</dc:date>
+</item>
+<item>
+<title>The making of Flash 8 Video</title>
+<link>http://www.rewindlife.com/archives/000234.cfm</link>
+<description>Macromedia has posted a video going through the last 41 days up to the shipping of Flash 8. Great inside look into Macromedia, check it out. If you watch closely you&apos;ll see some non-macromedia folks in there too from the...</description>
+<guid isPermaLink="false">234@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-09-27T19:42:00-05:00</dc:date>
+</item>
+<item>
+<title>Off to FlashForward</title>
+<link>http://www.rewindlife.com/archives/000233.cfm</link>
+<description>I’m getting all packed up to head to FlashForward NY 2005 this week. The event is looking great this year. They seem to have made some adjustments, and their speaker lineup looks great too. It also helps that it’s in...</description>
+<guid isPermaLink="false">233@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-07-05T08:15:34-05:00</dc:date>
+</item>
+<item>
+<title>A review of FDT, the Commercial Flash Eclipse Plugin</title>
+<link>http://www.rewindlife.com/archives/000232.cfm</link>
+<description>I had the chance to spend a bit of time playing with FDT this weekend, a commercial Eclipse plugin in development and wanted to share some thoughts. I’ve been an avid PrimalScript user for a while now, I won’t get...</description>
+<guid isPermaLink="false">232@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-07-05T02:06:32-05:00</dc:date>
+</item>
+<item>
+<title>At CFUnited this week, speaking about Flash and .Net Integration on the Desktop</title>
+<link>http://www.rewindlife.com/archives/000231.cfm</link>
+<description>I’m attending/speaking at CFUnited this week. CFUnited is the largest ColdFusion conference, and this year looks to be a great event. The CFUnited team has done a great job with the session lineup, speakers, and the venue which is being...</description>
+<guid isPermaLink="false">231@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-06-29T13:04:48-05:00</dc:date>
+</item>
+<item>
+<title>Limit Line support added to B-Line Charting Components 3.0</title>
+<link>http://www.rewindlife.com/archives/000230.cfm</link>
+<description>We just released an updated to B-Line Charting Components 3.0 with added support for limit lines, enhanced Flash Player 6 support, and enhanced version readability. The limit line support is something that&apos;s often requested and can be used in many...</description>
+<guid isPermaLink="false">230@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-06-13T00:02:09-05:00</dc:date>
+</item>
+<item>
+<title>A Big Day for Flash, Flash Platform and Macromedia Joining the Eclipse Foundation</title>
+<link>http://www.rewindlife.com/archives/000229.cfm</link>
+<description>Seems like a big day in announcements from Macromedia. First, Macromedia launches a portion of its website dedicated to the &quot;Flash Platform&quot; Some intersting documents on the Flash Platform An Overview of the Macromedia Platform by Kevin Lynch Delivering Enterprise...</description>
+<guid isPermaLink="false">229@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-06-06T02:21:12-05:00</dc:date>
+</item>
+<item>
+<title>Moock&apos;s Bootcamp, if you can make it go!</title>
+<link>http://www.rewindlife.com/archives/000228.cfm</link>
+<description>Just in case anyone missed it, Colin will be giving a two day bootcamp taking someone from ground zero with little coding experience all the way to ActionScript 2.0 and Object Oriented Programming. Depending on your experience, be it a...</description>
+<guid isPermaLink="false">228@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-05-18T00:59:24-05:00</dc:date>
+</item>
+<item>
+<title>Sybase SQL not same as Microsoft SQL</title>
+<link>http://www.rewindlife.com/archives/000227.cfm</link>
+<description>I&apos;ve always heard that Sybase SQL Server was essentially the same as Microsoft SQL Server. I&apos;ve even read about developers authoring applications against MSSQL and then deploying to Sybase SQL. Well, this week I started on my first project with...</description>
+<guid isPermaLink="false">227@http://www.rewindlife.com/</guid>
+<dc:subject>ColdFusion</dc:subject>
+<dc:date>2005-05-12T00:44:21-05:00</dc:date>
+</item>
+<item>
+<title>Mission Critical Application Architecture and Flash</title>
+<link>http://www.rewindlife.com/archives/000226.cfm</link>
+<description><![CDATA[I&rsquo;ve been a bit late posting my slide notes, I had to clean some of it up and remove some content that my company wanted to keep out. I had a lot of fun giving this presentation as it was...]]></description>
+<guid isPermaLink="false">226@http://www.rewindlife.com/</guid>
+<dc:subject>Flash</dc:subject>
+<dc:date>2005-05-07T21:45:55-05:00</dc:date>
+</item>
+<item>
+<title>New Microsoft Office Integration content in Advanced ColdFusion MX 7 Application Development</title>
+<link>http://www.rewindlife.com/archives/000225.cfm</link>
+<description>I just learned that Advanced ColdFusion MX 7 Application Development is shipping. The sites have not been updated yet, but it is shipping. This update has a ton of great new content, including a whole chapter on MS Office integration...</description>
+<guid isPermaLink="false">225@http://www.rewindlife.com/</guid>
+<dc:subject>ColdFusion</dc:subject>
+<dc:date>2005-04-26T22:54:08-05:00</dc:date>
+</item>
+
+
+</channel>
+</rss>

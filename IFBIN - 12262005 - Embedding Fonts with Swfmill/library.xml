@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<!-- The "movie" tag is the root tag for our XML.
+	The "version" tag sets it to compile for Flash 8. 
+	The "height" and "width" tags set the SWF dimensions, 
+	and "framerate" sets the number of frames per second. -->
+<movie version="8" width="350" height="100" framerate="30">
+
+	<!-- The background color of the Stage. -->
+	<background color="#ffffff"/>
+
+	<!-- Our font can be used in the first frame or later. -->
+	<frame>
+		<!--
+		The id attribute is the name of the font you can use with a TextFormat object.
+		Import specifies the location of the font file. It can be absolute, like the example
+			below, or relative to the folder the SWF is in.
+		Glyphs allows you to specify which characters you want to you embed. Here we are only
+			using a few. By specifying the exact characters you want to use, you can save space
+			because you aren't including the whole typeface.
+			
+		Note: Bold, Italic, and Underline styling typically appears in seperate font files.
+			You should check your fonts directory for the exact name of the font required.
+		-->
+		<font id="Arial Black" import="c:/windows/fonts/ariblk.ttf" glyphs= "IFBIN" />
+	</frame>
+</movie>
